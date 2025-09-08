@@ -1,0 +1,9 @@
+name: ISO/IEC 42001:2023
+description: 2023 version
+link: https://www.iso.org/obp/ui/es/#iso:std:iso-iec:42001:ed-1:v1:en
+date: 2023-12-18
+update: false
+type: resource
+category: certifications
+impact: product_security
+public: true
