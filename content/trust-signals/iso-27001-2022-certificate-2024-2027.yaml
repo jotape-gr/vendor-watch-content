@@ -3,6 +3,9 @@ description: >-
   ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection
   — Information security management systems — Requirements
 link: https://www.iso.org/standard/27001
+icon:
+  type: lucide
+  lucideIcon: shield-check
 type: resource
 category: certifications
 impact: organizational_security
