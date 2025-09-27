@@ -3,6 +3,9 @@ description: >-
   ISO/IEC 42001:2023 Information technology — Artificial intelligence —
   Management system
 link: https://www.iso.org/obp/ui/es/#iso:std:iso-iec:42001:ed-1:v1:en
+icon:
+  type: lucide
+  lucideIcon: shield-check
 type: resource
 category: certifications
 impact: organizational_security
