@@ -1,0 +1,13 @@
+name: Cryptographic Key Management Policy
+description: >-
+  Cryptographic Key Management Policy - A document that establishes guidelines 
+  for the secure generation, storage, distribution, rotation, and destruction 
+  of cryptographic keys used to protect sensitive data, including key lifecycle 
+  management and access controls
+link: https://www.nist.gov/publications/key-management-guidelines-part-1-general
+icon:
+  type: lucide
+  lucideIcon: key
+type: resource
+category: policies
+impact: infrastructure_security

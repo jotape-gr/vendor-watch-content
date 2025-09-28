@@ -1,0 +1,13 @@
+name: Risk Management Policy
+description: >-
+  Risk Management Policy - A document that establishes a systematic approach 
+  to identifying, assessing, treating, and monitoring risks across the organization, 
+  including risk assessment methodologies, tolerance levels, mitigation strategies, 
+  and governance processes
+link: https://www.iso.org/standard/31000
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: resource
+category: policies
+impact: organizational_security

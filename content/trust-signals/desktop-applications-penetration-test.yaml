@@ -1,0 +1,13 @@
+name: Desktop Applications Penetration Test
+description: >-
+  Desktop Applications Penetration Test - A third-party security assessment 
+  that evaluates the security posture of desktop applications by testing for 
+  vulnerabilities such as buffer overflows, privilege escalation, insecure 
+  data storage, and other client-side security issues
+link: https://owasp.org/www-project-top-10/
+icon:
+  type: lucide
+  lucideIcon: monitor
+type: resource
+category: penetration_testing
+impact: infrastructure_security

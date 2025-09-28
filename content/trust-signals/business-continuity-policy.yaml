@@ -1,0 +1,13 @@
+name: Business Continuity Policy
+description: >-
+  Business Continuity Policy - A document that outlines procedures and strategies 
+  for maintaining business operations during and after disruptive events, including 
+  disaster recovery plans, backup procedures, alternative work arrangements, 
+  and service restoration protocols
+link: https://www.iso.org/standard/22301
+icon:
+  type: lucide
+  lucideIcon: refresh-cw
+type: resource
+category: policies
+impact: organizational_security

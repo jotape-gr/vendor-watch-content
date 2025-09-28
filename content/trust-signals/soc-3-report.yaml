@@ -1,0 +1,13 @@
+name: SOC 3 Report
+description: >-
+  Service Organization Control 3 Report - A public-facing summary of SOC 2 
+  examination results that provides general information about a service 
+  organization's controls related to security, availability, processing 
+  integrity, confidentiality, and privacy without revealing sensitive details
+link: https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security

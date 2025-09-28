@@ -1,0 +1,13 @@
+name: CSA CAIQ
+description: >-
+  Cloud Security Alliance Consensus Assessments Initiative Questionnaire - A 
+  standardized questionnaire that helps cloud service providers document 
+  their security controls and practices, enabling customers to assess 
+  cloud security posture and compliance with industry standards
+link: https://cloudsecurityalliance.org/artifacts/consensus-assessments-initiative-questionnaire-caiq-v4/
+icon:
+  type: lucide
+  lucideIcon: file-check
+type: resource
+category: questionnaires
+impact: organizational_security

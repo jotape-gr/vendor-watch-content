@@ -1,0 +1,13 @@
+name: Third-party Agreements Established
+description: >-
+  Third-party Agreements Established - Formal contractual agreements with 
+  external vendors, suppliers, and service providers that include security 
+  requirements, data protection clauses, compliance obligations, and 
+  accountability measures to ensure third-party risk management
+link: https://www.iso.org/standard/27001
+icon:
+  type: lucide
+  lucideIcon: file-signature
+type: resource
+category: controls
+impact: organizational_security

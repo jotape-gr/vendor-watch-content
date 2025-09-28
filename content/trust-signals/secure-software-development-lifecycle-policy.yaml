@@ -1,0 +1,13 @@
+name: Secure Software Development Lifecycle Policy
+description: >-
+  Secure Software Development Lifecycle Policy - A document that establishes 
+  security practices and controls throughout the software development process, 
+  including secure coding standards, security testing requirements, code review 
+  procedures, and vulnerability management protocols
+link: https://owasp.org/www-project-application-security-verification-standard/
+icon:
+  type: lucide
+  lucideIcon: code-2
+type: resource
+category: policies
+impact: infrastructure_security

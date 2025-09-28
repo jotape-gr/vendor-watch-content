@@ -1,0 +1,13 @@
+name: External Network Penetration Test
+description: >-
+  External Network Penetration Test - A third-party security assessment that 
+  simulates real-world cyber attacks against an organization's external-facing 
+  network infrastructure, systems, and applications to identify vulnerabilities 
+  and security weaknesses from an attacker's perspective
+link: https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/01-Information_Gathering/
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: resource
+category: penetration_testing
+impact: infrastructure_security

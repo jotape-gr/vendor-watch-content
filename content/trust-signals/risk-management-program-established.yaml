@@ -1,0 +1,13 @@
+name: Risk Management Program Established
+description: >-
+  Risk Management Program Established - A formal organizational program that 
+  systematically identifies, assesses, treats, and monitors risks across 
+  the enterprise, including governance structures, methodologies, tools, 
+  and regular reporting to senior management and stakeholders
+link: https://www.iso.org/standard/31000
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: resource
+category: controls
+impact: organizational_security
