@@ -7,7 +7,7 @@ description: >-
 link: https://owasp.org/www-project-mobile-security-testing-guide/
 icon:
   type: lucide
-  lucideIcon: smartphone
+  lucideIcon: phone
 type: resource
 category: penetration_testing
 impact: infrastructure_security

@@ -7,7 +7,7 @@ description: >-
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide
-  lucideIcon: shield-lock
+  lucideIcon: shield-check
 type: resource
 category: diagrams_reports
 impact: data_protection
