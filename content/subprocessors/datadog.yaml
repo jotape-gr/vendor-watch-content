@@ -1,0 +1,21 @@
+name: datadog
+usage: |
+  Application performance monitoring and logging. Provides comprehensive monitoring, logging, and analytics for applications, infrastructure, and security across the entire technology stack.
+description: |
+  Datadog is a monitoring and analytics platform for cloud-scale applications. It provides monitoring, logging, and analytics for applications, infrastructure, and security, helping organizations improve performance, reduce downtime, and enhance security across their entire technology stack.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.datadoghq.com/
+  - label: Privacy Policy
+    url: https://www.datadoghq.com/legal/privacy/
+  - label: Data Processing Agreement
+    url: https://www.datadoghq.com/legal/data-processing-agreement/
+  - label: Security & Compliance
+    url: https://www.datadoghq.com/security/
+  - label: Trust Center
+    url: https://www.datadoghq.com/trust/
+logo: null
+score: low
+category: monitoring
+date: 2024-01-15

@@ -1,0 +1,21 @@
+name: mixpanel
+usage: |
+  Product analytics and user event tracking. Provides detailed insights into user behavior, feature usage, and product performance to help optimize user experience and product development.
+description: |
+  Mixpanel is a business analytics service that helps companies track user interactions with web and mobile applications. It provides tools for tracking user behavior, analyzing product performance, and understanding customer engagement through event-based analytics.
+country: United States
+urls:
+  - label: Official Website
+    url: https://mixpanel.com/
+  - label: Privacy Policy
+    url: https://mixpanel.com/legal/privacy-policy/
+  - label: Data Processing Agreement
+    url: https://mixpanel.com/legal/data-processing-agreement/
+  - label: Security & Compliance
+    url: https://mixpanel.com/security/
+  - label: Trust Center
+    url: https://mixpanel.com/trust/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15

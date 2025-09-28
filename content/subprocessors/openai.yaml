@@ -1,0 +1,21 @@
+name: openai
+usage: |
+  AI language models and machine learning services. Provides advanced AI capabilities including natural language processing, text generation, and machine learning APIs for applications requiring AI functionality.
+description: |
+  OpenAI is an AI research company that develops and provides access to advanced artificial intelligence systems. It offers language models, machine learning APIs, and AI tools that can be integrated into applications to provide intelligent capabilities.
+country: United States
+urls:
+  - label: Official Website
+    url: https://openai.com/
+  - label: Privacy Policy
+    url: https://openai.com/privacy/
+  - label: Data Processing Agreement
+    url: https://openai.com/data-processing-agreement/
+  - label: Security & Compliance
+    url: https://openai.com/security/
+  - label: Trust Center
+    url: https://openai.com/trust/
+logo: null
+score: high
+category: ai_usage
+date: 2024-01-15

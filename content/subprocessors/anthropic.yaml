@@ -1,0 +1,21 @@
+name: anthropic
+usage: |
+  AI safety and language model services. Provides advanced AI language models with focus on safety and helpfulness for applications requiring reliable AI capabilities.
+description: |
+  Anthropic is an AI safety company that develops and provides access to advanced artificial intelligence systems with a focus on safety and helpfulness. It offers language models and AI tools designed to be more reliable and aligned with human values.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.anthropic.com/
+  - label: Privacy Policy
+    url: https://www.anthropic.com/privacy
+  - label: Data Processing Agreement
+    url: https://www.anthropic.com/data-processing-agreement
+  - label: Security & Compliance
+    url: https://www.anthropic.com/security
+  - label: Trust Center
+    url: https://www.anthropic.com/trust
+logo: null
+score: high
+category: ai_usage
+date: 2024-01-15

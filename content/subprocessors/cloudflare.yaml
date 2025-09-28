@@ -1,0 +1,21 @@
+name: cloudflare
+usage: |
+  CDN, DDoS protection, and web security services. Provides content delivery, DNS, SSL/TLS certificates, and security features to protect and accelerate websites and applications.
+description: |
+  Cloudflare is a web infrastructure and website security company that provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services. It serves as a reverse proxy for websites and provides security services.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.cloudflare.com/
+  - label: Privacy Policy
+    url: https://www.cloudflare.com/privacypolicy/
+  - label: Security & Compliance
+    url: https://www.cloudflare.com/security/
+  - label: Data Processing Agreement
+    url: https://www.cloudflare.com/cloudflare-customer-dpa/
+  - label: Trust Hub
+    url: https://www.cloudflare.com/trust-hub/
+logo: null
+score: low
+category: infrastructure
+date: 2024-01-15

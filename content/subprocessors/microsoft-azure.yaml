@@ -1,0 +1,21 @@
+name: microsoft-azure
+usage: |
+  Cloud platform and infrastructure services including compute, storage, networking, databases, and AI services. Provides enterprise-grade cloud solutions for applications and data.
+description: |
+  Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
+country: United States
+urls:
+  - label: Official Website
+    url: https://azure.microsoft.com/
+  - label: Privacy Statement
+    url: https://privacy.microsoft.com/privacystatement
+  - label: Compliance Offerings
+    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/
+  - label: Data Protection
+    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/data-protection/
+  - label: Trust Center
+    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/
+logo: null
+score: low
+category: infrastructure
+date: 2024-01-15

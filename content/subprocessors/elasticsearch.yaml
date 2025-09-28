@@ -1,0 +1,21 @@
+name: elasticsearch
+usage: |
+  Search and analytics engine. Provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
+description: |
+  Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. It provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.elastic.co/
+  - label: Privacy Policy
+    url: https://www.elastic.co/legal/privacy-statement
+  - label: Data Processing Agreement
+    url: https://www.elastic.co/legal/data-processing-agreement
+  - label: Security & Compliance
+    url: https://www.elastic.co/security
+  - label: Trust Center
+    url: https://www.elastic.co/trust
+logo: null
+score: medium
+category: data-storage
+date: 2024-01-15

@@ -1,0 +1,21 @@
+name: paypal
+usage: |
+  Payment processing and digital wallet services. Provides online payment processing, digital wallet, and financial services for businesses and consumers.
+description: |
+  PayPal is a financial technology company that operates an online payments system in the majority of countries that support online money transfers. It provides payment processing, digital wallet services, and financial infrastructure for online businesses and consumers.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.paypal.com/
+  - label: Privacy Policy
+    url: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+  - label: Data Processing Agreement
+    url: https://www.paypal.com/us/webapps/mpp/ua/data-processing-agreement
+  - label: Security & Compliance
+    url: https://www.paypal.com/us/webapps/mpp/security
+  - label: Trust Center
+    url: https://www.paypal.com/us/webapps/mpp/trust
+logo: null
+score: medium
+category: payment-processing
+date: 2024-01-15

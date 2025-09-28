@@ -1,0 +1,21 @@
+name: twilio
+usage: |
+  Communication APIs for SMS, voice, and video. Provides programmable communication services including messaging, voice calls, and video conferencing through APIs.
+description: |
+  Twilio is a cloud communications platform that provides APIs for sending and receiving text messages, making and receiving phone calls, and other communication functions. It enables developers to integrate communication features into their applications through simple APIs.
+country: United States
+urls:
+  - label: Official Website
+    url: https://www.twilio.com/
+  - label: Privacy Policy
+    url: https://www.twilio.com/legal/privacy
+  - label: Data Processing Agreement
+    url: https://www.twilio.com/legal/data-protection-addendum
+  - label: Security & Compliance
+    url: https://www.twilio.com/security
+  - label: Trust Center
+    url: https://www.twilio.com/trust
+logo: null
+score: low
+category: communication
+date: 2024-01-15

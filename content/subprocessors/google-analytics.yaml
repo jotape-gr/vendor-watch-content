@@ -1,0 +1,21 @@
+name: google-analytics
+usage: |
+  Web analytics and user behavior tracking. Provides insights into website traffic, user interactions, and conversion metrics for data-driven decision making.
+description: |
+  Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. It provides detailed statistics about website visitors and their behavior, helping businesses understand their audience and optimize their online presence.
+country: United States
+urls:
+  - label: Official Website
+    url: https://analytics.google.com/
+  - label: Privacy Policy
+    url: https://policies.google.com/privacy
+  - label: Data Processing Terms
+    url: https://privacy.google.com/businesses/processorterms/
+  - label: Analytics Help
+    url: https://support.google.com/analytics/
+  - label: Google Ads Data Processing Terms
+    url: https://privacy.google.com/businesses/processorterms/ads/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15

@@ -1,0 +1,21 @@
+name: circleci
+usage: |
+  Continuous integration and deployment. Provides automated testing, building, and deployment services to help development teams deliver code faster and more reliably.
+description: |
+  CircleCI is a continuous integration and continuous deployment platform that helps development teams automate their software development process. It provides automated testing, building, and deployment services to help teams deliver code faster and more reliably.
+country: United States
+urls:
+  - label: Official Website
+    url: https://circleci.com/
+  - label: Privacy Policy
+    url: https://circleci.com/privacy/
+  - label: Data Processing Agreement
+    url: https://circleci.com/legal/data-processing-agreement/
+  - label: Security & Compliance
+    url: https://circleci.com/security/
+  - label: Trust Center
+    url: https://circleci.com/trust/
+logo: null
+score: low
+category: development
+date: 2024-01-15

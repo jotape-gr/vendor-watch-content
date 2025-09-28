@@ -1,0 +1,21 @@
+name: gitlab
+usage: |
+  DevOps platform and code repository. Provides complete DevOps lifecycle management including code hosting, CI/CD, project management, and security scanning.
+description: |
+  GitLab is a web-based DevOps lifecycle tool that provides a Git repository manager providing wiki, issue-tracking, and continuous integration and deployment pipeline features. It offers a complete DevOps platform for software development teams.
+country: United States
+urls:
+  - label: Official Website
+    url: https://gitlab.com/
+  - label: Privacy Policy
+    url: https://about.gitlab.com/privacy/
+  - label: Data Processing Agreement
+    url: https://about.gitlab.com/privacy/dpa/
+  - label: Security & Compliance
+    url: https://about.gitlab.com/security/
+  - label: Trust Center
+    url: https://about.gitlab.com/trust/
+logo: null
+score: low
+category: development
+date: 2024-01-15

@@ -1,0 +1,21 @@
+name: sendgrid
+usage: |
+  Email delivery and marketing services. Provides transactional email delivery, email marketing, and email analytics to help businesses communicate with their customers via email.
+description: |
+  SendGrid is a cloud-based email delivery service that helps businesses send transactional and marketing emails. It provides email delivery infrastructure, analytics, and tools to help businesses improve their email deliverability and engagement.
+country: United States
+urls:
+  - label: Official Website
+    url: https://sendgrid.com/
+  - label: Privacy Policy
+    url: https://sendgrid.com/policies/privacy/
+  - label: Data Processing Agreement
+    url: https://sendgrid.com/policies/data-processing-agreement/
+  - label: Security & Compliance
+    url: https://sendgrid.com/security/
+  - label: Trust Center
+    url: https://sendgrid.com/trust/
+logo: null
+score: medium
+category: communication
+date: 2024-01-15

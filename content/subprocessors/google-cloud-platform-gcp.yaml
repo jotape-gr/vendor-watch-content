@@ -1,0 +1,21 @@
+name: google-cloud-platform-gcp
+usage: |
+  Cloud computing and data storage services including compute, storage, networking, databases, and AI/ML services. Provides scalable cloud infrastructure for applications and data processing.
+description: |
+  Google Cloud Platform (GCP) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products. GCP offers services in computing, data storage, data analytics, and machine learning.
+country: United States
+urls:
+  - label: Official Website
+    url: https://cloud.google.com/
+  - label: Privacy Policy
+    url: https://cloud.google.com/terms/privacy
+  - label: Compliance & Security
+    url: https://cloud.google.com/security/compliance
+  - label: Data Processing Terms
+    url: https://cloud.google.com/terms/data-processing-terms
+  - label: Trust & Safety
+    url: https://cloud.google.com/security/trust
+logo: null
+score: low
+category: infrastructure
+date: 2024-01-15
