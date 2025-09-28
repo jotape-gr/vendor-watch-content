@@ -79,69 +79,129 @@ trustSignalItems:
 riskSignalItems: []
 subprocessorItems:
   - subprocessor: amazon-web-services-aws
-    usage: Primary cloud infrastructure hosting and data storage
-    description: AWS provides the core cloud infrastructure for Miro's platform, including compute, storage, and networking services
+    vendorCountry: Global (US, EU, APAC)
+    notes: Primary cloud infrastructure hosting and data storage. AWS provides the core cloud infrastructure for Miro's platform, including compute, storage, and networking services.
+    links:
+      - label: AWS Security
+        url: https://aws.amazon.com/security/
+      - label: AWS Compliance
+        url: https://aws.amazon.com/compliance/
     date: 2024-01-01
   - subprocessor: google-cloud-platform-gcp
-    usage: Additional cloud services and data processing
-    description: Google Cloud Platform provides supplementary cloud services and data processing capabilities
+    vendorCountry: Global (US, EU, APAC)
+    notes: Additional cloud services and data processing. Google Cloud Platform provides supplementary cloud services and data processing capabilities.
+    links:
+      - label: Google Cloud Security
+        url: https://cloud.google.com/security
+      - label: Google Cloud Compliance
+        url: https://cloud.google.com/security/compliance
     date: 2024-01-01
   - subprocessor: microsoft-azure
-    usage: Enterprise integration and additional cloud services
-    description: Microsoft Azure provides enterprise integration services and additional cloud infrastructure
+    vendorCountry: Global (US, EU, APAC)
+    notes: Enterprise integration and additional cloud services. Microsoft Azure provides enterprise integration services and additional cloud infrastructure.
+    links:
+      - label: Azure Security
+        url: https://azure.microsoft.com/en-us/security/
+      - label: Azure Compliance
+        url: https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/
     date: 2024-01-01
   - subprocessor: cloudflare
-    usage: CDN, DDoS protection, and web security services
-    description: Cloudflare provides content delivery network, DDoS protection, and web application security
+    vendorCountry: Global
+    notes: CDN, DDoS protection, and web security services. Cloudflare provides content delivery network, DDoS protection, and web application security.
+    links:
+      - label: Cloudflare Security
+        url: https://www.cloudflare.com/security/
+      - label: Cloudflare Compliance
+        url: https://www.cloudflare.com/compliance/
     date: 2024-01-01
   - subprocessor: datadog
-    usage: Application performance monitoring and observability
-    description: Datadog provides monitoring, logging, and observability services for Miro's infrastructure
+    vendorCountry: US
+    notes: Application performance monitoring and observability. Datadog provides monitoring, logging, and observability services for Miro's infrastructure.
+    links:
+      - label: Datadog Security
+        url: https://www.datadoghq.com/security/
+      - label: Datadog Compliance
+        url: https://www.datadoghq.com/compliance/
     date: 2024-01-01
   - subprocessor: sentry
-    usage: Error tracking and application monitoring
-    description: Sentry provides error tracking and performance monitoring for Miro's applications
+    vendorCountry: US
+    notes: Error tracking and application monitoring. Sentry provides error tracking and performance monitoring for Miro's applications.
+    links:
+      - label: Sentry Security
+        url: https://sentry.io/security/
+      - label: Sentry Compliance
+        url: https://sentry.io/security/compliance/
     date: 2024-01-01
   - subprocessor: intercom
-    usage: Customer support and communication platform
-    description: Intercom provides customer support tools and communication platform for user assistance
+    vendorCountry: US
+    notes: Customer support and communication platform. Intercom provides customer support tools and communication platform for user assistance.
+    links:
+      - label: Intercom Security
+        url: https://www.intercom.com/security
+      - label: Intercom Compliance
+        url: https://www.intercom.com/security/compliance
     date: 2024-01-01
   - subprocessor: zendesk
-    usage: Customer service and support ticketing system
-    description: Zendesk provides customer service platform and support ticket management
+    vendorCountry: US
+    notes: Customer service and support ticketing system. Zendesk provides customer service platform and support ticket management.
+    links:
+      - label: Zendesk Security
+        url: https://www.zendesk.com/security/
+      - label: Zendesk Compliance
+        url: https://www.zendesk.com/security/compliance/
     date: 2024-01-01
   - subprocessor: stripe
-    usage: Payment processing and billing services
-    description: Stripe provides payment processing and subscription billing services
+    vendorCountry: US
+    notes: Payment processing and billing services. Stripe provides payment processing and subscription billing services.
+    links:
+      - label: Stripe Security
+        url: https://stripe.com/docs/security
+      - label: Stripe Compliance
+        url: https://stripe.com/docs/security/stripe
     date: 2024-01-01
   - subprocessor: sendgrid
-    usage: Email delivery and marketing services
-    description: SendGrid provides email delivery services for notifications and marketing communications
+    vendorCountry: US
+    notes: Email delivery and marketing services. SendGrid provides email delivery services for notifications and marketing communications.
+    links:
+      - label: SendGrid Security
+        url: https://sendgrid.com/security/
+      - label: SendGrid Compliance
+        url: https://sendgrid.com/security/compliance/
     date: 2024-01-01
   - subprocessor: mixpanel
-    usage: Product analytics and user behavior tracking
-    description: Mixpanel provides product analytics and user behavior tracking services
+    vendorCountry: US
+    notes: Product analytics and user behavior tracking. Mixpanel provides product analytics and user behavior tracking services.
+    links:
+      - label: Mixpanel Security
+        url: https://mixpanel.com/security/
+      - label: Mixpanel Compliance
+        url: https://mixpanel.com/security/compliance/
     date: 2024-01-01
   - subprocessor: google-analytics
-    usage: Website analytics and user tracking
-    description: Google Analytics provides website analytics and user behavior insights
+    vendorCountry: Global
+    notes: Website analytics and user tracking. Google Analytics provides website analytics and user behavior insights.
+    links:
+      - label: Google Analytics Security
+        url: https://support.google.com/analytics/answer/6004245
+      - label: Google Analytics Compliance
+        url: https://support.google.com/analytics/answer/9019185
     date: 2024-01-01
 faqs:
-  - question: How does Miro ensure the security of my data?
-    answer: Miro employs a multilayered security approach including infrastructure security, operational security, and product security. Data at rest is encrypted using AES 256-bit encryption, and data in transit is encrypted using TLS 1.2. Miro holds ISO 27001:2013 certification and SOC 2 Type II attestation.
-  - question: Where is my data stored when using Miro?
-    answer: Miro offers regional data residency options, allowing customers to host their content in data centers located in their region of choice. This includes EU Data Residency for customers requiring data to be stored within the European Union for GDPR compliance.
-  - question: Does Miro use my data to train AI models?
-    answer: No, Miro does not use user data to train AI models. Customers can opt in or out of AI services, and users retain intellectual property rights to their AI-generated content. Miro has achieved ISO/IEC 42001:2023 certification for AI management systems.
-  - question: What security certifications does Miro hold?
-    answer: Miro holds several certifications including ISO 27001:2013, SOC 2 Type II, SOC 3, CSA CAIQ, and ISO/IEC 42001:2023 (AI Management System). These certifications demonstrate Miro's commitment to maintaining high standards of security and compliance.
-  - question: How does Miro handle data privacy and compliance?
-    answer: Miro complies with leading global regulations including GDPR and CCPA. The company offers regional data residency options and maintains comprehensive data protection policies. All subprocessors are contractually obligated to adhere to data protection standards consistent with Miro's commitments.
-  - question: What subprocessors does Miro use?
-    answer: Miro engages third-party subprocessors for infrastructure hosting (AWS, Google Cloud, Microsoft Azure), customer support (Intercom, Zendesk), monitoring (Datadog, Sentry), and other services. All subprocessors are contractually bound to maintain data protection standards.
-  - question: How often does Miro conduct security assessments?
-    answer: Miro conducts regular penetration testing across all components including external networks, web applications, mobile applications, desktop applications, and SDKs. The company also maintains ongoing security monitoring and incident response capabilities.
-  - question: Can I get a copy of Miro's security documentation?
-    answer: Yes, Miro provides comprehensive security documentation through their Trust Center including SOC reports, ISO certificates, security policies, penetration test results, and architecture diagrams. These are available to customers upon request.
+  - title: How does Miro ensure the security of my data?
+    description: Miro employs a multilayered security approach including infrastructure security, operational security, and product security. Data at rest is encrypted using AES 256-bit encryption, and data in transit is encrypted using TLS 1.2. Miro holds ISO 27001:2013 certification and SOC 2 Type II attestation.
+  - title: Where is my data stored when using Miro?
+    description: Miro offers regional data residency options, allowing customers to host their content in data centers located in their region of choice. This includes EU Data Residency for customers requiring data to be stored within the European Union for GDPR compliance.
+  - title: Does Miro use my data to train AI models?
+    description: No, Miro does not use user data to train AI models. Customers can opt in or out of AI services, and users retain intellectual property rights to their AI-generated content. Miro has achieved ISO/IEC 42001:2023 certification for AI management systems.
+  - title: What security certifications does Miro hold?
+    description: Miro holds several certifications including ISO 27001:2013, SOC 2 Type II, SOC 3, CSA CAIQ, and ISO/IEC 42001:2023 (AI Management System). These certifications demonstrate Miro's commitment to maintaining high standards of security and compliance.
+  - title: How does Miro handle data privacy and compliance?
+    description: Miro complies with leading global regulations including GDPR and CCPA. The company offers regional data residency options and maintains comprehensive data protection policies. All subprocessors are contractually obligated to adhere to data protection standards consistent with Miro's commitments.
+  - title: What subprocessors does Miro use?
+    description: Miro engages third-party subprocessors for infrastructure hosting (AWS, Google Cloud, Microsoft Azure), customer support (Intercom, Zendesk), monitoring (Datadog, Sentry), and other services. All subprocessors are contractually bound to maintain data protection standards.
+  - title: How often does Miro conduct security assessments?
+    description: Miro conducts regular penetration testing across all components including external networks, web applications, mobile applications, desktop applications, and SDKs. The company also maintains ongoing security monitoring and incident response capabilities.
+  - title: Can I get a copy of Miro's security documentation?
+    description: Yes, Miro provides comprehensive security documentation through their Trust Center including SOC reports, ISO certificates, security policies, penetration test results, and architecture diagrams. These are available to customers upon request.
 status: published
 ---
