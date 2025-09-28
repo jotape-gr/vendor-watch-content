@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/22301
 icon:
   type: lucide
-  lucideIcon: refresh-cw
+  lucideIcon: file-text
 type: resource
 category: policies
 impact: organizational_security

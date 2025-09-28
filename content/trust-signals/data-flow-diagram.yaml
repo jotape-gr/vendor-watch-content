@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
-  lucideIcon: arrow-right
+  lucideIcon: file
 type: resource
-category: diagrams_reports
-impact: data_protection
+category: diagrams
+impact: data_and_privacy

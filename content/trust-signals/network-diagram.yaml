@@ -7,7 +7,7 @@ description: >-
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide
-  lucideIcon: wifi
+  lucideIcon: file
 type: resource
-category: diagrams_reports
+category: diagrams
 impact: infrastructure_security

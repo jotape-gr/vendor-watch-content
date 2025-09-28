@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/31000
 icon:
   type: lucide
-  lucideIcon: search
+  lucideIcon: settings
 type: resource
 category: controls
 impact: organizational_security

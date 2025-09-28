@@ -7,7 +7,7 @@ description: >-
 link: https://www.ncsc.gov.uk/guidance/end-user-device-security-guidance-platform-specific-guidance
 icon:
   type: lucide
-  lucideIcon: shield-check
+  lucideIcon: file-text
 type: resource
 category: policies
 impact: infrastructure_security

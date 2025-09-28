@@ -7,7 +7,7 @@ description: >-
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide
-  lucideIcon: alert-triangle
+  lucideIcon: file-text
 type: resource
 category: policies
 impact: organizational_security

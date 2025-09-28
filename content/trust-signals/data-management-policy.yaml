@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/38505
 icon:
   type: lucide
-  lucideIcon: database
+  lucideIcon: file-text
 type: resource
 category: policies
-impact: data_protection
+impact: data_and_privacy

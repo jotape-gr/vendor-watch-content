@@ -7,7 +7,7 @@ description: >-
 link: https://owasp.org/www-project-mobile-security-testing-guide/
 icon:
   type: lucide
-  lucideIcon: phone
+  lucideIcon: shield-check
 type: resource
-category: penetration_testing
+category: third_party_pen_tests
 impact: infrastructure_security

@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/31000
 icon:
   type: lucide
-  lucideIcon: shield-alert
+  lucideIcon: file-text
 type: resource
 category: policies
 impact: organizational_security

@@ -7,7 +7,7 @@ description: >-
 link: https://owasp.org/www-project-application-security-verification-standard/
 icon:
   type: lucide
-  lucideIcon: code
+  lucideIcon: file-text
 type: resource
 category: policies
 impact: infrastructure_security

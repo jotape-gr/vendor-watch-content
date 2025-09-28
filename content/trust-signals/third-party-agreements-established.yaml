@@ -7,7 +7,7 @@ description: >-
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
-  lucideIcon: file-text
+  lucideIcon: settings
 type: resource
 category: controls
 impact: organizational_security

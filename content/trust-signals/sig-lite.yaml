@@ -7,7 +7,7 @@ description: >-
 link: https://sharedassessments.org/tools/sig-lite/
 icon:
   type: lucide
-  lucideIcon: clipboard-list
+  lucideIcon: file-check
 type: resource
 category: questionnaires
 impact: organizational_security

@@ -7,7 +7,7 @@ description: >-
 link: https://owasp.org/www-project-web-security-testing-guide/
 icon:
   type: lucide
-  lucideIcon: globe
+  lucideIcon: shield-check
 type: resource
-category: penetration_testing
+category: third_party_pen_tests
 impact: infrastructure_security
