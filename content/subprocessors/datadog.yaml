@@ -17,5 +17,5 @@ urls:
     url: https://www.datadoghq.com/trust/
 logo: null
 score: low
-category: monitoring
+category: analytics
 date: 2024-01-15

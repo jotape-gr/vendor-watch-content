@@ -17,5 +17,5 @@ urls:
     url: https://redis.com/trust/
 logo: null
 score: medium
-category: data-storage
+category: data_storage
 date: 2024-01-15
