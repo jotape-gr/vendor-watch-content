@@ -1,16 +1,147 @@
 ---
 name: Miro
-shortDescription: ' Miro provides a visual workspace for innovation that enables distributed teams of any size to dream, design, and build the future together.'
+shortDescription: 'Miro provides a visual workspace for innovation that enables distributed teams of any size to dream, design, and build the future together. Built with enterprise-grade security and global compliance standards.'
 riskScore: low
-lastReviewedAt: 2025-09-08
+lastReviewedAt: 2025-01-27
 trustSignalItems:
+  - signal: iso-27001-2022-certificate
+    description: ISO 27001:2013 certification confirming commitment to security, confidentiality, and high availability
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=iso-27001-2013-certificate
+    date: 2023-12-01
+  - signal: soc-2-type-ii
+    description: SOC 2 Type II attestation demonstrating security, availability, and confidentiality controls
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=soc-2-type-ii-report
+    date: 2024-01-01
+  - signal: soc-3-report
+    description: SOC 3 report providing public attestation of security controls
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=soc-3-report
+    date: 2024-01-01
+  - signal: csa-caiq
+    description: Cloud Security Alliance Consensus Assessments Initiative Questionnaire
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=csa-caiq
+    date: 2024-01-01
+  - signal: sig-lite
+    description: Standardized Information Gathering Lite questionnaire
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=sig-lite
+    date: 2024-01-01
+  - signal: information-security-policy
+    description: Comprehensive information security policy framework
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=information-security-policy
+    date: 2024-01-01
+  - signal: data-management-policy
+    description: Data management and protection policies
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=data-management-policy
+    date: 2024-01-01
+  - signal: incident-response-policy
+    description: Incident response and management procedures
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=incident-response-policy
+    date: 2024-01-01
+  - signal: business-continuity-policy
+    description: Business continuity and disaster recovery planning
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=business-continuity-policy
+    date: 2024-01-01
+  - signal: external-network-penetration-test
+    description: External network penetration testing results
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=external-network-penetration-test
+    date: 2024-01-01
+  - signal: web-applications-api-penetration-test
+    description: Web applications and API penetration testing results
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=web-applications-api-penetration-test
+    date: 2024-01-01
+  - signal: mobile-applications-penetration-test
+    description: Mobile applications penetration testing results
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=mobile-applications-penetration-test
+    date: 2024-01-01
+  - signal: desktop-applications-penetration-test
+    description: Desktop applications penetration testing results
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=desktop-applications-penetration-test
+    date: 2024-01-01
+  - signal: sdk-penetration-test
+    description: SDK penetration testing results
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=sdk-penetration-test
+    date: 2024-01-01
+  - signal: data-flow-diagram
+    description: Data flow and architecture diagrams
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=data-flow-diagram
+    date: 2024-01-01
+  - signal: network-diagram
+    description: Network architecture and security diagrams
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=network-diagram
+    date: 2024-01-01
+  - signal: security-compliance-whitepaper
+    description: Security compliance and best practices whitepaper
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=security-compliance-whitepaper
+    date: 2024-01-01
   - signal: iso-iec-42001-2023
-    description: Certificate 2025-2028
-    link: >-
-      https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=iso/iec-42001-:-2023-certificate-2025-2028
+    description: ISO/IEC 42001:2023 AI Management System Certificate 2025-2028
+    link: https://trust.miro.com/resources?s=xnd2lez4vgrs9hfcr3zp6c&name=iso/iec-42001-:-2023-certificate-2025-2028
     date: 2025-07-22
 riskSignalItems: []
-subprocessorItems: []
-faqs: []
+subprocessorItems:
+  - subprocessor: amazon-web-services-aws
+    usage: Primary cloud infrastructure hosting and data storage
+    description: AWS provides the core cloud infrastructure for Miro's platform, including compute, storage, and networking services
+    date: 2024-01-01
+  - subprocessor: google-cloud-platform-gcp
+    usage: Additional cloud services and data processing
+    description: Google Cloud Platform provides supplementary cloud services and data processing capabilities
+    date: 2024-01-01
+  - subprocessor: microsoft-azure
+    usage: Enterprise integration and additional cloud services
+    description: Microsoft Azure provides enterprise integration services and additional cloud infrastructure
+    date: 2024-01-01
+  - subprocessor: cloudflare
+    usage: CDN, DDoS protection, and web security services
+    description: Cloudflare provides content delivery network, DDoS protection, and web application security
+    date: 2024-01-01
+  - subprocessor: datadog
+    usage: Application performance monitoring and observability
+    description: Datadog provides monitoring, logging, and observability services for Miro's infrastructure
+    date: 2024-01-01
+  - subprocessor: sentry
+    usage: Error tracking and application monitoring
+    description: Sentry provides error tracking and performance monitoring for Miro's applications
+    date: 2024-01-01
+  - subprocessor: intercom
+    usage: Customer support and communication platform
+    description: Intercom provides customer support tools and communication platform for user assistance
+    date: 2024-01-01
+  - subprocessor: zendesk
+    usage: Customer service and support ticketing system
+    description: Zendesk provides customer service platform and support ticket management
+    date: 2024-01-01
+  - subprocessor: stripe
+    usage: Payment processing and billing services
+    description: Stripe provides payment processing and subscription billing services
+    date: 2024-01-01
+  - subprocessor: sendgrid
+    usage: Email delivery and marketing services
+    description: SendGrid provides email delivery services for notifications and marketing communications
+    date: 2024-01-01
+  - subprocessor: mixpanel
+    usage: Product analytics and user behavior tracking
+    description: Mixpanel provides product analytics and user behavior tracking services
+    date: 2024-01-01
+  - subprocessor: google-analytics
+    usage: Website analytics and user tracking
+    description: Google Analytics provides website analytics and user behavior insights
+    date: 2024-01-01
+faqs:
+  - question: How does Miro ensure the security of my data?
+    answer: Miro employs a multilayered security approach including infrastructure security, operational security, and product security. Data at rest is encrypted using AES 256-bit encryption, and data in transit is encrypted using TLS 1.2. Miro holds ISO 27001:2013 certification and SOC 2 Type II attestation.
+  - question: Where is my data stored when using Miro?
+    answer: Miro offers regional data residency options, allowing customers to host their content in data centers located in their region of choice. This includes EU Data Residency for customers requiring data to be stored within the European Union for GDPR compliance.
+  - question: Does Miro use my data to train AI models?
+    answer: No, Miro does not use user data to train AI models. Customers can opt in or out of AI services, and users retain intellectual property rights to their AI-generated content. Miro has achieved ISO/IEC 42001:2023 certification for AI management systems.
+  - question: What security certifications does Miro hold?
+    answer: Miro holds several certifications including ISO 27001:2013, SOC 2 Type II, SOC 3, CSA CAIQ, and ISO/IEC 42001:2023 (AI Management System). These certifications demonstrate Miro's commitment to maintaining high standards of security and compliance.
+  - question: How does Miro handle data privacy and compliance?
+    answer: Miro complies with leading global regulations including GDPR and CCPA. The company offers regional data residency options and maintains comprehensive data protection policies. All subprocessors are contractually obligated to adhere to data protection standards consistent with Miro's commitments.
+  - question: What subprocessors does Miro use?
+    answer: Miro engages third-party subprocessors for infrastructure hosting (AWS, Google Cloud, Microsoft Azure), customer support (Intercom, Zendesk), monitoring (Datadog, Sentry), and other services. All subprocessors are contractually bound to maintain data protection standards.
+  - question: How often does Miro conduct security assessments?
+    answer: Miro conducts regular penetration testing across all components including external networks, web applications, mobile applications, desktop applications, and SDKs. The company also maintains ongoing security monitoring and incident response capabilities.
+  - question: Can I get a copy of Miro's security documentation?
+    answer: Yes, Miro provides comprehensive security documentation through their Trust Center including SOC reports, ISO certificates, security policies, penetration test results, and architecture diagrams. These are available to customers upon request.
 status: published
 ---
