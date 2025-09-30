@@ -1,9 +1,8 @@
 name: Teleworking Policy
 description: >-
-  Teleworking Policy - A document that establishes guidelines for secure 
-  remote work practices, including device security requirements, network 
-  access controls, data protection measures, and communication protocols 
-  for employees working outside the office
+  Guidelines for secure  remote work practices, including device security
+  requirements, network  access controls, data protection measures, and
+  communication protocols  for employees working outside the office
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
