@@ -1,9 +1,9 @@
 name: Clean Desk Policy
 description: >-
-  Clean Desk Policy - A security policy that requires employees to secure 
-  all sensitive information, documents, and electronic devices when leaving 
-  their workspace, including locking computers, storing documents securely, 
-  and clearing desks of confidential materials
+  Security policy that requires employees to secure  all sensitive information,
+  documents, and electronic devices when leaving  their workspace, including
+  locking computers, storing documents securely,  and clearing desks of
+  confidential materials
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
