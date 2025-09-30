@@ -1,6 +1,6 @@
 name: Data Flow Diagram
 description: >-
-  A visual representation that illustrates how data moves  through an
+  Visual representation that illustrates how data moves  through an
   organization's systems, applications, and processes, including  data sources,
   destinations, transformation points, and security controls  to ensure proper
   data governance and protection
