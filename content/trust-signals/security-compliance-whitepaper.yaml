@@ -1,9 +1,8 @@
 name: Security and Compliance Whitepaper
 description: >-
-  A comprehensive document that outlines  an organization's security
-  architecture, compliance posture, and risk management  approach, providing
-  detailed information about security controls, frameworks,  certifications, and
-  governance practices
+  Document that outlines  an organization's security architecture, compliance
+  posture, and risk management  approach, providing detailed information about
+  security controls, frameworks,  certifications, and governance practices
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
