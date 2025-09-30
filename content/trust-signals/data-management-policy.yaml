@@ -1,9 +1,8 @@
 name: Data Management Policy
 description: >-
-  Data Management Policy - A comprehensive document that establishes guidelines 
-  for the collection, storage, processing, sharing, retention, and disposal 
-  of organizational data, including data classification, quality standards, 
-  and governance procedures
+  A comprehensive document that establishes guidelines  for the collection,
+  storage, processing, sharing, retention, and disposal  of organizational data,
+  including data classification, quality standards,  and governance procedures
 link: https://www.iso.org/standard/38505
 icon:
   type: lucide
