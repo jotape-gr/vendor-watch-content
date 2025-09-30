@@ -1,4 +1,4 @@
-name: paypal
+name: PayPal
 usage: |
   Payment processing and digital wallet services. Provides online payment processing, digital wallet, and financial services for businesses and consumers.
 description: |

@@ -1,4 +1,4 @@
-name: openai
+name: OpenAI
 usage: |
   AI language models and machine learning services. Provides advanced AI capabilities including natural language processing, text generation, and machine learning APIs for applications requiring AI functionality.
 description: |

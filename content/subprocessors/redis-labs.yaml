@@ -1,4 +1,4 @@
-name: redis-labs
+name: Redis Labs
 usage: |
   In-memory database and caching services. Provides high-performance data storage and caching solutions for applications requiring fast data access.
 description: |

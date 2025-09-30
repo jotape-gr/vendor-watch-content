@@ -1,4 +1,4 @@
-name: anthropic
+name: Anthropic
 usage: |
   AI safety and language model services. Provides advanced AI language models with focus on safety and helpfulness for applications requiring reliable AI capabilities.
 description: |

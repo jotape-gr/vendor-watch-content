@@ -1,4 +1,4 @@
-name: google-cloud-platform-gcp
+name: Google Cloud Platform (GCP)
 usage: |
   Cloud computing and data storage services including compute, storage, networking, databases, and AI/ML services. Provides scalable cloud infrastructure for applications and data processing.
 description: |

@@ -1,4 +1,4 @@
-name: github
+name: GitHub
 usage: |
   Code repository and version control. Provides Git-based code hosting, collaboration tools, and project management features for software development teams.
 description: |

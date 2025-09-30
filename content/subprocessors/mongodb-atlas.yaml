@@ -1,4 +1,4 @@
-name: mongodb-atlas
+name: MongoDB Atlas
 usage: |
   Database hosting and management services. Provides fully managed MongoDB database hosting with automated backups, scaling, and security features.
 description: |

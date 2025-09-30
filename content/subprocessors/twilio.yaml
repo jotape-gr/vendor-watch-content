@@ -1,4 +1,4 @@
-name: twilio
+name: Twilio
 usage: |
   Communication APIs for SMS, voice, and video. Provides programmable communication services including messaging, voice calls, and video conferencing through APIs.
 description: |

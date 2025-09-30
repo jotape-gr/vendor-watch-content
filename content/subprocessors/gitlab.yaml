@@ -1,4 +1,4 @@
-name: gitlab
+name: GitLab
 usage: |
   DevOps platform and code repository. Provides complete DevOps lifecycle management including code hosting, CI/CD, project management, and security scanning.
 description: |

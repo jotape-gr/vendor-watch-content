@@ -1,4 +1,4 @@
-name: elasticsearch
+name: Elasticsearch
 usage: |
   Search and analytics engine. Provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
 description: |

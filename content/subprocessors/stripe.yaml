@@ -1,4 +1,4 @@
-name: stripe
+name: Stripe
 usage: |
   Payment processing and financial services. Provides payment processing, subscription billing, and financial infrastructure for online businesses and applications.
 description: |

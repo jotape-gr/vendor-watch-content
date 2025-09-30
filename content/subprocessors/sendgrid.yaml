@@ -1,4 +1,4 @@
-name: sendgrid
+name: SendGrid
 usage: |
   Email delivery and marketing services. Provides transactional email delivery, email marketing, and email analytics to help businesses communicate with their customers via email.
 description: |

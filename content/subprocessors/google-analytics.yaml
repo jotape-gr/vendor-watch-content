@@ -1,4 +1,4 @@
-name: google-analytics
+name: Google Analytics
 usage: |
   Web analytics and user behavior tracking. Provides insights into website traffic, user interactions, and conversion metrics for data-driven decision making.
 description: |

@@ -1,4 +1,4 @@
-name: mixpanel
+name: Mixpanel
 usage: |
   Product analytics and user event tracking. Provides detailed insights into user behavior, feature usage, and product performance to help optimize user experience and product development.
 description: |

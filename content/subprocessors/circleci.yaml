@@ -1,4 +1,4 @@
-name: circleci
+name: CircleCI
 usage: |
   Continuous integration and deployment. Provides automated testing, building, and deployment services to help development teams deliver code faster and more reliably.
 description: |

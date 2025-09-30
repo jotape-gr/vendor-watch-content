@@ -1,4 +1,4 @@
-name: sentry
+name: Sentry
 usage: |
   Error monitoring and performance tracking. Provides real-time error tracking, performance monitoring, and debugging tools to help developers identify and fix issues quickly.
 description: |
