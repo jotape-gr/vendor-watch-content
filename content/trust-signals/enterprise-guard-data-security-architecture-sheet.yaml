@@ -1,9 +1,9 @@
 name: Enterprise Guard Data Security Architecture Sheet
 description: >-
-  Enterprise Guard Data Security Architecture Sheet - A comprehensive diagram 
-  and documentation that illustrates an organization's data security architecture, 
-  including data classification, encryption layers, access controls, monitoring 
-  systems, and security boundaries across the enterprise infrastructure
+  Comprehensive diagram  and documentation that illustrates an organization's
+  data security architecture,  including data classification, encryption layers,
+  access controls, monitoring  systems, and security boundaries across the
+  enterprise infrastructure
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide
