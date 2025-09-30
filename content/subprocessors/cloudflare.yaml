@@ -2,7 +2,7 @@ name: Cloudflare
 usage: |
   CDN, DDoS protection, and web security services. Provides content delivery, DNS, SSL/TLS certificates, and security features to protect and accelerate websites and applications.
 description: |
-  Cloudflare is a web infrastructure and website security company that provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services. It serves as a reverse proxy for websites and provides security services.
+  A web infrastructure and website security company that provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services, serving as a reverse proxy for websites and providing comprehensive security services.
 country: United States
 urls:
   - label: Official Website

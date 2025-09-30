@@ -2,7 +2,7 @@ name: Mixpanel
 usage: |
   Product analytics and user event tracking. Provides detailed insights into user behavior, feature usage, and product performance to help optimize user experience and product development.
 description: |
-  Mixpanel is a business analytics service that helps companies track user interactions with web and mobile applications. It provides tools for tracking user behavior, analyzing product performance, and understanding customer engagement through event-based analytics.
+  A business analytics service that helps companies track user interactions with web and mobile applications, providing tools for tracking user behavior, analyzing product performance, and understanding customer engagement through event-based analytics.
 country: United States
 urls:
   - label: Official Website

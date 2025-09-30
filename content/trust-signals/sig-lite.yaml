@@ -1,9 +1,8 @@
 name: SIG Lite
 description: >-
-  Standardized Information Gathering Lite - A streamlined vendor security 
-  assessment questionnaire developed by the Shared Assessments Program 
-  that provides a standardized approach to evaluating third-party vendor 
-  security controls and risk management practices
+  A streamlined vendor security assessment questionnaire developed by the 
+  Shared Assessments Program that provides a standardized approach to 
+  evaluating third-party vendor security controls and risk management practices
 link: https://sharedassessments.org/tools/sig-lite/
 icon:
   type: lucide

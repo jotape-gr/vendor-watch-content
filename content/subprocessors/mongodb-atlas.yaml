@@ -2,7 +2,7 @@ name: MongoDB Atlas
 usage: |
   Database hosting and management services. Provides fully managed MongoDB database hosting with automated backups, scaling, and security features.
 description: |
-  MongoDB Atlas is a fully managed cloud database service for MongoDB. It provides automated database hosting, scaling, backups, and security features, allowing developers to focus on building applications rather than managing database infrastructure.
+  A fully managed cloud database service for MongoDB that provides automated database hosting, scaling, backups, and security features, allowing developers to focus on building applications rather than managing database infrastructure.
 country: United States
 urls:
   - label: Official Website

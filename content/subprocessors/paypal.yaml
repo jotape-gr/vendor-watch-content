@@ -2,7 +2,7 @@ name: PayPal
 usage: |
   Payment processing and digital wallet services. Provides online payment processing, digital wallet, and financial services for businesses and consumers.
 description: |
-  PayPal is a financial technology company that operates an online payments system in the majority of countries that support online money transfers. It provides payment processing, digital wallet services, and financial infrastructure for online businesses and consumers.
+  A financial technology company that operates an online payments system in the majority of countries that support online money transfers, providing payment processing, digital wallet services, and financial infrastructure for online businesses and consumers.
 country: United States
 urls:
   - label: Official Website

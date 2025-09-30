@@ -2,7 +2,7 @@ name: OpenAI
 usage: |
   AI language models and machine learning services. Provides advanced AI capabilities including natural language processing, text generation, and machine learning APIs for applications requiring AI functionality.
 description: |
-  OpenAI is an AI research company that develops and provides access to advanced artificial intelligence systems. It offers language models, machine learning APIs, and AI tools that can be integrated into applications to provide intelligent capabilities.
+  An AI research company that develops and provides access to advanced artificial intelligence systems, offering language models, machine learning APIs, and AI tools that can be integrated into applications to provide intelligent capabilities.
 country: United States
 urls:
   - label: Official Website

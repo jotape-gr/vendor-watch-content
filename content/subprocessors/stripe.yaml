@@ -2,7 +2,7 @@ name: Stripe
 usage: |
   Payment processing and financial services. Provides payment processing, subscription billing, and financial infrastructure for online businesses and applications.
 description: |
-  Stripe is a financial technology company that provides payment processing software and application programming interfaces for e-commerce websites and mobile applications. It offers payment processing, subscription billing, and financial infrastructure services.
+  A financial technology company that provides payment processing software and application programming interfaces for e-commerce websites and mobile applications, offering payment processing, subscription billing, and financial infrastructure services.
 country: United States
 urls:
   - label: Official Website

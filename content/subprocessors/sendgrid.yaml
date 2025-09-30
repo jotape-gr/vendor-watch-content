@@ -2,7 +2,7 @@ name: SendGrid
 usage: |
   Email delivery and marketing services. Provides transactional email delivery, email marketing, and email analytics to help businesses communicate with their customers via email.
 description: |
-  SendGrid is a cloud-based email delivery service that helps businesses send transactional and marketing emails. It provides email delivery infrastructure, analytics, and tools to help businesses improve their email deliverability and engagement.
+  A cloud-based email delivery service that helps businesses send transactional and marketing emails, providing email delivery infrastructure, analytics, and tools to help businesses improve their email deliverability and engagement.
 country: United States
 urls:
   - label: Official Website

@@ -1,7 +1,8 @@
 name: ISO/IEC 42001:2023
 description: >-
-  ISO/IEC 42001:2023 Information technology — Artificial intelligence —
-  Management system
+  International standard that specifies requirements for establishing, 
+  implementing, maintaining, and continually improving an AI management 
+  system within organizations
 link: https://www.iso.org/obp/ui/es/#iso:std:iso-iec:42001:ed-1:v1:en
 icon:
   type: lucide

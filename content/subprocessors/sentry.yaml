@@ -2,7 +2,7 @@ name: Sentry
 usage: |
   Error monitoring and performance tracking. Provides real-time error tracking, performance monitoring, and debugging tools to help developers identify and fix issues quickly.
 description: |
-  Sentry is a cloud-based error monitoring and performance monitoring platform that helps developers identify, debug, and fix issues in their applications. It provides real-time error tracking, performance monitoring, and debugging tools across multiple programming languages and platforms.
+  A cloud-based error monitoring and performance monitoring platform that helps developers identify, debug, and fix issues in their applications, providing real-time error tracking, performance monitoring, and debugging tools across multiple programming languages and platforms.
 country: United States
 urls:
   - label: Official Website

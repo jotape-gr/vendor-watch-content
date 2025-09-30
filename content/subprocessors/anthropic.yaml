@@ -2,7 +2,7 @@ name: Anthropic
 usage: |
   AI safety and language model services. Provides advanced AI language models with focus on safety and helpfulness for applications requiring reliable AI capabilities.
 description: |
-  Anthropic is an AI safety company that develops and provides access to advanced artificial intelligence systems with a focus on safety and helpfulness. It offers language models and AI tools designed to be more reliable and aligned with human values.
+  An AI safety company that develops and provides access to advanced artificial intelligence systems with a focus on safety and helpfulness, offering language models and AI tools designed to be more reliable and aligned with human values.
 country: United States
 urls:
   - label: Official Website

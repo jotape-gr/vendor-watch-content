@@ -2,7 +2,7 @@ name: CircleCI
 usage: |
   Continuous integration and deployment. Provides automated testing, building, and deployment services to help development teams deliver code faster and more reliably.
 description: |
-  CircleCI is a continuous integration and continuous deployment platform that helps development teams automate their software development process. It provides automated testing, building, and deployment services to help teams deliver code faster and more reliably.
+  A continuous integration and continuous deployment platform that helps development teams automate their software development process, providing automated testing, building, and deployment services to help teams deliver code faster and more reliably.
 country: United States
 urls:
   - label: Official Website

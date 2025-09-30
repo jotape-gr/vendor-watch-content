@@ -2,7 +2,7 @@ name: Microsoft Azure
 usage: |
   Cloud platform and infrastructure services including compute, storage, networking, databases, and AI services. Provides enterprise-grade cloud solutions for applications and data.
 description: |
-  Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
+  A cloud computing service for building, testing, deploying, and managing applications and services through Microsoft-managed data centers, providing software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
 country: United States
 urls:
   - label: Official Website

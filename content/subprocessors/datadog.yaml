@@ -2,7 +2,7 @@ name: Datadog
 usage: |
   Application performance monitoring and logging. Provides comprehensive monitoring, logging, and analytics for applications, infrastructure, and security across the entire technology stack.
 description: |
-  Datadog is a monitoring and analytics platform for cloud-scale applications. It provides monitoring, logging, and analytics for applications, infrastructure, and security, helping organizations improve performance, reduce downtime, and enhance security across their entire technology stack.
+  A monitoring and analytics platform for cloud-scale applications that provides monitoring, logging, and analytics for applications, infrastructure, and security, helping organizations improve performance, reduce downtime, and enhance security across their entire technology stack.
 country: United States
 urls:
   - label: Official Website

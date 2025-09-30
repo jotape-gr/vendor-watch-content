@@ -2,7 +2,7 @@ name: Google Analytics
 usage: |
   Web analytics and user behavior tracking. Provides insights into website traffic, user interactions, and conversion metrics for data-driven decision making.
 description: |
-  Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. It provides detailed statistics about website visitors and their behavior, helping businesses understand their audience and optimize their online presence.
+  A web analytics service that tracks and reports website traffic, providing detailed statistics about website visitors and their behavior to help businesses understand their audience and optimize their online presence.
 country: United States
 urls:
   - label: Official Website

@@ -2,7 +2,7 @@ name: Twilio
 usage: |
   Communication APIs for SMS, voice, and video. Provides programmable communication services including messaging, voice calls, and video conferencing through APIs.
 description: |
-  Twilio is a cloud communications platform that provides APIs for sending and receiving text messages, making and receiving phone calls, and other communication functions. It enables developers to integrate communication features into their applications through simple APIs.
+  A cloud communications platform that provides APIs for sending and receiving text messages, making and receiving phone calls, and other communication functions, enabling developers to integrate communication features into their applications through simple APIs.
 country: United States
 urls:
   - label: Official Website

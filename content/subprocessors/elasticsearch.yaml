@@ -2,7 +2,7 @@ name: Elasticsearch
 usage: |
   Search and analytics engine. Provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
 description: |
-  Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. It provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
+  A distributed, RESTful search and analytics engine capable of solving a growing number of use cases, providing powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
 country: United States
 urls:
   - label: Official Website

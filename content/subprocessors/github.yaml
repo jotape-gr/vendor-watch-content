@@ -2,7 +2,7 @@ name: GitHub
 usage: |
   Code repository and version control. Provides Git-based code hosting, collaboration tools, and project management features for software development teams.
 description: |
-  GitHub is a web-based platform that provides version control and collaboration features for software development. It offers Git-based code hosting, issue tracking, project management, and collaboration tools for developers and teams.
+  A web-based platform that provides version control and collaboration features for software development, offering Git-based code hosting, issue tracking, project management, and collaboration tools for developers and teams.
 country: United States
 urls:
   - label: Official Website

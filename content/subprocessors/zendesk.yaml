@@ -2,7 +2,7 @@ name: Zendesk
 usage: |
   Help desk and customer service software. Provides ticketing system, knowledge base, and customer support tools to manage customer inquiries and support requests.
 description: |
-  Zendesk is a customer service platform that provides help desk software, ticketing systems, and customer support tools. It helps businesses manage customer inquiries, support tickets, and provide better customer service through various channels.
+  A customer service platform that provides help desk software, ticketing systems, and customer support tools, helping businesses manage customer inquiries, support tickets, and provide better customer service through various channels.
 country: United States
 urls:
   - label: Official Website

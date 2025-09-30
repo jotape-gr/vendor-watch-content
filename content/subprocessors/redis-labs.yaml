@@ -2,7 +2,7 @@ name: Redis Labs
 usage: |
   In-memory database and caching services. Provides high-performance data storage and caching solutions for applications requiring fast data access.
 description: |
-  Redis Labs provides Redis-based cloud database services and caching solutions. It offers fully managed Redis instances with high availability, scaling, and security features for applications requiring fast in-memory data storage and caching.
+  Provides Redis-based cloud database services and caching solutions, offering fully managed Redis instances with high availability, scaling, and security features for applications requiring fast in-memory data storage and caching.
 country: United States
 urls:
   - label: Official Website

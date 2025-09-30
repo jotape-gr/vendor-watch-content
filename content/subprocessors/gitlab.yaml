@@ -2,7 +2,7 @@ name: GitLab
 usage: |
   DevOps platform and code repository. Provides complete DevOps lifecycle management including code hosting, CI/CD, project management, and security scanning.
 description: |
-  GitLab is a web-based DevOps lifecycle tool that provides a Git repository manager providing wiki, issue-tracking, and continuous integration and deployment pipeline features. It offers a complete DevOps platform for software development teams.
+  A web-based DevOps lifecycle tool that provides a Git repository manager with wiki, issue-tracking, and continuous integration and deployment pipeline features, offering a complete DevOps platform for software development teams.
 country: United States
 urls:
   - label: Official Website

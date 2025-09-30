@@ -2,7 +2,7 @@ name: Snowflake
 usage: |
   Cloud data warehouse and analytics platform. Provides scalable data warehousing, analytics, and business intelligence solutions for large-scale data processing and analysis.
 description: |
-  Snowflake is a cloud-based data warehousing platform that provides scalable data storage, processing, and analytics capabilities. It offers a fully managed service for data warehousing, data lakes, and analytics with built-in security and compliance features.
+  A cloud-based data warehousing platform that provides scalable data storage, processing, and analytics capabilities, offering a fully managed service for data warehousing, data lakes, and analytics with built-in security and compliance features.
 country: United States
 urls:
   - label: Official Website
