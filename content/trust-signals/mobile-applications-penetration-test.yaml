@@ -1,6 +1,6 @@
 name: Mobile Applications Penetration Test
 description: >-
-  A third-party security assessment that evaluates mobile applications 
+  Third-party security assessment that evaluates mobile applications 
   (iOS/Android) for vulnerabilities including insecure data storage, weak 
   cryptography, insecure communication, reverse engineering risks, and 
   platform-specific security issues

@@ -1,9 +1,8 @@
 name: Incident Response Policy
 description: >-
-  Incident Response Policy - A document that establishes procedures for 
-  detecting, analyzing, containing, eradicating, and recovering from 
-  security incidents, including roles and responsibilities, communication 
-  protocols, and post-incident review processes
+  A document that establishes procedures for  detecting, analyzing, containing,
+  eradicating, and recovering from  security incidents, including roles and
+  responsibilities, communication  protocols, and post-incident review processes
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide

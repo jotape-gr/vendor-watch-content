@@ -1,9 +1,8 @@
 name: Information Security Policy
 description: >-
-  Information Security Policy - A comprehensive document that establishes 
-  an organization's approach to managing information security risks, 
-  including data protection, access controls, incident response procedures, 
-  and security awareness requirements
+  A comprehensive document that establishes  an organization's approach to
+  managing information security risks,  including data protection, access
+  controls, incident response procedures,  and security awareness requirements
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide

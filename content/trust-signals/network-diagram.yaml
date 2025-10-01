@@ -1,9 +1,9 @@
 name: Network Diagram
 description: >-
-  Network Diagram - A visual representation of an organization's network 
-  infrastructure that shows network topology, security devices, access points, 
-  firewalls, routers, switches, and network segmentation to illustrate 
-  the overall network architecture and security controls
+  Visual representation of an organization's network  infrastructure that shows
+  network topology, security devices, access points,  firewalls, routers,
+  switches, and network segmentation to illustrate  the overall network
+  architecture and security controls
 link: https://www.nist.gov/cyberframework
 icon:
   type: lucide

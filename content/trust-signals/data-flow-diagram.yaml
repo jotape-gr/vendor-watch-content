@@ -1,9 +1,9 @@
 name: Data Flow Diagram
 description: >-
-  Data Flow Diagram - A visual representation that illustrates how data moves 
-  through an organization's systems, applications, and processes, including 
-  data sources, destinations, transformation points, and security controls 
-  to ensure proper data governance and protection
+  Visual representation that illustrates how data moves  through an
+  organization's systems, applications, and processes, including  data sources,
+  destinations, transformation points, and security controls  to ensure proper
+  data governance and protection
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide

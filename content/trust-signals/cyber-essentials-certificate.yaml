@@ -1,9 +1,9 @@
 name: Cyber Essentials Certificate of Assurance
 description: >-
-  Cyber Essentials Certificate of Assurance - A UK government-backed cybersecurity 
-  certification scheme that helps organizations protect themselves against common 
-  cyber attacks by implementing five key technical controls: firewalls, secure 
-  configuration, access control, malware protection, and software updates
+  UK government-backed cybersecurity  certification scheme that helps
+  organizations protect themselves against common  cyber attacks by implementing
+  five key technical controls: firewalls, secure  configuration, access control,
+  malware protection, and software updates
 link: https://www.ncsc.gov.uk/cyberessentials/overview
 icon:
   type: lucide
