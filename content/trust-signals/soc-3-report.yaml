@@ -1,10 +1,10 @@
 name: SOC 3 Report
 description: >-
-  A public-facing summary of SOC 2 examination results that provides general 
-  information about a service organization's controls related to security, 
-  availability, processing integrity, confidentiality, and privacy without 
-  revealing sensitive details
-link: https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome
+  Public-facing summary of third-party SOC 2 audit results providing general 
+  information about service organization controls for security, availability, 
+  processing integrity, confidentiality, and privacy without revealing sensitive 
+  operational details or vulnerabilities.
+link: https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-3
 icon:
   type: lucide
   lucideIcon: shield-check

@@ -1,9 +1,9 @@
 name: Mobile Applications Penetration Test
 description: >-
-  Third-party security assessment that evaluates mobile applications 
-  (iOS/Android) for vulnerabilities including insecure data storage, weak 
-  cryptography, insecure communication, reverse engineering risks, and 
-  platform-specific security issues
+  Third-party security assessment evaluating mobile applications (iOS/Android) 
+  for vulnerabilities including insecure data storage, weak cryptography, 
+  insecure communication, reverse engineering risks, and platform-specific 
+  security issues with remediation verification.
 link: https://owasp.org/www-project-mobile-security-testing-guide/
 icon:
   type: lucide

@@ -1,9 +1,9 @@
-name: Web Applications + API Penetration Test
+name: Web Application and API Penetration Testing
 description: >-
-  Third-party security assessment that evaluates both web  applications and
-  their associated APIs for vulnerabilities including OWASP  Top 10 risks,
-  authentication bypass, injection flaws, broken access controls,  and
-  API-specific security issues
+  Third-party security assessment validating web application and API security 
+  through systematic vulnerability testing covering OWASP Top 10, authentication 
+  mechanisms, authorization controls, input validation, and API-specific 
+  security controls with documented remediation verification.
 link: https://owasp.org/www-project-web-security-testing-guide/
 icon:
   type: lucide

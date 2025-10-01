@@ -1,10 +1,10 @@
 name: Enterprise Guard Data Security
 description: >-
-  Comprehensive data protection framework  that implements multiple layers of
-  security controls including data encryption,  access management, monitoring,
-  and compliance measures to safeguard sensitive  information across the
-  enterprise environment
-link: https://www.nist.gov/cyberframework
+  Comprehensive data protection framework implementing multiple layers of security 
+  controls including data encryption, access management, monitoring, and compliance 
+  measures to safeguard sensitive information across the enterprise environment 
+  with documented procedures and audit trails.
+link: 
 icon:
   type: lucide
   lucideIcon: file

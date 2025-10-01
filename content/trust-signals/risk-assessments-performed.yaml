@@ -1,10 +1,10 @@
 name: Risk Assessments Performed
 description: >-
-  Risk Assessments Performed - Regular systematic evaluations of potential 
-  threats and vulnerabilities that could impact organizational objectives, 
-  including identification of assets, threat analysis, vulnerability assessment, 
-  impact analysis, and risk treatment recommendations
-link: https://www.iso.org/standard/31000
+  Regular systematic evaluations of potential threats and vulnerabilities that 
+  could impact organizational objectives, including asset identification, threat 
+  analysis, vulnerability assessment, impact analysis, and risk treatment 
+  recommendations with documented methodology and review processes.
+link:
 icon:
   type: lucide
   lucideIcon: settings

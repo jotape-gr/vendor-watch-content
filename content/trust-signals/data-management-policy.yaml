@@ -1,9 +1,9 @@
 name: Data Management Policy
 description: >-
-  Establishes guidelines  for the collection, storage, processing, sharing,
-  retention, and disposal  of organizational data, including data
-  classification, quality standards,  and governance procedures
-link: https://www.iso.org/standard/38505
+  Governance framework establishing data lifecycle management procedures including 
+  collection, storage, processing, sharing, retention, and secure disposal with 
+  data classification standards, quality controls, and privacy protection measures.
+link:
 icon:
   type: lucide
   lucideIcon: file-text

@@ -1,7 +1,8 @@
 name: Antivirus Policy
 description: >-
-  Ensures comprehensive malware protection across all endpoints through standardized 
-  deployment, real-time scanning, and automated threat response procedures.
+  Mandatory security framework requiring enterprise-grade antivirus deployment across 
+  all endpoints with real-time threat detection, automated quarantine procedures, 
+  signature updates, and centralized monitoring for comprehensive malware protection.
 link: 
 icon:
   type: lucide

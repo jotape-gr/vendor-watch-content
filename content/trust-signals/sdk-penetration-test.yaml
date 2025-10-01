@@ -1,9 +1,9 @@
 name: SDK Penetration Test
 description: >-
-  A third-party security assessment that evaluates Software Development Kits 
-  (SDKs) for vulnerabilities including insecure APIs, weak authentication 
-  mechanisms, data leakage, insufficient input validation, and integration 
-  security risks
+  Third-party security assessment evaluating Software Development Kits (SDKs) 
+  for vulnerabilities including insecure APIs, weak authentication mechanisms, 
+  data leakage, insufficient input validation, and integration security risks 
+  with documented remediation procedures.
 link: https://owasp.org/www-project-application-security-verification-standard/
 icon:
   type: lucide

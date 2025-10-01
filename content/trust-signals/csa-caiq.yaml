@@ -1,8 +1,9 @@
 name: CSA CAIQ
 description: >-
-  Standardized questionnaire that helps cloud service providers document  their
-  security controls and practices, enabling customers to assess  cloud security
-  posture and compliance with industry standards
+  Industry-standard questionnaire enabling cloud service providers to document 
+  security controls and practices, allowing customers to assess cloud security 
+  posture, compliance with industry standards, and third-party risk management 
+  capabilities through standardized evaluation criteria.
 link: >-
   https://cloudsecurityalliance.org/artifacts/consensus-assessments-initiative-questionnaire-caiq-v4/
 icon:

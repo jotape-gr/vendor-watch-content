@@ -1,9 +1,9 @@
 name: Disaster Recovery Policy and Plan
 description: >-
-  Outlines  procedures for restoring IT systems, data, and business operations
-  after  a disruptive event, including recovery time objectives, backup
-  strategies,  testing procedures, and incident response protocols
-link: https://www.iso.org/standard/22301
+  Comprehensive recovery framework detailing IT system restoration procedures, 
+  recovery time objectives, backup strategies, testing protocols, and incident 
+  response measures for maintaining business operations during disruptive events.
+link:
 icon:
   type: lucide
   lucideIcon: file-text

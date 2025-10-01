@@ -1,8 +1,9 @@
 name: Business Continuity Policy
 description: >-
-  Validates that the vendor has comprehensive disaster recovery and incident response 
-  capabilities to maintain service availability during security incidents or disruptions.
-link: https://www.iso.org/standard/22301
+  Comprehensive governance framework ensuring continuous business operations through 
+  documented recovery procedures, backup strategies, alternative site provisions, 
+  and tested incident response protocols for maintaining service availability.
+link:
 icon:
   type: lucide
   lucideIcon: file-text

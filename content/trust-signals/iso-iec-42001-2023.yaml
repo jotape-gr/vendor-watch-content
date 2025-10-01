@@ -1,8 +1,8 @@
 name: ISO/IEC 42001:2023
 description: >-
-  International standard that specifies requirements for establishing, 
-  implementing, maintaining, and continually improving an AI management 
-  system within organizations
+  Third-party audited international standard for AI management systems requiring 
+  comprehensive governance, risk management, and ethical AI practices with 
+  annual surveillance audits and 3-year recertification for AI system reliability.
 link: https://www.iso.org/obp/ui/es/#iso:std:iso-iec:42001:ed-1:v1:en
 icon:
   type: lucide

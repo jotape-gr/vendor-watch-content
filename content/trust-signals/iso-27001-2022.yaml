@@ -1,8 +1,9 @@
 name: ISO 27001:2022
 description: >-
-  International standard for information security management systems that 
-  specifies requirements for establishing, implementing, maintaining, and 
-  continually improving an information security management system
+  Third-party audited certification validating comprehensive information security 
+  management system implementation with annual surveillance audits and 3-year 
+  recertification, covering 114 security controls across organizational security, 
+  human resources, operations, and access management domains.
 link: https://www.iso.org/standard/27001
 icon:
   type: lucide
