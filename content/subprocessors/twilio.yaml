@@ -1,20 +1,14 @@
 name: Twilio
 usage: |
-  Communication APIs for SMS, voice, and video. Provides programmable communication services including messaging, voice calls, and video conferencing through APIs.
+  Communication platform providing SMS, voice, and video APIs. Handles messaging, voice calls, and video conferencing for customer communication and engagement.
 description: |
-  A cloud communications platform that provides APIs for sending and receiving text messages, making and receiving phone calls, and other communication functions, enabling developers to integrate communication features into their applications through simple APIs.
+  Low risk due to strong security controls and comprehensive compliance certifications. Implements data minimization practices and processes only necessary communication data. However, processes phone numbers and call records that may contain PII. Consider data residency requirements and call recording policies. Evaluate access controls and audit logging capabilities for communication data protection.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.twilio.com/
+  - label: Security Documentation
+    url: https://www.twilio.com/security
   - label: Privacy Policy
     url: https://www.twilio.com/legal/privacy
-  - label: Data Processing Agreement
-    url: https://www.twilio.com/legal/data-protection-addendum
-  - label: Security & Compliance
-    url: https://www.twilio.com/security
-  - label: Trust Center
-    url: https://www.twilio.com/trust
 logo: null
 score: low
 category: communication

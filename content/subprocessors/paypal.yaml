@@ -1,20 +1,14 @@
 name: PayPal
 usage: |
-  Payment processing and digital wallet services. Provides online payment processing, digital wallet, and financial services for businesses and consumers.
+  Payment processing infrastructure handling online payments, digital wallet transactions, and financial data. Processes sensitive payment information including account details and transaction metadata.
 description: |
-  A financial technology company that operates an online payments system in the majority of countries that support online money transfers, providing payment processing, digital wallet services, and financial infrastructure for online businesses and consumers.
+  Medium risk due to PCI DSS compliance requirements and financial data sensitivity. Implements strong encryption and fraud protection measures, but processes highly sensitive payment information and personal identifiers. Subject to strict regulatory oversight and audit requirements. Consider data residency requirements and cross-border data transfer implications. Evaluate fraud detection algorithms and data retention policies for compliance.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.paypal.com/
+  - label: Security Documentation
+    url: https://www.paypal.com/us/webapps/mpp/security
   - label: Privacy Policy
     url: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
-  - label: Data Processing Agreement
-    url: https://www.paypal.com/us/webapps/mpp/ua/data-processing-agreement
-  - label: Security & Compliance
-    url: https://www.paypal.com/us/webapps/mpp/security
-  - label: Trust Center
-    url: https://www.paypal.com/us/webapps/mpp/trust
 logo: null
 score: medium
 category: payment_processing

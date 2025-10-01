@@ -1,20 +1,14 @@
 name: Microsoft Azure
 usage: |
-  Cloud platform and infrastructure services including compute, storage, networking, databases, and AI services. Provides enterprise-grade cloud solutions for applications and data.
+  Cloud infrastructure provider hosting applications, databases, and data storage. Critical infrastructure supporting compute, storage, and AI services with enterprise-grade security and compliance.
 description: |
-  A cloud computing service for building, testing, deploying, and managing applications and services through Microsoft-managed data centers, providing software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
+  Enterprise-grade security posture with comprehensive compliance certifications (SOC 2, ISO 27001, FedRAMP). Implements defense-in-depth security model with encryption at rest and in transit, network isolation, and identity access management. Low risk due to mature security controls, extensive audit logging, and geographic data residency controls. Single point of failure risk requires careful backup and disaster recovery planning.
 country: United States
 urls:
-  - label: Official Website
-    url: https://azure.microsoft.com/
-  - label: Privacy Statement
-    url: https://privacy.microsoft.com/privacystatement
-  - label: Compliance Offerings
-    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/
-  - label: Data Protection
-    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/data-protection/
   - label: Trust Center
     url: https://azure.microsoft.com/en-us/overview/trusted-cloud/
+  - label: Compliance Offerings
+    url: https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/
 logo: null
 score: low
 category: infrastructure

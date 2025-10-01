@@ -1,20 +1,14 @@
 name: Elasticsearch
 usage: |
-  Search and analytics engine. Provides powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
+  Search and analytics engine providing log analysis, search capabilities, and data visualization. Processes application logs, search queries, and analytics data.
 description: |
-  A distributed, RESTful search and analytics engine capable of solving a growing number of use cases, providing powerful search capabilities, log analytics, and data visualization tools for applications requiring advanced search and analytics features.
+  Medium risk due to extensive log data collection and potential for sensitive information in logs. Implements data retention controls and access management, but processes application logs that may contain PII and sensitive business information. Consider data classification and access controls for log data. Evaluate data retention policies and cross-border data transfer implications. Assess search query logging and audit capabilities.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.elastic.co/
+  - label: Security Documentation
+    url: https://www.elastic.co/security
   - label: Privacy Policy
     url: https://www.elastic.co/legal/privacy-statement
-  - label: Data Processing Agreement
-    url: https://www.elastic.co/legal/data-processing-agreement
-  - label: Security & Compliance
-    url: https://www.elastic.co/security
-  - label: Trust Center
-    url: https://www.elastic.co/trust
 logo: null
 score: medium
 category: data_storage

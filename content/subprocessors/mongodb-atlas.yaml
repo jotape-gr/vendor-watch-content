@@ -1,20 +1,14 @@
 name: MongoDB Atlas
 usage: |
-  Database hosting and management services. Provides fully managed MongoDB database hosting with automated backups, scaling, and security features.
+  Database hosting service providing managed MongoDB instances with automated backups, scaling, and security. Hosts application data and provides database infrastructure.
 description: |
-  A fully managed cloud database service for MongoDB that provides automated database hosting, scaling, backups, and security features, allowing developers to focus on building applications rather than managing database infrastructure.
+  Medium risk due to data storage sensitivity and access control requirements. Implements strong encryption and access controls, but processes application data that may contain sensitive business information. Consider data classification and access controls for database data. Evaluate backup data retention policies and cross-border data transfer implications. Assess database encryption and access logging capabilities.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.mongodb.com/atlas
+  - label: Security Documentation
+    url: https://www.mongodb.com/security
   - label: Privacy Policy
     url: https://www.mongodb.com/legal/privacy-policy
-  - label: Data Processing Agreement
-    url: https://www.mongodb.com/legal/data-processing-agreement
-  - label: Security & Compliance
-    url: https://www.mongodb.com/security
-  - label: Trust Center
-    url: https://www.mongodb.com/trust
 logo: null
 score: medium
 category: data_storage

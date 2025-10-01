@@ -1,20 +1,14 @@
 name: Amazon Web Services (AWS)
 usage: |
-  Cloud infrastructure hosting and services including compute, storage, networking, databases, and security services. Provides the foundational cloud platform for hosting applications and data.
+  Primary cloud infrastructure provider hosting all application services, databases, and data storage. Critical infrastructure supporting 99.99% uptime requirements with global data residency controls.
 description: |
-  The world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally, providing on-demand cloud computing platforms and APIs to individuals, companies, and governments on a metered pay-as-you-go basis.
+  Enterprise-grade security posture with comprehensive compliance certifications (SOC 2, ISO 27001, FedRAMP). Implements defense-in-depth security model with encryption at rest and in transit, network isolation, and identity access management. Low risk due to mature security controls, extensive audit logging, and geographic data residency controls. Single point of failure risk requires careful backup and disaster recovery planning.
 country: United States
 urls:
-  - label: Official Website
-    url: https://aws.amazon.com/
-  - label: Privacy Notice
-    url: https://aws.amazon.com/privacy/
-  - label: Compliance Programs
+  - label: AWS Compliance Center
     url: https://aws.amazon.com/compliance/
-  - label: Security & Compliance
-    url: https://aws.amazon.com/security/
-  - label: Data Processing Agreement
-    url: https://aws.amazon.com/compliance/data-processing-agreement/
+  - label: Security Documentation
+    url: https://docs.aws.amazon.com/security/
 logo: null
 score: low
 category: infrastructure

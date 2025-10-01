@@ -1,20 +1,14 @@
 name: Google Cloud Platform (GCP)
 usage: |
-  Cloud computing and data storage services including compute, storage, networking, databases, and AI/ML services. Provides scalable cloud infrastructure for applications and data processing.
+  Cloud infrastructure provider hosting applications, databases, and data storage. Critical infrastructure supporting compute, storage, and AI/ML services with global data residency controls.
 description: |
-  A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, offering services in computing, data storage, data analytics, and machine learning.
+  Enterprise-grade security posture with comprehensive compliance certifications (SOC 2, ISO 27001). Implements defense-in-depth security model with encryption at rest and in transit, network isolation, and identity access management. Low risk due to mature security controls, extensive audit logging, and geographic data residency controls. Single point of failure risk requires careful backup and disaster recovery planning.
 country: United States
 urls:
-  - label: Official Website
-    url: https://cloud.google.com/
-  - label: Privacy Policy
-    url: https://cloud.google.com/terms/privacy
-  - label: Compliance & Security
-    url: https://cloud.google.com/security/compliance
-  - label: Data Processing Terms
-    url: https://cloud.google.com/terms/data-processing-terms
   - label: Trust & Safety
     url: https://cloud.google.com/security/trust
+  - label: Compliance & Security
+    url: https://cloud.google.com/security/compliance
 logo: null
 score: low
 category: infrastructure

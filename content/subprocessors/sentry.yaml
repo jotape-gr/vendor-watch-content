@@ -1,20 +1,14 @@
 name: Sentry
 usage: |
-  Error monitoring and performance tracking. Provides real-time error tracking, performance monitoring, and debugging tools to help developers identify and fix issues quickly.
+  Error monitoring and performance tracking platform. Collects application errors, performance metrics, and debugging data for real-time issue detection and resolution.
 description: |
-  A cloud-based error monitoring and performance monitoring platform that helps developers identify, debug, and fix issues in their applications, providing real-time error tracking, performance monitoring, and debugging tools across multiple programming languages and platforms.
+  Low risk due to strong security focus and SOC 2 compliance. Implements data minimization and access controls with comprehensive audit logging. However, processes sensitive application crash reports and debugging information that may contain PII or business-critical data. Consider data classification and access controls for error data. Evaluate data retention policies and cross-border data transfer implications.
 country: United States
 urls:
-  - label: Official Website
-    url: https://sentry.io/
+  - label: Security Documentation
+    url: https://sentry.io/security/
   - label: Privacy Policy
     url: https://sentry.io/privacy/
-  - label: Data Processing Agreement
-    url: https://sentry.io/legal/dpa/
-  - label: Security & Compliance
-    url: https://sentry.io/security/
-  - label: Trust & Security
-    url: https://sentry.io/trust/
 logo: null
 score: low
 category: analytics

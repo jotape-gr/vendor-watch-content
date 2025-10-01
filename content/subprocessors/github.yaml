@@ -1,20 +1,14 @@
 name: GitHub
 usage: |
-  Code repository and version control. Provides Git-based code hosting, collaboration tools, and project management features for software development teams.
+  Code repository and version control platform hosting source code, documentation, and project management. Essential development infrastructure for code storage, collaboration, and CI/CD workflows.
 description: |
-  A web-based platform that provides version control and collaboration features for software development, offering Git-based code hosting, issue tracking, project management, and collaboration tools for developers and teams.
+  Low risk due to strong security controls and enterprise-grade access management. Implements comprehensive audit logging and access controls for source code protection. However, source code contains sensitive business logic and intellectual property. Consider private repository settings and branch protection rules. Evaluate access controls, two-factor authentication requirements, and audit logging capabilities. Assess data residency requirements for source code storage.
 country: United States
 urls:
-  - label: Official Website
-    url: https://github.com/
+  - label: Security Documentation
+    url: https://github.com/security
   - label: Privacy Statement
     url: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
-  - label: Data Processing Agreement
-    url: https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement
-  - label: Security & Compliance
-    url: https://github.com/security
-  - label: Trust Center
-    url: https://github.com/trust
 logo: null
 score: low
 category: development

@@ -1,20 +1,14 @@
 name: Snowflake
 usage: |
-  Cloud data warehouse and analytics platform. Provides scalable data warehousing, analytics, and business intelligence solutions for large-scale data processing and analysis.
+  Cloud data warehouse platform hosting structured and semi-structured data. Provides scalable data storage, analytics, and business intelligence for large-scale data processing and analysis.
 description: |
-  A cloud-based data warehousing platform that provides scalable data storage, processing, and analytics capabilities, offering a fully managed service for data warehousing, data lakes, and analytics with built-in security and compliance features.
+  Low risk due to strong security controls and comprehensive compliance certifications (SOC 2, ISO 27001). Implements data encryption and access controls, but processes structured data that may contain sensitive business information. Consider data classification and access controls for warehouse data. Evaluate data residency requirements and cross-border data transfer implications. Assess query logging and audit capabilities.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.snowflake.com/
+  - label: Security Documentation
+    url: https://www.snowflake.com/security/
   - label: Privacy Policy
     url: https://www.snowflake.com/legal/privacy-policy/
-  - label: Data Processing Agreement
-    url: https://www.snowflake.com/legal/data-processing-agreement/
-  - label: Security & Compliance
-    url: https://www.snowflake.com/security/
-  - label: Trust Center
-    url: https://www.snowflake.com/trust/
 logo: null
 score: low
 category: data_storage

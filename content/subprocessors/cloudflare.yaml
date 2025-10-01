@@ -1,20 +1,14 @@
 name: Cloudflare
 usage: |
-  CDN, DDoS protection, and web security services. Provides content delivery, DNS, SSL/TLS certificates, and security features to protect and accelerate websites and applications.
+  Global CDN and security infrastructure providing DDoS protection, SSL/TLS termination, and content delivery. Critical infrastructure for website performance and security with global edge network.
 description: |
-  A web infrastructure and website security company that provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services, serving as a reverse proxy for websites and providing comprehensive security services.
+  Low risk due to strong security focus and comprehensive compliance certifications (SOC 2, ISO 27001). Implements data minimization practices and processes only necessary web traffic data. However, as a reverse proxy, has visibility into all web traffic and may log request data. Consider data residency requirements and log retention policies. Evaluate DDoS protection capabilities and incident response procedures.
 country: United States
 urls:
-  - label: Official Website
-    url: https://www.cloudflare.com/
+  - label: Security Documentation
+    url: https://www.cloudflare.com/security/
   - label: Privacy Policy
     url: https://www.cloudflare.com/privacypolicy/
-  - label: Security & Compliance
-    url: https://www.cloudflare.com/security/
-  - label: Data Processing Agreement
-    url: https://www.cloudflare.com/cloudflare-customer-dpa/
-  - label: Trust Hub
-    url: https://www.cloudflare.com/trust-hub/
 logo: null
 score: low
 category: infrastructure

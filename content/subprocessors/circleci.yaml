@@ -1,20 +1,14 @@
 name: CircleCI
 usage: |
-  Continuous integration and deployment. Provides automated testing, building, and deployment services to help development teams deliver code faster and more reliably.
+  CI/CD platform providing automated testing, building, and deployment services. Processes source code, build logs, and deployment data for development workflows.
 description: |
-  A continuous integration and continuous deployment platform that helps development teams automate their software development process, providing automated testing, building, and deployment services to help teams deliver code faster and more reliably.
+  Low risk due to strong security controls and access management. Implements data retention policies and access controls, but processes source code and build logs that may contain sensitive business information. Consider data classification and access controls for build data. Evaluate data retention policies and cross-border data transfer implications. Assess build logging and audit capabilities.
 country: United States
 urls:
-  - label: Official Website
-    url: https://circleci.com/
+  - label: Security Documentation
+    url: https://circleci.com/security/
   - label: Privacy Policy
     url: https://circleci.com/privacy/
-  - label: Data Processing Agreement
-    url: https://circleci.com/legal/data-processing-agreement/
-  - label: Security & Compliance
-    url: https://circleci.com/security/
-  - label: Trust Center
-    url: https://circleci.com/trust/
 logo: null
 score: low
 category: development

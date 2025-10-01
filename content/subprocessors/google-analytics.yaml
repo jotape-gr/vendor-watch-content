@@ -1,20 +1,14 @@
-name: Google Analytics
+name: Google Analytics 4
 usage: |
-  Web analytics and user behavior tracking. Provides insights into website traffic, user interactions, and conversion metrics for data-driven decision making.
+  Website and application analytics tracking user interactions, page views, and conversion events. Collects behavioral data for marketing optimization and product improvement insights.
 description: |
-  A web analytics service that tracks and reports website traffic, providing detailed statistics about website visitors and their behavior to help businesses understand their audience and optimize their online presence.
+  Medium risk due to extensive data collection scope and Google's advertising ecosystem integration. Implements data minimization and user consent controls, but data may be used for advertising purposes beyond analytics. GDPR compliance features available but require proper configuration. Consider data retention policies and user opt-out mechanisms. Potential for cross-site tracking and data correlation across Google services.
 country: United States
 urls:
-  - label: Official Website
-    url: https://analytics.google.com/
-  - label: Privacy Policy
-    url: https://policies.google.com/privacy
-  - label: Data Processing Terms
-    url: https://privacy.google.com/businesses/processorterms/
-  - label: Analytics Help
+  - label: Data Privacy & Security
+    url: https://support.google.com/analytics/topic/2919631
+  - label: Analytics Help Center
     url: https://support.google.com/analytics/
-  - label: Google Ads Data Processing Terms
-    url: https://privacy.google.com/businesses/processorterms/ads/
 logo: null
 score: medium
 category: analytics

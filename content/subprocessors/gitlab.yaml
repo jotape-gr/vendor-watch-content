@@ -1,20 +1,14 @@
 name: GitLab
 usage: |
-  DevOps platform and code repository. Provides complete DevOps lifecycle management including code hosting, CI/CD, project management, and security scanning.
+  DevOps platform providing code hosting, CI/CD pipelines, and project management. Essential development infrastructure for code storage, collaboration, and automated deployment.
 description: |
-  A web-based DevOps lifecycle tool that provides a Git repository manager with wiki, issue-tracking, and continuous integration and deployment pipeline features, offering a complete DevOps platform for software development teams.
+  Low risk due to strong security controls and enterprise-grade access management. Implements comprehensive audit logging and access controls for source code protection. However, source code contains sensitive business logic and intellectual property. Consider private repository settings and branch protection rules. Evaluate access controls, two-factor authentication requirements, and audit logging capabilities. Assess data residency requirements for source code storage.
 country: United States
 urls:
-  - label: Official Website
-    url: https://gitlab.com/
+  - label: Security Documentation
+    url: https://about.gitlab.com/security/
   - label: Privacy Policy
     url: https://about.gitlab.com/privacy/
-  - label: Data Processing Agreement
-    url: https://about.gitlab.com/privacy/dpa/
-  - label: Security & Compliance
-    url: https://about.gitlab.com/security/
-  - label: Trust Center
-    url: https://about.gitlab.com/trust/
 logo: null
 score: low
 category: development

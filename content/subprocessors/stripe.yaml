@@ -1,20 +1,14 @@
 name: Stripe
 usage: |
-  Payment processing and financial services. Provides payment processing, subscription billing, and financial infrastructure for online businesses and applications.
+  Payment processing infrastructure handling credit card transactions, subscription billing, and financial data. Processes sensitive payment information including card details, billing addresses, and transaction metadata.
 description: |
-  A financial technology company that provides payment processing software and application programming interfaces for e-commerce websites and mobile applications, offering payment processing, subscription billing, and financial infrastructure services.
+  Medium risk due to PCI DSS compliance requirements and financial data sensitivity. Implements strong encryption and fraud protection measures, but processes highly sensitive payment card information and personal identifiers. Subject to strict regulatory oversight and audit requirements. Consider data residency requirements and cross-border data transfer implications. Evaluate fraud detection algorithms and data retention policies for compliance.
 country: United States
 urls:
-  - label: Official Website
-    url: https://stripe.com/
-  - label: Privacy Policy
-    url: https://stripe.com/privacy
-  - label: Data Processing Agreement
-    url: https://stripe.com/dpa
-  - label: Security & Compliance
-    url: https://stripe.com/security
-  - label: Trust Center
-    url: https://stripe.com/trust
+  - label: Stripe Security Center
+    url: https://stripe.com/docs/security
+  - label: Privacy Center
+    url: https://stripe.com/legal/privacy-center
 logo: null
 score: medium
 category: payment_processing
