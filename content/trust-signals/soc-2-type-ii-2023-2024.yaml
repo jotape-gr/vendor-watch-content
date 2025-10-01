@@ -1,0 +1,13 @@
+name: SOC 2 Type II Report - 2023/2024
+description: |
+  Previous year's SOC 2 Type II attestation report demonstrating security,
+  availability, and confidentiality controls over a 12-month period, providing
+  historical compliance validation and continuous security assurance.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: third_party_assessments
+impact: organizational_security
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: Access Revocation Policy
+description: |
+  Systematic process for immediately revoking system access upon employee
+  termination, including termination checklists and defined SLAs to prevent
+  unauthorized access and ensure prompt deprovisioning of user accounts.
+link:
+icon:
+  type: lucide
+  lucideIcon: user-x
+type: control
+category: policies
+impact: internal_security_procedures
+date: 2024-01-01

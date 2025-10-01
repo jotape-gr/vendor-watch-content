@@ -1,13 +1,13 @@
 name: Enterprise Guard Data Security
-description: >-
-  Comprehensive data protection framework implementing multiple layers of security 
-  controls including data encryption, access management, monitoring, and compliance 
-  measures to safeguard sensitive information across the enterprise environment 
-  with documented procedures and audit trails.
-link: 
+description: |
+  Comprehensive data security architecture and controls documentation detailing
+  Miro's enterprise-grade data protection measures, security architecture, and
+  compliance framework for sensitive data handling and protection.
+link:
 icon:
   type: lucide
-  lucideIcon: file
+  lucideIcon: shield
 type: resource
 category: reports
 impact: data_and_privacy
+date: 2024-01-01

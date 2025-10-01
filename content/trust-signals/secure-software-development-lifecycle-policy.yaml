@@ -1,13 +1,13 @@
 name: Secure Software Development Lifecycle Policy
-description: >-
-  Mandatory security framework integrating security practices throughout the 
-  software development lifecycle including secure coding standards, security 
-  testing requirements, code review procedures, and vulnerability management 
-  protocols for building secure applications.
-link: https://owasp.org/www-project-application-security-verification-standard/
+description: |
+  Organizational policy establishing security requirements and practices throughout
+  the software development lifecycle, ensuring secure coding practices, security
+  testing, and vulnerability management in all software development activities.
+link:
 icon:
   type: lucide
-  lucideIcon: file-text
+  lucideIcon: code
 type: resource
 category: policies
-impact: infrastructure_security
+impact: product_security
+date: 2024-01-01

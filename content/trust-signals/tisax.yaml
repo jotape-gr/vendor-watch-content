@@ -1,0 +1,13 @@
+name: TISAX (Trusted Information Security Assessment Exchange)
+description: >-
+  Automotive industry security assessment standard requiring third-party verification 
+  of information security controls for handling sensitive automotive data, with 
+  annual assessments covering data protection, access controls, and incident 
+  management for automotive supply chain compliance.
+link: https://www.enx.com/en-us/tisax
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security

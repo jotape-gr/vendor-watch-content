@@ -1,0 +1,13 @@
+name: Cybersecurity Insurance
+description: |
+  Financial protection mechanism providing coverage for business disruptions
+  and financial losses resulting from cybersecurity incidents, data breaches,
+  and other cyber-related events to ensure business continuity and risk mitigation.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield-dollar-sign
+type: control
+category: policies
+impact: organizational_security
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: Cyber Essentials
+description: |
+  UK government-backed cybersecurity certification scheme validating implementation
+  of basic security controls against common cyber attacks, with annual assessments
+  covering technical controls and organizational security measures for UK businesses.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security
+date: 2024-01-01

@@ -1,13 +1,13 @@
 name: Clean Desk Policy
-description: >-
-  Mandatory physical security controls requiring employees to secure all sensitive 
-  information, documents, and electronic devices when leaving workspaces, including 
-  computer locking, document storage, and workspace clearing to prevent unauthorized 
-  access and data exposure.
-link: 
+description: |
+  Organizational policy requiring employees to maintain clean, secure workspaces
+  by securing sensitive documents and information when not in use, preventing
+  unauthorized access to confidential materials and reducing security risks.
+link:
 icon:
   type: lucide
   lucideIcon: file-text
 type: resource
 category: policies
-impact: organizational_security
+impact: internal_security_procedures
+date: 2024-01-01

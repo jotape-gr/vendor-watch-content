@@ -1,12 +1,13 @@
 name: Risk Management Policy
-description: >-
-  Executive-approved governance framework establishing systematic risk identification, 
-  assessment, treatment, and monitoring across the organization with defined 
-  methodologies, tolerance levels, mitigation strategies, and governance processes.
+description: |
+  Organizational policy establishing framework for identifying, assessing, and
+  managing security risks across all business operations, defining risk tolerance
+  levels and mitigation strategies to protect organizational assets and objectives.
 link:
 icon:
   type: lucide
-  lucideIcon: file-text
-type: control
+  lucideIcon: alert-triangle
+type: resource
 category: policies
 impact: organizational_security
+date: 2024-01-01

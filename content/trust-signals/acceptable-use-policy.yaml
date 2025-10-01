@@ -1,12 +1,13 @@
 name: Acceptable Use Policy
-description: >-
-  Executive-approved governance framework defining authorized and prohibited IT resource 
-  usage, user accountability measures, and enforcement procedures to prevent insider 
-  threats and unauthorized access across all organizational systems and data.
-link: 
+description: |
+  Organizational policy defining acceptable and prohibited uses of company systems,
+  networks, and resources, establishing guidelines for responsible technology use
+  and security compliance across all organizational activities.
+link:
 icon:
   type: lucide
   lucideIcon: file-text
 type: resource
 category: policies
-impact: organizational_security
+impact: internal_security_procedures
+date: 2024-01-01

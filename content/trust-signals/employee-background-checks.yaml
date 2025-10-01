@@ -1,0 +1,13 @@
+name: Employee Background Checks
+description: |
+  Pre-employment screening process to verify candidate credentials, criminal
+  history, and employment history, ensuring only qualified and trustworthy
+  individuals are hired for positions involving sensitive data or systems.
+link:
+icon:
+  type: lucide
+  lucideIcon: user-check
+type: control
+category: policies
+impact: internal_security_procedures
+date: 2024-01-01

@@ -1,12 +1,13 @@
 name: Cryptographic Key Management Policy
-description: >-
-  Comprehensive security framework governing cryptographic key lifecycle including 
-  secure generation, storage, distribution, rotation, and destruction procedures 
-  with role-based access controls and audit logging for protecting sensitive data.
-link: https://csrc.nist.gov/Projects/Key-Management/Key-Management-Guidelines
+description: |
+  Organizational policy establishing standards and procedures for cryptographic key
+  generation, distribution, storage, rotation, and destruction to ensure secure
+  encryption and decryption of sensitive data and communications.
+link:
 icon:
   type: lucide
-  lucideIcon: file-text
+  lucideIcon: key
 type: resource
 category: policies
-impact: infrastructure_security
+impact: internal_security_procedures
+date: 2024-01-01

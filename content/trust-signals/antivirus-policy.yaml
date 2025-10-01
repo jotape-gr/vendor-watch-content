@@ -1,12 +1,13 @@
 name: Antivirus Policy
-description: >-
-  Mandatory security framework requiring enterprise-grade antivirus deployment across 
-  all endpoints with real-time threat detection, automated quarantine procedures, 
-  signature updates, and centralized monitoring for comprehensive malware protection.
-link: 
+description: |
+  Organizational policy establishing requirements for antivirus software deployment,
+  configuration, and management across all systems and endpoints to protect against
+  malware, viruses, and other malicious software threats.
+link:
 icon:
   type: lucide
-  lucideIcon: file-text
+  lucideIcon: shield-alert
 type: resource
 category: policies
-impact: infrastructure_security
+impact: internal_security_procedures
+date: 2024-01-01

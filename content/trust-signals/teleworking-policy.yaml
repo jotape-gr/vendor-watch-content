@@ -1,12 +1,13 @@
 name: Teleworking Policy
-description: >-
-  Comprehensive security framework governing secure remote work practices including 
-  device security requirements, network access controls, data protection measures, 
-  and communication protocols for employees working outside the office environment.
-link: 
+description: |
+  Organizational policy establishing security requirements and guidelines for
+  remote work environments, ensuring secure access to company systems and data
+  while maintaining appropriate security controls and compliance standards.
+link:
 icon:
   type: lucide
-  lucideIcon: file-text
+  lucideIcon: home
 type: resource
 category: policies
-impact: organizational_security
+impact: internal_security_procedures
+date: 2024-01-01

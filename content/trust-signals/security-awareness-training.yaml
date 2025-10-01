@@ -1,0 +1,13 @@
+name: Security Awareness Training
+description: |
+  Mandatory employee education program covering cybersecurity best practices,
+  threat recognition, and incident reporting, required within 30 days of hire
+  and annually thereafter to maintain security-conscious workforce.
+link:
+icon:
+  type: lucide
+  lucideIcon: graduation-cap
+type: control
+category: policies
+impact: internal_security_procedures
+date: 2024-01-01

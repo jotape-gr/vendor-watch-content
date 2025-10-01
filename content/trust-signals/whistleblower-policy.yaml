@@ -1,0 +1,13 @@
+name: Whistleblower Policy
+description: |
+  Formalized policy establishing anonymous reporting channels for employees
+  and stakeholders to report potential security issues, fraud concerns, or
+  misconduct without fear of retaliation, ensuring transparency and accountability.
+link:
+icon:
+  type: lucide
+  lucideIcon: megaphone
+type: control
+category: policies
+impact: internal_security_procedures
+date: 2024-01-01
