@@ -1,10 +1,8 @@
 name: Antivirus Policy
 description: >-
-  Antivirus Policy - A document that establishes guidelines for the deployment, 
-  configuration, and management of antivirus and anti-malware software across 
-  an organization's systems, including update schedules, scan requirements, 
-  and incident response procedures
-link: https://www.ncsc.gov.uk/guidance/end-user-device-security-guidance-platform-specific-guidance
+  Ensures comprehensive malware protection across all endpoints through standardized 
+  deployment, real-time scanning, and automated threat response procedures.
+link: 
 icon:
   type: lucide
   lucideIcon: file-text

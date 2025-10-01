@@ -1,9 +1,8 @@
 name: Acceptable Use Policy
 description: >-
-  Acceptable Use Policy - A document that defines the rules and guidelines 
-  for using an organization's IT resources, systems, and services, including 
-  prohibited activities, user responsibilities, and consequences for violations
-link: https://www.iso.org/standard/27001
+  Establishes clear boundaries for IT resource usage, defining prohibited activities 
+  and user responsibilities to prevent insider threats and unauthorized access.
+link: 
 icon:
   type: lucide
   lucideIcon: file-text
