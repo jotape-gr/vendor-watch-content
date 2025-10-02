@@ -1,0 +1,13 @@
+name: Network Hardening Standards
+description: >-
+  Documented network and system hardening standards based on industry best practices 
+  with annual review cycles, ensuring consistent security configuration and 
+  vulnerability reduction across all infrastructure components.
+link: 
+icon:
+  type: lucide
+  lucideIcon: shield
+type: control
+category: internal_security_procedures
+impact: infrastructure_security
+date: 2024-01-01

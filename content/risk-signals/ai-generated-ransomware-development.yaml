@@ -1,0 +1,13 @@
+name: AI-Generated Ransomware Development
+description: >-
+  Risk of threat actors using AI tools to develop sophisticated ransomware variants 
+  with advanced evasion capabilities, encryption mechanisms, and anti-recovery 
+  features for sale on underground markets.
+link: https://www.hipaajournal.com/abuse-agentic-ai-all-stages-cybercriminal-operations/
+icon:
+  type: lucide
+  lucideIcon: shield-x
+type: incident
+category: security_incident
+impact: product_security
+date: 2025-08-29

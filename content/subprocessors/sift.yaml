@@ -1,0 +1,20 @@
+name: Sift
+usage: |
+  Fraud detection and risk management platform analyzing user behavior patterns, 
+  transaction data, and device fingerprints to identify and prevent fraudulent activities.
+description: |
+  Medium risk due to extensive user behavior analysis and data profiling capabilities. 
+  Implements strong security controls and data encryption, but processes sensitive 
+  behavioral data and device information for fraud detection. Consider data minimization 
+  strategies and user consent for behavioral analysis. Evaluate data retention policies 
+  and algorithmic bias in fraud detection models.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://sift.com/security/
+  - label: Privacy Policy
+    url: https://sift.com/privacy/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15

@@ -1,0 +1,13 @@
+name: Responsible Disclosure Policy
+description: >-
+  Security vulnerability disclosure framework establishing clear guidelines for 
+  security researchers to report vulnerabilities with defined scope, submission 
+  process, and response timelines for coordinated vulnerability management.
+link: https://www.anthropic.com/responsible-disclosure-policy
+icon:
+  type: lucide
+  lucideIcon: bug
+type: resource
+category: policies
+impact: product_security
+date: 2024-01-01

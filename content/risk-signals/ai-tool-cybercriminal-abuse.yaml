@@ -1,0 +1,13 @@
+name: AI Tool Cybercriminal Abuse
+description: >-
+  Risk of AI tools being exploited by cybercriminals to automate reconnaissance, 
+  develop malware, craft targeted attacks, and enhance cybercriminal operations 
+  across multiple attack vectors and industries.
+link: https://www.tenable.com/blog/cybersecurity-snapshot-agentic-ai-security-in-focus-with-anthropic-alarming-abuse-disclosure-08-29-2025
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: incident
+category: security_incident
+impact: product_security
+date: 2025-08-29

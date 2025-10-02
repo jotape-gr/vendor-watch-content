@@ -1,0 +1,20 @@
+name: ElevenLabs
+usage: |
+  AI-powered text-to-speech platform converting text into natural-sounding voice audio 
+  for accessibility features and voice-enabled applications.
+description: |
+  Medium risk due to AI processing of text content and voice generation capabilities. 
+  Implements data encryption and access controls, but processes text content that may 
+  contain sensitive information for voice synthesis. Consider data minimization strategies 
+  and content filtering for sensitive text. Evaluate data retention policies and voice 
+  data privacy implications for user consent and compliance.
+country: United States
+urls:
+  - label: Privacy Policy
+    url: https://elevenlabs.io/privacy
+  - label: Security Documentation
+    url: https://elevenlabs.io/security
+logo: null
+score: medium
+category: ai_usage
+date: 2024-01-15

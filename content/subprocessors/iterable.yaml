@@ -1,0 +1,20 @@
+name: Iterable
+usage: |
+  Email marketing and customer engagement platform managing automated email campaigns, 
+  user segmentation, and marketing communications for customer lifecycle management.
+description: |
+  Medium risk due to extensive customer data collection and marketing automation capabilities. 
+  Implements data encryption and access controls, but processes customer email addresses, 
+  behavioral data, and personal preferences for targeted marketing. Consider data residency 
+  requirements and marketing consent mechanisms. Evaluate data retention policies and 
+  cross-border data transfer implications for GDPR compliance.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://iterable.com/security/
+  - label: Privacy Policy
+    url: https://iterable.com/privacy/
+logo: null
+score: medium
+category: communication
+date: 2024-01-15

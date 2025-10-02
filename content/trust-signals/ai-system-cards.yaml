@@ -1,0 +1,13 @@
+name: AI System Cards
+description: >-
+  Detailed documentation outlining AI system architecture, safety measures, 
+  risk mitigation strategies, and operational procedures for responsible 
+  AI system deployment and monitoring.
+link: 
+icon:
+  type: lucide
+  lucideIcon: file-text
+type: resource
+category: reports
+impact: product_security
+date: 2024-01-01

@@ -1,0 +1,20 @@
+name: Brave Search
+usage: |
+  Privacy-focused web search engine providing search results and web content for AI model 
+  training and real-time information retrieval without user tracking or data collection.
+description: |
+  Low risk due to privacy-focused design and minimal data collection practices. Implements 
+  strong privacy controls and does not track users or store personal information. However, 
+  search queries may contain sensitive information and results are processed by AI systems. 
+  Consider data minimization strategies and search query sanitization. Evaluate data 
+  retention policies and search result filtering mechanisms.
+country: United States
+urls:
+  - label: Privacy Policy
+    url: https://search.brave.com/help/privacy
+  - label: Security Documentation
+    url: https://brave.com/privacy/
+logo: null
+score: low
+category: other
+date: 2024-01-15

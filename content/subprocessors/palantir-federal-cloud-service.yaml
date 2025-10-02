@@ -1,0 +1,21 @@
+name: Palantir Federal Cloud Service (PFCS)
+usage: |
+  FedRAMP-authorized cloud infrastructure platform providing secure, compliant cloud 
+  services for government and regulated industry customers with strict data sovereignty requirements.
+description: |
+  Low risk due to FedRAMP authorization and government-grade security controls. Implements 
+  comprehensive security measures and compliance frameworks required for federal government 
+  use. However, as a government cloud provider, may be subject to additional regulatory 
+  requirements and data sovereignty constraints. Consider data residency requirements and 
+  government access implications. Evaluate compliance with federal security standards and 
+  data handling procedures.
+country: United States
+urls:
+  - label: FedRAMP Documentation
+    url: https://www.palantir.com/fedramp/
+  - label: Security Documentation
+    url: https://www.palantir.com/security/
+logo: null
+score: low
+category: infrastructure
+date: 2024-01-15

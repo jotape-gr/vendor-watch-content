@@ -1,0 +1,13 @@
+name: Production Access Restrictions
+description: >-
+  Comprehensive access controls restricting privileged access to production systems, 
+  databases, applications, and infrastructure to authorized users with documented 
+  business need and proper authorization procedures.
+link: 
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: control
+category: internal_security_procedures
+impact: infrastructure_security
+date: 2024-01-01

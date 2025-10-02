@@ -1,0 +1,20 @@
+name: Arkose Labs
+usage: |
+  Fraud prevention and bot detection platform using behavioral analysis and challenge-response 
+  mechanisms to identify and block automated attacks and fraudulent user activities.
+description: |
+  Medium risk due to extensive user behavior monitoring and device fingerprinting capabilities. 
+  Implements strong security controls and data encryption, but processes sensitive behavioral 
+  data and device information for fraud detection. Consider data minimization strategies and 
+  user consent for behavioral analysis. Evaluate data retention policies and privacy implications 
+  of challenge-response mechanisms.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://www.arkoselabs.com/security/
+  - label: Privacy Policy
+    url: https://www.arkoselabs.com/privacy/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15

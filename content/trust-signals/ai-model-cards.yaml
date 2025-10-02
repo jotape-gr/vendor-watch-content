@@ -1,0 +1,13 @@
+name: AI Model Cards
+description: >-
+  Comprehensive documentation providing detailed information about AI model 
+  capabilities, limitations, training data, evaluation methods, and safety 
+  considerations for transparent and responsible AI deployment.
+link: 
+icon:
+  type: lucide
+  lucideIcon: file-text
+type: resource
+category: reports
+impact: product_security
+date: 2024-01-01
