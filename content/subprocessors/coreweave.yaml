@@ -1,0 +1,13 @@
+name: CoreWeave, Inc.
+description: >-
+  Cloud infrastructure provider offering GPU-accelerated computing services 
+  for AI and machine learning workloads, providing scalable compute resources 
+  for OpenAI's API and ChatGPT services.
+link: https://www.coreweave.com/
+icon:
+  type: lucide
+  lucideIcon: server
+type: subprocessor
+category: cloud_infrastructure
+impact: data_and_privacy
+date: 2024-01-01

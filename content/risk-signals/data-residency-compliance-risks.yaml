@@ -1,0 +1,14 @@
+name: Data Residency Compliance Risks
+description: >-
+  Potential non-compliance with regional data residency requirements and data 
+  sovereignty laws. Organizations operating in regions with strict data 
+  localization laws must ensure that vendor data storage aligns with their 
+  regulatory obligations and jurisdictional requirements.
+link: 
+icon:
+  type: lucide
+  lucideIcon: globe
+type: regulatory
+category: other
+impact: regulatory_compliance
+date: 2025-01-15

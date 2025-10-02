@@ -1,0 +1,13 @@
+name: Data Loss Prevention
+description: >-
+  Data Loss Prevention (DLP) solutions that actively monitor and alert on the 
+  transfer of confidential data to unauthorized sources, ensuring sensitive 
+  information is protected from exposure and unauthorized access.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-01-01

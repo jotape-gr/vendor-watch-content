@@ -1,0 +1,14 @@
+name: Third-Party Integration Vulnerabilities
+description: >-
+  Security risks introduced through third-party application integrations and 
+  supply chain vulnerabilities. Each integration can introduce potential 
+  security risks if not properly vetted, monitored, and managed according to 
+  organizational security standards.
+link: 
+icon:
+  type: lucide
+  lucideIcon: link
+type: vulnerability
+category: supply_chain
+impact: infrastructure_security
+date: 2025-01-15

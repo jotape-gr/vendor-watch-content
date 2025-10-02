@@ -1,0 +1,13 @@
+name: Intrusion Detection System
+description: >-
+  Network-based intrusion detection system (IDS) with specialized detection logic 
+  to identify potential security threats, unauthorized access, and anomalous 
+  behavior, enabling early detection of attacks and generation of security alerts.
+link:
+icon:
+  type: lucide
+  lucideIcon: eye
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

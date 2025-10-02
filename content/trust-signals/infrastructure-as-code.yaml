@@ -1,0 +1,13 @@
+name: Infrastructure as Code
+description: >-
+  Infrastructure-as-code (IaC) practices for securely deploying and managing 
+  resources within operational environments, enabling rapid provisioning and 
+  scaling while ensuring all deployments meet stringent security standards.
+link:
+icon:
+  type: lucide
+  lucideIcon: code
+type: control
+category: internal_security_procedures
+impact: infrastructure_security
+date: 2024-01-01

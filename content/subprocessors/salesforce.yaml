@@ -1,0 +1,13 @@
+name: Salesforce
+description: >-
+  Customer relationship management platform providing customer support 
+  services and CRM functionality for OpenAI's API, ChatGPT Enterprise, 
+  ChatGPT Edu, and ChatGPT Team products.
+link: https://www.salesforce.com/
+icon:
+  type: lucide
+  lucideIcon: users
+type: subprocessor
+category: customer_support
+impact: data_and_privacy
+date: 2024-01-01

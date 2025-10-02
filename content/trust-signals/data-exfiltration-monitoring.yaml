@@ -1,0 +1,13 @@
+name: Data Exfiltration Monitoring
+description: >-
+  Advanced monitoring tools and controls to detect and prevent unauthorized data 
+  exfiltration, including removable media restrictions, suspicious activity 
+  detection, and escalation procedures for potential data breaches.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-01-01

@@ -1,0 +1,14 @@
+name: Collaborative Content Exposure
+description: >-
+  Risk of exposing sensitive information through improper sharing policies, 
+  accidental public board access, or inadequate content monitoring in 
+  collaborative platforms. The ease of sharing can lead to unintended data 
+  exposure if proper controls and user awareness are not maintained.
+link: 
+icon:
+  type: lucide
+  lucideIcon: eye-off
+type: threat
+category: data_breach
+impact: data_and_privacy
+date: 2025-01-15

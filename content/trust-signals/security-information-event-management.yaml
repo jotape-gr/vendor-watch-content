@@ -1,0 +1,13 @@
+name: Security Information and Event Management
+description: >-
+  Centralized Security Information and Event Management (SIEM) system for secure 
+  storage and continuous monitoring of infrastructure logs, enabling real-time 
+  analysis to detect, alert, and mitigate potential security threats promptly.
+link:
+icon:
+  type: lucide
+  lucideIcon: activity
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

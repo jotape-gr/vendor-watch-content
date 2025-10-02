@@ -1,0 +1,13 @@
+name: Security Operations Center
+description: >-
+  In-house Security Operations Center (SOC) providing continuous security 
+  monitoring with 24x7x365 assessment of activity logs through detection 
+  algorithms and centralized Security Information and Event Management (SIEM) systems.
+link:
+icon:
+  type: lucide
+  lucideIcon: monitor
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

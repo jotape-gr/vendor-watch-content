@@ -1,0 +1,13 @@
+name: Data Residency Options
+description: >-
+  Regional data storage options enabling customers to host content in specific 
+  geographic regions to meet data sovereignty requirements and compliance 
+  with local regulations.
+link: https://openai.com/business-data
+icon:
+  type: lucide
+  lucideIcon: globe
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

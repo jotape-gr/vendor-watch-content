@@ -1,0 +1,13 @@
+name: Governance Transparency Concerns
+description: >-
+  Risk of reduced accountability and transparency due to organizational 
+  restructuring that may weaken governance structures and oversight mechanisms, 
+  potentially impacting long-term security and compliance commitments.
+link: https://www.safetyabandoned.org/
+icon:
+  type: lucide
+  lucideIcon: alert-triangle
+type: threat
+category: other
+impact: organizational_security
+date: 2024-05-16

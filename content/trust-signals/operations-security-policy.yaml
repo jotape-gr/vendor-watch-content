@@ -1,0 +1,13 @@
+name: Operations Security Policy
+description: >-
+  Organizational policy defining network logging and monitoring procedures, 
+  operational security controls, and security monitoring requirements to 
+  ensure comprehensive security oversight and threat detection.
+link:
+icon:
+  type: lucide
+  lucideIcon: monitor
+type: resource
+category: policies
+impact: organizational_security
+date: 2024-01-01

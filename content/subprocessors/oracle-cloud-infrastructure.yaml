@@ -1,0 +1,13 @@
+name: Oracle Cloud Infrastructure
+description: >-
+  Cloud infrastructure provider offering compute, storage, and networking 
+  services for enterprise applications, providing cloud infrastructure 
+  support for OpenAI's API and ChatGPT services.
+link: https://www.oracle.com/cloud/
+icon:
+  type: lucide
+  lucideIcon: server
+type: subprocessor
+category: cloud_infrastructure
+impact: data_and_privacy
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: TaskUs, LLC
+description: >-
+  Business process outsourcing provider offering customer support and content 
+  moderation services, providing customer support for all OpenAI services and 
+  content moderation for API, ChatGPT Team, Enterprise, and Edu products.
+link: https://www.taskus.com/
+icon:
+  type: lucide
+  lucideIcon: users
+type: subprocessor
+category: customer_support
+impact: data_and_privacy
+date: 2024-01-01

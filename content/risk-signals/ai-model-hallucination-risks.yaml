@@ -1,0 +1,13 @@
+name: AI Model Hallucination Risks
+description: >-
+  Risk of AI models generating false or misleading information that could 
+  lead to incorrect decisions, data integrity issues, or compliance violations 
+  in business-critical applications.
+link: https://openai.com/research/hallucinations
+icon:
+  type: lucide
+  lucideIcon: brain
+type: threat
+category: other
+impact: product_security
+date: 2024-02-23

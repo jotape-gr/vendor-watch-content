@@ -1,0 +1,13 @@
+name: Data Breach Notification
+description: >-
+  Formal process for notifying affected parties and authorities in the event 
+  of a data breach, including notification timelines, content requirements, 
+  and regulatory compliance procedures for breach response.
+link:
+icon:
+  type: lucide
+  lucideIcon: alert-triangle
+type: control
+category: policies
+impact: data_and_privacy
+date: 2024-01-01

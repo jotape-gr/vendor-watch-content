@@ -1,0 +1,14 @@
+name: Data Retention Policy Gaps
+description: >-
+  Unclear or misaligned data retention and deletion practices that may conflict 
+  with organizational data governance requirements, regulatory compliance, and 
+  legal obligations. Organizations must ensure vendor policies align with 
+  internal data lifecycle management standards.
+link: 
+icon:
+  type: lucide
+  lucideIcon: clock
+type: regulatory
+category: other
+impact: regulatory_compliance
+date: 2025-01-15

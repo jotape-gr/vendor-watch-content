@@ -1,0 +1,14 @@
+name: Access Control Misconfiguration
+description: >-
+  Risks from improper configuration of role-based access controls, Single Sign-On 
+  (SSO), and user permissions leading to unauthorized access to sensitive 
+  information. Requires regular audits and proper implementation to maintain 
+  data integrity and prevent privilege escalation.
+link: 
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: threat
+category: security_incident
+impact: internal_security_procedures
+date: 2025-01-15

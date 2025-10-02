@@ -1,0 +1,13 @@
+name: WorkOS, Inc.
+description: >-
+  Enterprise identity and access management platform providing cross-domain 
+  identity management services for OpenAI's ChatGPT Enterprise, ChatGPT Edu, 
+  and ChatGPT Team products, enabling secure enterprise authentication.
+link: https://workos.com/
+icon:
+  type: lucide
+  lucideIcon: key
+type: subprocessor
+category: identity_management
+impact: data_and_privacy
+date: 2024-01-01

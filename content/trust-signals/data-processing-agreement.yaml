@@ -1,0 +1,13 @@
+name: Data Processing Agreement
+description: >-
+  Legal agreement establishing data processing terms, responsibilities, and 
+  safeguards between data controller and processor, ensuring compliance with 
+  data protection regulations and defining data handling requirements.
+link:
+icon:
+  type: lucide
+  lucideIcon: file-text
+type: resource
+category: policies
+impact: data_and_privacy
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: Supply Chain Risk Management
+description: >-
+  Comprehensive supply chain risk management program including security controls 
+  governing third-party relationships, vendor security assessments, and ongoing 
+  monitoring of external parties to ensure security posture compliance.
+link:
+icon:
+  type: lucide
+  lucideIcon: link
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

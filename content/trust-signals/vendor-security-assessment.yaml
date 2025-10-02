@@ -1,0 +1,13 @@
+name: Vendor Security Assessment
+description: >-
+  Systematic vendor security assessment process evaluating external parties 
+  against industry standard frameworks for security controls maturity, 
+  including compensating controls documentation and ongoing security posture monitoring.
+link:
+icon:
+  type: lucide
+  lucideIcon: user-check
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: Accenture International Limited
+description: >-
+  Global professional services company providing customer support services 
+  for OpenAI's API, ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team products, 
+  offering business process outsourcing and customer service solutions.
+link: https://www.accenture.com/
+icon:
+  type: lucide
+  lucideIcon: users
+type: subprocessor
+category: customer_support
+impact: data_and_privacy
+date: 2024-01-01

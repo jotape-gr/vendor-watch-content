@@ -1,0 +1,13 @@
+name: Data Training Privacy Risks
+description: >-
+  Risk of sensitive data being inadvertently included in model training datasets 
+  or exposed through model outputs, potentially violating privacy regulations 
+  and data protection requirements.
+link: https://openai.com/policies/row-privacy-policy
+icon:
+  type: lucide
+  lucideIcon: eye-off
+type: threat
+category: other
+impact: data_and_privacy
+date: 2024-02-23

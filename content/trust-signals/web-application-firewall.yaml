@@ -1,0 +1,13 @@
+name: Web Application Firewall
+description: >-
+  Industry-leading Web Application Firewall (WAF) service monitoring web traffic, 
+  detecting anomalies, and deploying rulesets to protect online applications from 
+  security threats and ensure continued security and availability.
+link:
+icon:
+  type: lucide
+  lucideIcon: shield
+type: control
+category: internal_security_procedures
+impact: infrastructure_security
+date: 2024-01-01

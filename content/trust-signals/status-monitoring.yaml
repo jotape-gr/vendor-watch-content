@@ -1,0 +1,13 @@
+name: Status Monitoring
+description: >-
+  Comprehensive system status monitoring and reporting infrastructure providing 
+  real-time visibility into service availability, performance metrics, and 
+  operational health with public status pages and incident communication.
+link:
+icon:
+  type: lucide
+  lucideIcon: activity
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

@@ -1,0 +1,14 @@
+name: Incident Response Delays
+description: >-
+  Potential delays in addressing security vulnerabilities, incidents, or 
+  compliance issues due to inadequate incident response procedures, slow 
+  vulnerability disclosure, or insufficient monitoring capabilities. 
+  Organizations should evaluate vendor response mechanisms for timely mitigation.
+link: 
+icon:
+  type: lucide
+  lucideIcon: alert-triangle
+type: incident
+category: security_incident
+impact: organizational_security
+date: 2025-01-15

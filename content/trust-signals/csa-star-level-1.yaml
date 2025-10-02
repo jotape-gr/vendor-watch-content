@@ -1,0 +1,13 @@
+name: CSA STAR Level 1
+description: >-
+  Cloud Security Alliance self-assessment questionnaire enabling cloud providers 
+  to document security controls and practices, allowing customers to evaluate 
+  cloud security posture and compliance with industry standards.
+link: https://cloudsecurityalliance.org/star/
+icon:
+  type: lucide
+  lucideIcon: star
+type: resource
+category: questionnaires
+impact: organizational_security
+date: 2024-02-23

@@ -1,0 +1,13 @@
+name: Privacy Policy
+description: >-
+  Comprehensive privacy policy outlining data collection, processing, storage, 
+  and sharing practices, user rights, and privacy safeguards to ensure 
+  transparent and compliant data handling practices.
+link:
+icon:
+  type: lucide
+  lucideIcon: eye
+type: resource
+category: policies
+impact: data_and_privacy
+date: 2024-01-01

@@ -1,0 +1,13 @@
+name: TLS Encryption in Transit
+description: >-
+  Transport Layer Security protocol implementing TLS 1.2 or higher for data 
+  in transit protection, ensuring secure communication channels and preventing 
+  unauthorized interception of customer data during transmission.
+link: https://en.wikipedia.org/wiki/Transport_Layer_Security
+icon:
+  type: lucide
+  lucideIcon: shield
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

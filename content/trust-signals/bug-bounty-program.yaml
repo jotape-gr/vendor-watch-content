@@ -1,0 +1,13 @@
+name: Bug Bounty Program
+description: >-
+  Security vulnerability disclosure program inviting security researchers to 
+  report vulnerabilities with monetary rewards based on severity and impact, 
+  enabling proactive security testing and vulnerability management.
+link: https://openai.com/bug-bounty-program
+icon:
+  type: lucide
+  lucideIcon: bug
+type: control
+category: internal_security_procedures
+impact: product_security
+date: 2024-02-23

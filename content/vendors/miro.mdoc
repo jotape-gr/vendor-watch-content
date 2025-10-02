@@ -210,7 +210,79 @@ trustSignalItems:
     link: 
     date: 2024-01-01
     showInFeed: true
-riskSignalItems: []
+riskSignalItems:
+  - signal: collaborative-content-exposure
+    description: >-
+      Miro's collaborative nature allows for easy sharing of boards, which can 
+      lead to accidental exposure of sensitive information if sharing policies 
+      are not properly configured. The platform's ease of use can inadvertently 
+      result in public access to confidential business information.
+    link: https://help.miro.com/hc/en-us/articles/360012346599-Miro-security-and-compliance-FAQ
+    date: 2024-01-01
+    severity: medium
+    showInFeed: true
+  - signal: data-residency-compliance-risks
+    description: >-
+      While Miro offers data residency options in EU, US, and Australia, 
+      organizations must carefully configure their data residency settings to 
+      ensure compliance with regional regulations. Default EU storage may not 
+      align with all organizational requirements, requiring explicit configuration.
+    link: https://help.miro.com/hc/en-us/articles/360012346599-Miro-security-and-compliance-FAQ
+    date: 2024-01-01
+    severity: low
+    showInFeed: false
+  - signal: third-party-integration-vulnerabilities
+    description: >-
+      Miro integrates with numerous third-party applications including Microsoft 
+      Azure, Google Cloud Platform, and various productivity tools. Each 
+      integration introduces potential supply chain vulnerabilities that require 
+      careful assessment and monitoring to prevent unauthorized data access or 
+      security breaches.
+    link: https://miro.com/blog/microsoft-defender-cloud-apps/
+    date: 2024-01-01
+    severity: medium
+    showInFeed: false
+  - signal: access-control-misconfiguration
+    description: >-
+      Miro's role-based access controls and SSO integration require proper 
+      configuration to prevent unauthorized board access. Improper permission 
+      settings or inadequate user provisioning can lead to exposure of sensitive 
+      collaborative content to unauthorized users.
+    link: https://miro.com/features/security/
+    date: 2024-01-01
+    severity: medium
+    showInFeed: false
+  - signal: data-retention-policy-gaps
+    description: >-
+      Miro retains customer content according to customer instructions and 
+      applicable laws, but organizations must ensure these policies align with 
+      their internal data governance requirements. The platform's data retention 
+      practices may not meet all organizational compliance needs without proper 
+      configuration and monitoring.
+    link: https://miro.com/legal/privacy-policy/
+    date: 2024-01-01
+    severity: low
+    showInFeed: false
+  - signal: incident-response-delays
+    description: >-
+      While Miro maintains a bug bounty program through Intigriti, organizations 
+      should evaluate the platform's incident response capabilities and 
+      vulnerability disclosure processes to ensure timely mitigation of security 
+      issues that could impact collaborative workflows.
+    link: https://help.miro.com/hc/en-us/articles/360012346599-Miro-security-and-compliance-FAQ
+    date: 2024-01-01
+    severity: low
+    showInFeed: false
+  - signal: user-awareness-deficiencies
+    description: >-
+      The effectiveness of Miro's security features depends heavily on user 
+      awareness and proper usage. Without adequate training, users may 
+      inadvertently expose sensitive information through improper sharing, 
+      weak authentication practices, or misuse of collaborative features.
+    link: https://miro.com/blog/data-security-innovation/
+    date: 2024-01-01
+    severity: low
+    showInFeed: false
 subprocessorItems:
   - subprocessor: amazon-web-services-aws
     vendorCountry: Global (Ireland, United States, Australia)

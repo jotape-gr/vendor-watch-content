@@ -1,0 +1,13 @@
+name: DMARC
+description: >-
+  Domain-based Message Authentication, Reporting, and Conformance (DMARC) 
+  implementation to authenticate email communications and prevent unauthorized 
+  entities from masquerading as legitimate senders through the organization's domain.
+link:
+icon:
+  type: lucide
+  lucideIcon: mail
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

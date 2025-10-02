@@ -1,0 +1,13 @@
+name: Data Retention Controls
+description: >-
+  Configurable data retention policies enabling organizations to control data 
+  lifecycle, including zero data retention options for compliance requirements 
+  and data sovereignty needs.
+link: https://openai.com/business-data
+icon:
+  type: lucide
+  lucideIcon: clock
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

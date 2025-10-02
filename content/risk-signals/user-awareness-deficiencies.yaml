@@ -1,0 +1,14 @@
+name: User Awareness Deficiencies
+description: >-
+  Human errors and security breaches resulting from insufficient user training, 
+  lack of security awareness, or improper usage of collaboration tools. Users 
+  may inadvertently expose sensitive data, fall victim to phishing attacks, or 
+  misuse platform features without proper education and ongoing training.
+link: 
+icon:
+  type: lucide
+  lucideIcon: users
+type: threat
+category: insider_threat
+impact: internal_security_procedures
+date: 2025-01-15

@@ -1,0 +1,13 @@
+name: Asset Management
+description: >-
+  Comprehensive asset management practices for systematic identification and 
+  cataloging of organizational assets (virtual and physical), defining 
+  appropriate protection responsibilities and maintaining updated asset inventories.
+link:
+icon:
+  type: lucide
+  lucideIcon: package
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-01-01

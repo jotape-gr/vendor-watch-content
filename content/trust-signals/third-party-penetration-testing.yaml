@@ -1,0 +1,13 @@
+name: Third-Party Penetration Testing
+description: >-
+  Regular independent security assessments conducted by third-party experts 
+  to identify vulnerabilities and security weaknesses before exploitation, 
+  ensuring ongoing security validation.
+link: https://openai.com/security-and-privacy
+icon:
+  type: lucide
+  lucideIcon: shield-alert
+type: resource
+category: third_party_pen_tests
+impact: product_security
+date: 2024-02-23

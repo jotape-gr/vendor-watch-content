@@ -1,0 +1,13 @@
+name: ISO/IEC 27017:2015
+description: >-
+  Third-party audited certification validating cloud security controls and 
+  implementation guidance with annual surveillance audits covering cloud-specific 
+  security controls for cloud service providers and customers.
+link: https://www.iso.org/standard/43757.html
+icon:
+  type: lucide
+  lucideIcon: cloud
+type: resource
+category: certifications
+impact: infrastructure_security
+date: 2024-02-23

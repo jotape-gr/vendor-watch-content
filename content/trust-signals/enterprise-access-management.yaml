@@ -1,0 +1,13 @@
+name: Enterprise Access Management
+description: >-
+  Enterprise-grade access controls including multi-factor authentication, 
+  single sign-on (SAML SSO), and role-based access controls for comprehensive 
+  user management and security.
+link: https://openai.com/business-data
+icon:
+  type: lucide
+  lucideIcon: user-check
+type: control
+category: internal_security_procedures
+impact: organizational_security
+date: 2024-02-23

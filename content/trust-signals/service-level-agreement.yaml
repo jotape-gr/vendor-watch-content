@@ -1,0 +1,13 @@
+name: Service Level Agreement
+description: >-
+  Formal agreement defining service performance standards, availability 
+  commitments, response times, and remediation procedures to ensure 
+  reliable service delivery and customer satisfaction.
+link:
+icon:
+  type: lucide
+  lucideIcon: clock
+type: resource
+category: policies
+impact: organizational_security
+date: 2024-01-01

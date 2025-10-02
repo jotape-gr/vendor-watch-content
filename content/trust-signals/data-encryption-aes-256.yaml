@@ -1,0 +1,13 @@
+name: Data Encryption (AES-256)
+description: >-
+  Advanced encryption standard implementing 256-bit key length for data at rest 
+  protection, providing military-grade security for sensitive data storage 
+  and ensuring confidentiality of customer information.
+link: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+icon:
+  type: lucide
+  lucideIcon: lock
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

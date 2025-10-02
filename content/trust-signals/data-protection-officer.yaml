@@ -1,0 +1,13 @@
+name: Data Protection Officer
+description: >-
+  Designated data protection officer (DPO) responsible for overseeing data 
+  protection compliance, providing privacy guidance, and serving as a point 
+  of contact for data protection matters and regulatory inquiries.
+link:
+icon:
+  type: lucide
+  lucideIcon: user-shield
+type: control
+category: policies
+impact: data_and_privacy
+date: 2024-01-01

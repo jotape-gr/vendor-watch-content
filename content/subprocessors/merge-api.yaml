@@ -1,0 +1,13 @@
+name: Merge API, Inc.
+description: >-
+  API integration platform providing infrastructure management services for 
+  connecting and managing various business applications, supporting OpenAI's 
+  ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team products.
+link: https://merge.dev/
+icon:
+  type: lucide
+  lucideIcon: plug
+type: subprocessor
+category: infrastructure_management
+impact: data_and_privacy
+date: 2024-01-01

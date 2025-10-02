@@ -1,0 +1,13 @@
+name: Data Filtering and Preprocessing
+description: >-
+  Robust data filtering and preprocessing pipeline removing personally identifiable 
+  information and harmful content from training datasets, ensuring data quality 
+  and privacy protection in model training processes.
+link: https://openai.com/research
+icon:
+  type: lucide
+  lucideIcon: filter
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

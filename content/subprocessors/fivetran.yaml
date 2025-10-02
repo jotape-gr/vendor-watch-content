@@ -1,0 +1,13 @@
+name: Fivetran, Inc.
+description: >-
+  Data integration platform providing ETL (Extract, Transform, Load) services 
+  for data warehousing and analytics, supporting OpenAI's Assistants API 
+  with data pipeline and integration capabilities.
+link: https://www.fivetran.com/
+icon:
+  type: lucide
+  lucideIcon: database
+type: subprocessor
+category: data_analytics
+impact: data_and_privacy
+date: 2024-01-01

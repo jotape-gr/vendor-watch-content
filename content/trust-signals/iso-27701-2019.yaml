@@ -1,0 +1,13 @@
+name: ISO/IEC 27701:2019
+description: >-
+  Third-party audited certification validating privacy information management 
+  systems with annual surveillance audits covering privacy controls and 
+  data protection requirements for organizations processing personal data.
+link: https://www.iso.org/standard/71670.html
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: data_and_privacy
+date: 2024-02-23

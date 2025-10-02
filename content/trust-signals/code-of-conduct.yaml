@@ -1,0 +1,13 @@
+name: Code of Conduct
+description: >-
+  Organizational code of conduct establishing ethical standards, behavioral 
+  expectations, and compliance requirements for employees, defining acceptable 
+  workplace behavior and professional conduct standards.
+link:
+icon:
+  type: lucide
+  lucideIcon: users
+type: resource
+category: policies
+impact: organizational_security
+date: 2024-01-01

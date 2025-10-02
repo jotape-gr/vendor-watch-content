@@ -1,0 +1,13 @@
+name: Confluent
+description: >-
+  Data streaming platform providing infrastructure management services for 
+  real-time data processing and event streaming, supporting OpenAI's API, 
+  ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team products.
+link: https://www.confluent.io/
+icon:
+  type: lucide
+  lucideIcon: activity
+type: subprocessor
+category: infrastructure_management
+impact: data_and_privacy
+date: 2024-01-01

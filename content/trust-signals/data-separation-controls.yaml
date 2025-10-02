@@ -1,0 +1,13 @@
+name: Data Separation Controls
+description: >-
+  Logical separation controls ensuring customer data cannot leak into training 
+  datasets, with dedicated data processing pipelines that maintain strict 
+  separation between training data and enterprise customer data.
+link: https://openai.com/research
+icon:
+  type: lucide
+  lucideIcon: database
+type: control
+category: internal_security_procedures
+impact: data_and_privacy
+date: 2024-02-23

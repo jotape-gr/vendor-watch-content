@@ -1,0 +1,13 @@
+name: Okta, Inc.
+description: >-
+  Identity and access management platform providing user authentication 
+  services via Auth0 for OpenAI's API, ChatGPT Enterprise, ChatGPT Edu, 
+  and ChatGPT Team products, enabling secure user authentication and authorization.
+link: https://www.okta.com/
+icon:
+  type: lucide
+  lucideIcon: key
+type: subprocessor
+category: identity_management
+impact: data_and_privacy
+date: 2024-01-01

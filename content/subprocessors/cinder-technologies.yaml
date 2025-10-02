@@ -1,0 +1,13 @@
+name: Cinder Technologies, Inc.
+description: >-
+  Content moderation platform providing AI-powered content filtering and 
+  moderation services for OpenAI's API, ChatGPT Team, Enterprise, and Edu 
+  products, ensuring safe and appropriate content across all services.
+link: https://www.cinder.io/
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: subprocessor
+category: content_moderation
+impact: data_and_privacy
+date: 2024-01-01
