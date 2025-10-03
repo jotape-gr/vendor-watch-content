@@ -1,0 +1,12 @@
+name: SOC 2 Type I Report
+description: >-
+  A point-in-time audit report that verifies a service organization's controls 
+  related to security, availability, processing integrity, confidentiality, 
+  and privacy are suitably designed and implemented as of a specific date
+link: https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security

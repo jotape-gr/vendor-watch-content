@@ -1,0 +1,10 @@
+name: Databricks
+description: >-
+  Unified analytics platform for big data and machine learning, providing 
+  collaborative workspace for data science and engineering teams with 
+  integrated data processing, analytics, and AI capabilities
+website: https://www.databricks.com
+category: data_storage
+riskScore: medium
+countries: ["United States"]
+dataResidency: ["United States"]
