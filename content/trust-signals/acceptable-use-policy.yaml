@@ -1,9 +1,12 @@
-name: Acceptable Use Policy
-description: |
-  Organizational policy defining acceptable and prohibited uses of company systems,
-  networks, and resources, establishing guidelines for responsible technology use
+name: Acceptable Use Policys
+description: >
+  Organizational policy defining acceptable and prohibited uses of company
+  systems,
+
+  networks, and resources, establishing guidelines for responsible technology
+  use
+
   and security compliance across all organizational activities.
-link:
 icon:
   type: lucide
   lucideIcon: file-text
