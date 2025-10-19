@@ -1,0 +1,566 @@
+---
+name: Anthropic
+shortDescription: >
+  Anthropic is an AI safety company developing Claude, a large language model
+  focused on helpful, harmless, and honest AI. The company demonstrates strong
+  commitment to AI safety through comprehensive model cards, system cards,
+  security policies, responsible disclosure programs, and transparency
+  initiatives including their Transparency Hub launched in February 2025.
+riskScore: medium
+lastReviewedAt: 2025-01-27
+trustSignalItems:
+  - signal: ai-model-cards
+    description: >
+      Comprehensive AI model documentation including Claude 4, Claude 3.7
+      Sonnet, Claude 3.5 Sonnet, 
+
+      Claude 3.5 Haiku, and Claude 3 model cards providing detailed information
+      about capabilities, 
+
+      limitations, training data, evaluation methods, and safety considerations
+      for transparent AI deployment.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: true
+  - signal: ai-system-cards
+    description: >
+      Detailed AI system documentation outlining Claude system architecture,
+      safety measures, 
+
+      risk mitigation strategies, and operational procedures for responsible AI
+      system deployment 
+
+      and monitoring across multiple model versions.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: true
+  - signal: information-security-policy
+    description: >
+      Comprehensive information security policy establishing governance
+      framework for security objectives, 
+
+      risk management, and mandatory controls across all organizational
+      functions. Anthropic's policy 
+
+      emphasizes AI safety and responsible scaling practices.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: true
+  - signal: privacy-policy
+    description: >
+      Detailed privacy policy outlining data collection, processing, and sharing
+      practices for both 
+
+      commercial customers and consumers. Anthropic's Privacy Center provides
+      centralized access 
+
+      to privacy-related information and user rights.
+    link: https://privacy.anthropic.com
+    date: 2024-01-01
+    showInFeed: true
+  - signal: incident-response-policy
+    description: >
+      Executive-approved security framework establishing incident detection,
+      analysis, containment, 
+
+      and recovery procedures. Anthropic maintains comprehensive incident
+      response capabilities 
+
+      as part of their AI safety and security commitment.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: bug-bounty-program
+    description: >
+      Security vulnerability disclosure program encouraging security researchers
+      to report 
+
+      vulnerabilities in Anthropic's systems. The program includes clear scope
+      definition, 
+
+      submission guidelines, and response expectations for coordinated
+      vulnerability management.
+    link: https://www.anthropic.com/responsible-disclosure-policy
+    date: 2024-01-01
+    showInFeed: true
+  - signal: responsible-disclosure-policy
+    description: >
+      Formal policy framework establishing guidelines for security researchers
+      to report 
+
+      vulnerabilities with defined scope, submission process, and response
+      timelines. 
+
+      Anthropic's policy emphasizes coordinated vulnerability disclosure and AI
+      safety.
+    link: https://www.anthropic.com/responsible-disclosure-policy
+    date: 2024-01-01
+    showInFeed: false
+  - signal: cryptographic-key-management-policy
+    description: >
+      Organizational policy establishing standards and procedures for
+      cryptographic key 
+
+      generation, distribution, storage, rotation, and destruction. Anthropic
+      restricts 
+
+      privileged access to encryption keys to authorized users with documented
+      business need.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: enterprise-access-management
+    description: >
+      Enterprise-grade access controls including multi-factor authentication
+      and 
+
+      role-based access controls. Anthropic requires unique username/password
+      or 
+
+      authorized SSH keys for all system and application authentication.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: production-access-restrictions
+    description: >
+      Comprehensive access controls restricting privileged access to production
+      systems, 
+
+      databases, applications, and infrastructure. Anthropic restricts access
+      to 
+
+      production applications, databases, OS, and network to authorized users
+      only.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: tls-encryption-transit
+    description: >
+      Transport Layer Security protocol implementing TLS 1.2 or higher for data
+      in transit 
+
+      protection. Anthropic enforces encrypted remote access to production
+      systems 
+
+      via approved encrypted connections only.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: status-monitoring
+    description: >
+      Comprehensive system status monitoring and reporting infrastructure
+      providing 
+
+      real-time visibility into service availability and performance. Anthropic
+      utilizes 
+
+      infrastructure monitoring tools with predefined thresholds and alerting.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: web-application-firewall
+    description: >
+      Industry-leading Web Application Firewall (WAF) service monitoring web
+      traffic 
+
+      and detecting anomalies. Anthropic uses firewalls configured to prevent 
+
+      unauthorized access and restricts privileged firewall access to authorized
+      users.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+  - signal: network-hardening-standards
+    description: >
+      Documented network and system hardening standards based on industry best
+      practices 
+
+      with annual review cycles. Anthropic maintains documented hardening
+      standards 
+
+      that are reviewed at least annually for consistent security configuration.
+    link: https://trust.anthropic.com/resources
+    date: 2024-01-01
+    showInFeed: false
+riskSignalItems:
+  - signal: ai-tool-cybercriminal-abuse
+    description: >
+      Confirmed incidents where cybercriminals exploited Anthropic's Claude AI
+      to automate 
+
+      reconnaissance, harvest credentials, breach networks, and craft targeted
+      extortion 
+
+      demands affecting at least 17 organizations including healthcare and
+      government entities.
+    link: >-
+      https://www.tenable.com/blog/cybersecurity-snapshot-agentic-ai-security-in-focus-with-anthropic-alarming-abuse-disclosure-08-29-2025
+    date: 2025-08-29
+    severity: high
+    showInFeed: true
+  - signal: ai-generated-ransomware-development
+    description: >
+      Threat actors utilized Claude AI to develop sophisticated ransomware
+      variants with 
+
+      advanced evasion capabilities, encryption mechanisms, and anti-recovery
+      features. 
+
+      These variants were sold on underground markets for $400 to $1,200.
+    link: >-
+      https://www.hipaajournal.com/abuse-agentic-ai-all-stages-cybercriminal-operations/
+    date: 2025-08-29
+    severity: high
+    showInFeed: true
+subprocessorItems:
+  - subprocessor: google-cloud-platform-gcp
+    vendorCountry: Worldwide
+    notes: >
+      Primary cloud infrastructure provider hosting all Anthropic products and
+      services. 
+
+      Provides compute, storage, and AI/ML infrastructure with global data
+      residency controls.
+    links: []
+    date: 2024-01-15
+  - subprocessor: amazon-web-services-aws
+    vendorCountry: Worldwide
+    notes: >
+      Secondary cloud infrastructure provider supporting Anthropic's cloud
+      infrastructure 
+
+      with global data residency controls and enterprise-grade security.
+    links: []
+    date: 2024-01-15
+  - subprocessor: cloudflare
+    vendorCountry: Worldwide (Local to Customer)
+    notes: >
+      Global CDN and security infrastructure providing DDoS protection and
+      content delivery 
+
+      for all Anthropic products with local-to-customer data routing.
+    links: []
+    date: 2024-01-15
+  - subprocessor: stripe
+    vendorCountry: United States
+    notes: >
+      Payment processing for Claude Pro/Max, Anthropic API, and Claude for Work
+      subscriptions. 
+
+      Handles billing and financial transactions for commercial products.
+    links: []
+    date: 2024-01-15
+  - subprocessor: workos
+    vendorCountry: United States
+    notes: >
+      Enterprise identity and access management providing Single Sign-On (SSO)
+      capabilities 
+
+      for Claude for Work customers with enterprise authentication.
+    links: []
+    date: 2024-01-15
+  - subprocessor: intercom
+    vendorCountry: United States
+    notes: >
+      Customer support platform managing user support interactions and customer
+      communications 
+
+      across all Anthropic products and services.
+    links: []
+    date: 2024-01-15
+  - subprocessor: twilio
+    vendorCountry: United States
+    notes: >
+      Communication platform providing analytics, email, and SMS communications
+      for 
+
+      customer engagement and support across all Anthropic products.
+    links: []
+    date: 2024-01-15
+  - subprocessor: iterable
+    vendorCountry: United States
+    notes: >
+      Email marketing platform managing automated email campaigns and customer
+      engagement 
+
+      communications across all Anthropic products.
+    links: []
+    date: 2024-01-15
+  - subprocessor: sentry
+    vendorCountry: United States
+    notes: >
+      Error monitoring and performance tracking for all products except Claude
+      for Government. 
+
+      Provides real-time issue detection and debugging capabilities.
+    links: []
+    date: 2024-01-15
+  - subprocessor: sift
+    vendorCountry: United States
+    notes: >
+      Fraud detection and risk management platform analyzing user behavior
+      patterns 
+
+      for all products except Claude for Government to prevent fraudulent
+      activities.
+    links: []
+    date: 2024-01-15
+  - subprocessor: arkose-labs
+    vendorCountry: United States
+    notes: >
+      Fraud prevention and bot detection platform using behavioral analysis for
+      all products 
+
+      except Claude for Government to identify and block automated attacks.
+    links: []
+    date: 2024-01-15
+  - subprocessor: brave-search
+    vendorCountry: United States
+    notes: >
+      Privacy-focused web search engine providing search results and web content
+      for AI model 
+
+      training and real-time information retrieval for all products except
+      Claude for Government.
+    links: []
+    date: 2024-01-15
+  - subprocessor: elevenlabs
+    vendorCountry: United States
+    notes: >
+      AI-powered text-to-speech platform converting text into natural-sounding
+      voice audio 
+
+      for Claude for Work voice-enabled features and accessibility.
+    links: []
+    date: 2024-01-15
+  - subprocessor: palantir-federal-cloud-service
+    vendorCountry: United States
+    notes: >
+      FedRAMP-authorized cloud infrastructure providing secure, compliant cloud
+      services 
+
+      specifically for Claude for Government (C4G) with federal security
+      requirements.
+    links: []
+    date: 2024-01-15
+faqs:
+  - title: What is ISO 27001?
+    description: >
+      ISO 27001 is an international standard for information security management
+      systems. It provides 
+
+      requirements for establishing, implementing, maintaining and continually
+      improving an organization's 
+
+      information security management.
+  - title: >-
+      What can customers assume about Anthropic based on this ISO 27001
+      certificate?
+    description: >
+      Customers can have confidence that Anthropic takes a proactive, structured
+      approach to information 
+
+      security. ISO 27001 certification validates that we have implemented a
+      comprehensive information 
+
+      security management system to protect our own and our customers'
+      information assets. Refer to our 
+
+      published Statement of Applicability on the Trust Portal for the full list
+      of controls in scope 
+
+      for this ISO standard.
+  - title: How will Anthropic maintain its ISO 27001 certification over time?
+    description: >
+      The ISO 27001 certification requires ongoing maintenance and
+      recertification audits to ensure 
+
+      continued adherence to the standard. Anthropic is committed to maintaining
+      this certification as 
+
+      a long-term demonstration of our focus on information security. We have
+      established internal teams 
+
+      and processes to monitor our information security management systems,
+      conduct regular internal 
+
+      audits, and drive continuous improvement. We'll undergo annual
+      surveillance audits and 
+
+      recertification audits every three years by an accredited third-party
+      certification body.
+  - title: What is ISO 42001?
+    description: >
+      ISO 42001 is an international management system standard that outlines
+      requirements and controls 
+
+      for organizations to promote the responsible development and use of AI
+      systems. It helps 
+
+      organizations establish, implement, maintain, and continually improve an
+      AI management system.
+  - title: >-
+      How does Anthropic's ISO 42001 certification relate to our Responsible
+      Scaling Policy (RSP)?
+    description: >
+      Our achievement of an ISO 42001 certification serves as a natural
+      extension of our Responsible 
+
+      Scaling Policy, reinforcing our commitment to responsible AI development
+      and governance. Our RSP 
+
+      asserts our commitment to establishing, monitoring, and responding to AI
+      safety thresholds. ISO 42001 
+
+      validates Anthropic, in its role as an AI developer and AI service
+      provider, has met a verifiable 
+
+      standard in its work to establish, implement, maintain, and continually
+      improve its responsible 
+
+      development and use of AI systems.
+  - title: >-
+      What can customers assume about Anthropic based on this ISO 42001
+      certificate?
+    description: >
+      Customers can have confidence that Anthropic takes a proactive, structured
+      approach to responsible 
+
+      AI development. ISO 42001 certification demonstrates that we have
+      established an AI management 
+
+      system to identify and mitigate risks associated with AI development and
+      promote responsible 
+
+      practices throughout the AI lifecycle. Refer to our published Statement of
+      Applicability on the 
+
+      Trust Portal for the full list of controls in scope for this ISO standard.
+  - title: What security measures are in place to protect customer data?
+    description: >
+      Anthropic has a comprehensive set of security measures in place to protect
+      models and customer data. 
+
+      You can review our externally committed security controls (as a part of
+      our SOC 2 certification) 
+
+      at our Trust Center. All data that Anthropic stores is encrypted at rest
+      using AES-256 GCM, and 
+
+      protected in transit using TLS 1.2+. Our Trust Center has additional
+      information about our 
+
+      security practices.
+  - title: Where are your data centers located?
+    description: >
+      For more information about data center locations and server hosting,
+      please view our detailed 
+
+      information on our Privacy Center.
+  - title: How long is data retained?
+    description: >
+      By default, Anthropic retains all Customer Data within the Claude for Work
+      platform until the 
+
+      data is deleted by the customer. After deletion, we may retain for up to
+      30 days in our systems. 
+
+      Prompts/responses that have been flagged as violating our Acceptable Use
+      Policy may be retained longer.
+  - title: >-
+      Can we have our own environment, meaning our data is not stored alongside
+      any other customer?
+    description: >
+      Anthropic uses a multi-tenant architecture for serving responses from our
+      inference model to 
+
+      customer-provided prompts. We do not offer single-tenancy. However, while
+      the physical systems 
+
+      hosting the inference model are shared, all customer data is logically
+      separated to protect its 
+
+      confidentiality and integrity.
+  - title: What is Claude for Government (C4G)?
+    description: >
+      Claude for Government (C4G) is Anthropic's FedRAMP High authorized
+      solution specifically designed 
+
+      for U.S. federal agencies and regulated environments. C4G implements NIST
+      800-53 security controls 
+
+      at the High baseline and offers the core capabilities as Claude for
+      Enterprise, but with additional 
+
+      security measures to meet federal compliance requirements. Any customers
+      who operate in regulated 
+
+      environments that have requirements aligned with FedRAMP High or NIST
+      800-53 can use C4G.
+  - title: Are Claude's models FedRAMP authorized?
+    description: >
+      FedRAMP and similar federal compliance frameworks apply to Infrastructure
+      (IaaS), Platform (PaaS), 
+
+      and Software as a Service (SaaS) offerings, not to the AI models that
+      operate within them. Claude 
+
+      models are components rather than cloud service offerings, and therefore
+      aren't subject to FedRAMP 
+
+      authorization requirements. For FedRAMP High compliance, customers can
+      either use Claude for Government (C4G), 
+
+      Anthropic's FedRAMP-authorized SaaS product, or access Claude models
+      through partner cloud environments 
+
+      that maintain their own FedRAMP authorizations.
+  - title: >-
+      Will you be using our Claude for Work conversations to train your
+      generative models?
+    description: >
+      No. By default, we will not use your chats or coding sessions when using
+      our Commercial products 
+
+      (Claude for Work, Anthropic API, etc.). If you provide feedback or
+      otherwise explicitly opt-in to 
+
+      training, then we may use those materials to train our models. Learn more
+      about disabling feedback 
+
+      for your Claude for Enterprise plan.
+  - title: Is Anthropic willing to sign a BAA?
+    description: >
+      After review of HIPAA-related compliance items and the customer's use
+      case, Anthropic may provide 
+
+      a Business Associate Agreement (BAA) covering use of our first-party API.
+      Our BAA only covers our 
+
+      API products, and is only available for customers who qualify for zero
+      retention. Our BAA does not 
+
+      cover beta products or chat products, including Workbench and Claude.ai
+      (Free, Pro, Team and Enterprise 
+
+      plans), so even if you have a BAA with us for other product surfaces, you
+      should not submit PHI 
+
+      through any product other than GA API products.
+  - title: I found a security bug. How can I let you know?
+    description: |
+      More information can be found at our responsible disclosure policy: 
+      https://www.anthropic.com/responsible-disclosure-policy
+keySignals:
+  - signal: ai-tool-cybercriminal-abuse
+    isRisk: true
+  - signal: ai-generated-ransomware-development
+    isRisk: true
+  - signal: ai-model-cards
+    isRisk: false
+  - signal: ai-system-cards
+    isRisk: false
+  - signal: information-security-policy
+    isRisk: false
+status: verified
+---
