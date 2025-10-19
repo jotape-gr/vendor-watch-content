@@ -1,0 +1,634 @@
+---
+name: OpenAI
+shortDescription: >
+  OpenAI provides enterprise-grade AI services with comprehensive security
+  certifications including SOC 2 Type II, ISO 27001, and multiple ISO standards.
+  The platform offers robust data protection, encryption, and compliance
+  controls with data residency options across multiple regions.
+riskScore: medium
+lastReviewedAt: 2024-02-23
+trustSignalItems:
+  - signal: soc-2-type-ii
+    description: >-
+      OpenAI's API, ChatGPT Enterprise, ChatGPT Business, and ChatGPT Edu
+      products are covered under SOC 2 Type II reports, evaluated by independent
+      third-party auditors for security and confidentiality principles.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: iso-27001-2022
+    description: >-
+      OpenAI is certified under ISO/IEC 27001:2022, demonstrating adherence to
+      comprehensive information security management standards with annual
+      surveillance audits.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: iso-27017-2015
+    description: >-
+      OpenAI holds ISO/IEC 27017 certification, indicating compliance with cloud
+      security standards and implementation guidance for cloud service
+      providers.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: iso-27018-2019
+    description: >-
+      OpenAI is certified under ISO/IEC 27018, ensuring protection of personal
+      data in the cloud with privacy controls and data protection measures.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: iso-27701-2019
+    description: >-
+      OpenAI holds ISO/IEC 27701:2019 certification, demonstrating compliance
+      with privacy information management standards for organizations processing
+      personal data.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: csa-star-level-1
+    description: >-
+      OpenAI's API, ChatGPT Enterprise, and DALL·E have achieved CSA STAR Level
+      1 listing, demonstrating commitment to cloud security best practices and
+      transparency.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: true
+  - signal: bug-bounty-program
+    description: >-
+      OpenAI invites security researchers to report vulnerabilities through its
+      Bug Bounty Program, offering rewards based on severity and impact for
+      proactive security testing.
+    link: https://openai.com/bug-bounty-program
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-encryption-aes-256
+    description: >-
+      OpenAI encrypts data at rest using AES-256 encryption, providing
+      military-grade security for sensitive data storage and ensuring
+      confidentiality of customer information.
+    link: https://openai.com/business-data
+    date: 2024-02-23
+    showInFeed: false
+  - signal: tls-encryption-transit
+    description: >-
+      OpenAI implements TLS 1.2 or higher for data in transit protection,
+      ensuring secure communication channels and preventing unauthorized
+      interception of customer data.
+    link: https://openai.com/business-data
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-retention-controls
+    description: >-
+      OpenAI offers configurable data retention policies, including zero data
+      retention options for qualifying organizations to support compliance
+      requirements.
+    link: https://openai.com/business-data
+    date: 2024-02-23
+    showInFeed: false
+  - signal: enterprise-access-management
+    description: >-
+      OpenAI provides enterprise-grade access controls including multi-factor
+      authentication, single sign-on (SAML SSO), and role-based access controls
+      for comprehensive user management.
+    link: https://openai.com/business-data
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-residency-options
+    description: >-
+      OpenAI offers regional data storage options in the U.S., Europe, Japan,
+      Canada, South Korea, Singapore, and India to meet data sovereignty
+      requirements and local regulations.
+    link: https://openai.com/business-data
+    date: 2024-02-23
+    showInFeed: false
+  - signal: third-party-penetration-testing
+    description: >-
+      OpenAI conducts regular third-party penetration testing on its API and
+      ChatGPT business plans to identify security vulnerabilities before
+      exploitation.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: soc-3-report
+    description: >-
+      OpenAI provides SOC 3 reports, which are publicly available summaries of
+      SOC 2 Type II audit results, demonstrating security and availability
+      controls.
+    link: https://trust.openai.com/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: business-continuity-policy
+    description: >-
+      OpenAI implements comprehensive business continuity procedures including
+      regular data backups, disaster recovery protocols, and alternative site
+      provisions to ensure continuous service availability and data protection.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: incident-response-policy
+    description: >-
+      OpenAI maintains active threat detection and response monitoring for known
+      attacker tactics, techniques, and procedures (TTPs), with regular reviews
+      and investigations into anomalous activities across their infrastructure.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: security-awareness-training
+    description: >-
+      OpenAI provides comprehensive security awareness training covering
+      cybersecurity best practices, threat recognition, and incident reporting
+      for all employees to maintain a security-conscious workforce.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: secure-software-development-lifecycle-policy
+    description: >-
+      OpenAI's Secure Development Policy mandates peer review, automated
+      testing, and static code analysis prior to deployment, with enforced
+      access controls, change controls, and automated CI/CD pipelines for secure
+      software development.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: cryptographic-key-management-policy
+    description: >-
+      OpenAI utilizes industry-leading authentication and authorization tools to
+      securely salt, hash, and store user credentials, with a secure key vault
+      for managing infrastructure secrets and cryptographic key management.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: acceptable-use-policy
+    description: >-
+      OpenAI strictly prohibits personal device use for work and logs
+      unauthorized resource access on unmanaged devices, with documented
+      requirements in the Acceptable Use Policy and enforcement through security
+      team monitoring.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: web-applications-api-penetration-test
+    description: >-
+      OpenAI conducts regular penetration testing on applications and endpoints,
+      with internal testing supplemented by third-party assessments,
+      vulnerability scans, and annual penetration tests based on risk levels.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: cybersecurity-insurance
+    description: >-
+      OpenAI maintains cyber insurance coverage as an integral part of security
+      risk reduction, providing financial protection in the event of security
+      incidents that result in financial damages.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: third-party-agreements-established
+    description: >-
+      OpenAI's subprocessor relationships are subject to stringent contractual
+      obligations to ensure customer data privacy and visibility, with
+      comprehensive third-party risk management and governance.
+    link: https://platform.openai.com/subprocessors
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-processing-agreement
+    description: >-
+      OpenAI is committed to upholding robust and compliant data processing
+      practices through comprehensive data processing agreements that define
+      data handling requirements and regulatory compliance.
+    link: https://openai.com/policies/data-processing-addendum/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: privacy-policy
+    description: >-
+      OpenAI maintains comprehensive privacy policies safeguarding customer
+      privacy as a core commitment, with detailed information on privacy
+      practices and data handling procedures.
+    link: https://openai.com/privacy/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: service-level-agreement
+    description: >-
+      OpenAI maintains Service Level Agreements for each customer, defining
+      service performance standards, availability commitments, and response
+      times to ensure reliable service delivery.
+    link: https://openai.com/policies/service-terms/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-breach-notification
+    description: >-
+      OpenAI has established data breach notification procedures that will be
+      followed in accordance with the terms of the Master Services Agreement in
+      the event of a data breach involving customer data.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-protection-officer
+    description: >-
+      OpenAI has designated a data protection officer who can be contacted at
+      privacy@openai.com for matters related to Personal Information processing
+      and data protection compliance.
+    link: https://openai.com/privacy/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: status-monitoring
+    description: >-
+      OpenAI maintains comprehensive system status monitoring with real-time
+      visibility into service availability, performance metrics, and operational
+      health through their public status page at status.openai.com.
+    link: https://status.openai.com/
+    date: 2024-02-23
+    showInFeed: false
+  - signal: infrastructure-as-code
+    description: >-
+      OpenAI employs infrastructure-as-code (IaC) techniques to securely deploy
+      and manage resources within their operational environment, enabling rapid
+      provisioning and scaling while ensuring stringent security standards.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-separation-controls
+    description: >-
+      OpenAI maintains strict separation of production, staging, and development
+      environments to safeguard operational integrity and data confidentiality,
+      with customer data strictly prohibited from use in non-production
+      settings.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: disaster-recovery-policy-plan
+    description: >-
+      OpenAI has a formal Business Continuity and Disaster Recovery plan that is
+      exercised, reviewed, and approved annually, with regular testing of
+      critical services, backup systems, and operational infrastructure.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: risk-assessments-performed
+    description: >-
+      OpenAI conducts comprehensive risk assessment programs and business impact
+      analysis scoped across the organization, reflecting their commitment to
+      preparedness across all business areas.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-exfiltration-monitoring
+    description: >-
+      OpenAI implements stringent controls on removable media usage across all
+      endpoints with advanced monitoring tools to detect and escalate suspicious
+      activity indicating potential data exfiltration attempts.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: dmarc
+    description: >-
+      OpenAI has enabled Domain-based Message Authentication, Reporting, and
+      Conformance (DMARC) to authenticate email communications and prevent
+      unauthorized entities from masquerading as legitimate senders.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: intrusion-detection-system
+    description: >-
+      OpenAI's network activity is logged with specialized detection logic to
+      identify potential security threats such as unauthorized access or
+      anomalous behavior, enabling early detection of attacks and generation of
+      security alerts.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: security-information-event-management
+    description: >-
+      OpenAI prioritizes secure and centralized storage of crucial
+      infrastructure logs through SIEM systems that continuously monitor logs,
+      enabling real-time analysis to detect, alert, and mitigate potential
+      threats promptly.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: asset-management
+    description: >-
+      OpenAI maintains robust asset management practices spanning both virtual
+      and physical assets, with systematic identification and cataloging of
+      organizational assets and annual policy updates defining protection
+      responsibilities.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: data-loss-prevention
+    description: >-
+      OpenAI employs Data Loss Prevention solutions that actively monitor and
+      alert on the transfer of confidential data to unauthorized sources,
+      ensuring sensitive email communications are protected from exposure.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: employee-background-checks
+    description: >-
+      All new OpenAI employees undergo thorough background checks and sign
+      non-disclosure agreements upon joining, with annually reviewed HR security
+      policies mandating compliance with company policies and procedures.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: enterprise-access-management
+    description: >-
+      OpenAI utilizes Single Sign-On (SSO) technology to simplify and secure the
+      authentication process for internal applications, reducing the attack
+      surface associated with multiple passwords and login credentials.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: security-operations-center
+    description: >-
+      OpenAI operates an in-house Security Operations Center (SOC) managed by
+      their Detection and Response team, ensuring continuous security monitoring
+      with 24x7x365 assessment of activity logs through detection algorithms.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: access-revocation-policy
+    description: >-
+      OpenAI maintains systematic access revocation procedures for employee
+      termination, including termination checklists and defined SLAs to prevent
+      unauthorized access and ensure prompt deprovisioning of user accounts.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: code-of-conduct
+    description: >-
+      OpenAI requires all employees to agree to their Code of Conduct during
+      onboarding, establishing ethical standards, behavioral expectations, and
+      compliance requirements for workplace behavior.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: cryptographic-key-management-policy
+    description: >-
+      OpenAI maintains an internal cryptography policy that defines key
+      management and encryption standards and procedures to ensure secure data
+      protection and communication security.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: operations-security-policy
+    description: >-
+      OpenAI has an Operations Security Policy that defines how they log and
+      monitor their network, ensuring comprehensive security oversight and
+      threat detection across all operational systems.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: supply-chain-risk-management
+    description: >-
+      OpenAI maintains comprehensive supply chain risk management with security
+      controls governing third-party relationships, detailed by their Third
+      Party Management Policy and enforced by technical approval measures and
+      Procurement, Security, and Privacy team oversight.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+  - signal: vendor-security-assessment
+    description: >-
+      OpenAI assesses external parties pursuing business relationships against
+      industry standard frameworks for security controls maturity before
+      approval and onboarding, with compensating controls documented and
+      monitored for sensitive data access.
+    link: https://openai.com/security-and-privacy
+    date: 2024-02-23
+    showInFeed: false
+riskSignalItems:
+  - signal: governance-transparency-concerns
+    description: >-
+      An open letter published in May 2024 raised concerns about OpenAI's
+      governance structure and accountability, suggesting potential weakening of
+      oversight mechanisms and transparency commitments.
+    link: https://www.safetyabandoned.org/
+    date: 2024-05-16
+    severity: medium
+    showInFeed: true
+  - signal: ai-model-hallucination-risks
+    description: >-
+      AI models may generate false or misleading information that could lead to
+      incorrect decisions, data integrity issues, or compliance violations in
+      business-critical applications.
+    link: https://openai.com/research/hallucinations
+    date: 2024-02-23
+    severity: medium
+    showInFeed: false
+  - signal: data-training-privacy-risks
+    description: >-
+      Risk of sensitive data being inadvertently included in model training
+      datasets or exposed through model outputs, potentially violating privacy
+      regulations and data protection requirements.
+    link: https://openai.com/policies/row-privacy-policy
+    date: 2024-02-23
+    severity: low
+    showInFeed: false
+subprocessorItems:
+  - subprocessor: microsoft-azure
+    vendorCountry: >-
+      Australia, Canada, France, Germany, India, Japan, Norway, Poland,
+      Singapore, South Africa, South Korea, Sweden, Switzerland, UAE, UK, US
+    notes: >
+      Cloud infrastructure provider supporting OpenAI's API, ChatGPT Enterprise,
+      ChatGPT Edu, and ChatGPT Team with enterprise-grade security and
+      compliance across multiple global regions.
+    links: []
+    date: 2024-02-23
+  - subprocessor: cloudflare
+    vendorCountry: Global (closest to end user)
+    notes: >
+      Content delivery network provider offering DDoS protection, web
+      application firewall, and performance optimization for OpenAI's API,
+      ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team services.
+    links: []
+    date: 2024-02-23
+  - subprocessor: coreweave
+    vendorCountry: Norway, Spain, Sweden, UK, US
+    notes: >
+      Cloud infrastructure provider offering GPU-accelerated computing services
+      for AI and machine learning workloads, supporting OpenAI's API, ChatGPT
+      Enterprise, ChatGPT Edu, and ChatGPT Team.
+    links: []
+    date: 2024-02-23
+  - subprocessor: oracle-cloud-infrastructure
+    vendorCountry: Brazil, Japan, Malaysia, Netherlands, US
+    notes: >
+      Cloud infrastructure provider offering compute, storage, and networking
+      services for enterprise applications, supporting OpenAI's API, ChatGPT
+      Enterprise, ChatGPT Edu, and ChatGPT Team.
+    links: []
+    date: 2024-02-23
+  - subprocessor: google-cloud-platform-gcp
+    vendorCountry: Japan, Netherlands, Norway, UK, US
+    notes: >
+      Cloud infrastructure provider offering compute, storage, and AI services,
+      supporting OpenAI's API, ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team
+      across multiple global regions.
+    links: []
+    date: 2024-02-23
+  - subprocessor: snowflake
+    vendorCountry: US
+    notes: >
+      Data warehousing provider supporting OpenAI's API, ChatGPT Enterprise,
+      ChatGPT Edu, and ChatGPT Team with scalable data storage and analytics
+      capabilities.
+    links: []
+    date: 2024-02-23
+  - subprocessor: taskus
+    vendorCountry: Philippines
+    notes: >
+      Business process outsourcing provider offering customer support for all
+      OpenAI services and content moderation for API, ChatGPT Team, Enterprise,
+      and Edu products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: intercom
+    vendorCountry: US
+    notes: >
+      Customer support platform providing customer support services for OpenAI's
+      API, ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: salesforce
+    vendorCountry: >-
+      Australia, Brazil, Canada, France, Germany, India, Indonesia, Ireland,
+      Italy, Japan, Singapore, South Africa, South Korea, Sweden, Switzerland,
+      Netherlands, UAE, UK, US
+    notes: >
+      Customer relationship management platform providing customer support
+      services and CRM functionality for OpenAI's API, ChatGPT Enterprise,
+      ChatGPT Edu, and ChatGPT Team products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: accenture
+    vendorCountry: Canada, Philippines
+    notes: >
+      Global professional services company providing customer support services
+      for OpenAI's API, ChatGPT Enterprise, ChatGPT Edu, and ChatGPT Team
+      products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: fivetran
+    vendorCountry: US
+    notes: >
+      Data integration platform providing ETL services for data warehousing and
+      analytics, supporting OpenAI's Assistants API with data pipeline
+      capabilities.
+    links: []
+    date: 2024-02-23
+  - subprocessor: confluent
+    vendorCountry: US
+    notes: >
+      Data streaming platform providing infrastructure management services for
+      real-time data processing, supporting OpenAI's API, ChatGPT Enterprise,
+      ChatGPT Edu, and ChatGPT Team.
+    links: []
+    date: 2024-02-23
+  - subprocessor: cinder-technologies
+    vendorCountry: US
+    notes: >
+      Content moderation platform providing AI-powered content filtering and
+      moderation services for OpenAI's API, ChatGPT Team, Enterprise, and Edu
+      products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: workos
+    vendorCountry: US
+    notes: >
+      Enterprise identity and access management platform providing cross-domain
+      identity management services for OpenAI's ChatGPT Enterprise, ChatGPT Edu,
+      and ChatGPT Team products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: okta
+    vendorCountry: US
+    notes: >
+      Identity and access management platform providing user authentication
+      services via Auth0 for OpenAI's API, ChatGPT Enterprise, ChatGPT Edu, and
+      ChatGPT Team products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: merge-api
+    vendorCountry: >-
+      Australia, Canada, France, India, Ireland, Japan, Singapore, South Korea,
+      Sweden, UK, US
+    notes: >
+      API integration platform providing infrastructure management services for
+      connecting business applications, supporting OpenAI's ChatGPT Enterprise,
+      ChatGPT Edu, and ChatGPT Team products.
+    links: []
+    date: 2024-02-23
+  - subprocessor: zendesk
+    vendorCountry: Global
+    notes: >
+      Customer support platform managing user inquiries, technical support
+      tickets, and customer service operations for OpenAI's products and
+      services.
+    links: []
+    date: 2024-02-23
+faqs:
+  - title: Does OpenAI use customer data to train its models?
+    description: >
+      By default, OpenAI does not use business data from ChatGPT Enterprise,
+      ChatGPT Edu, ChatGPT Business, or its API platform—including inputs or
+      outputs—for training or improving models. Models are trained on publicly
+      available knowledge, data from third-party partnerships, and information
+      provided or generated by researchers.
+  - title: How does OpenAI protect data in transit and at rest?
+    description: >
+      OpenAI encrypts data at rest using AES-256 encryption and in transit using
+      TLS 1.2 or higher to protect customer data from unauthorized access. This
+      provides military-grade security for sensitive data storage and ensures
+      secure communication channels.
+  - title: What compliance certifications does OpenAI hold?
+    description: >
+      OpenAI holds several certifications including SOC 2 Type II, ISO/IEC
+      27001:2022, ISO/IEC 27017, ISO/IEC 27018, ISO/IEC 27701:2019, and CSA STAR
+      Level 1. These certifications demonstrate OpenAI's commitment to
+      maintaining high standards of security and compliance.
+  - title: Does OpenAI offer data residency options?
+    description: >
+      Yes, OpenAI offers data residency options in the U.S., Europe, Japan,
+      Canada, South Korea, Singapore, and India to meet regional compliance
+      needs and data sovereignty requirements. Eligible customers can choose
+      their preferred data storage location.
+  - title: How can security vulnerabilities be reported to OpenAI?
+    description: >
+      OpenAI invites security researchers to report vulnerabilities through its
+      Bug Bounty Program, offering rewards based on severity and impact. The
+      program provides safe harbor for good faith security testing and enables
+      proactive vulnerability management.
+  - title: What access controls does OpenAI provide for enterprise customers?
+    description: >
+      OpenAI offers enterprise-grade access management including multi-factor
+      authentication, single sign-on (SAML SSO), and role-based access controls.
+      These features enable comprehensive user management and security for
+      enterprise deployments.
+  - title: Does OpenAI support HIPAA compliance?
+    description: >
+      OpenAI supports Business Associate Agreements (BAA) for HIPAA compliance
+      in eligible cases. This enables healthcare organizations to use OpenAI's
+      services while maintaining compliance with healthcare data protection
+      requirements.
+  - title: What data retention controls are available?
+    description: >
+      OpenAI offers configurable data retention policies, including zero data
+      retention options for qualifying organizations. This enables customers to
+      control data lifecycle and meet specific compliance requirements.
+keySignals:
+  - signal: iso-27001-2022
+    isRisk: false
+  - signal: soc-2-type-ii
+    isRisk: false
+  - signal: business-continuity-policy
+    isRisk: false
+  - signal: incident-response-policy
+    isRisk: false
+  - signal: security-awareness-training
+    isRisk: false
+status: verified
+---
