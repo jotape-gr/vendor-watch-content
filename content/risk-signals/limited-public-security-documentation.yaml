@@ -1,0 +1,15 @@
+name: Limited Public Security Documentation
+description: >-
+  Risk of reduced visibility into security practices due to absence of 
+  traditional Trust Center or publicly available security certifications, 
+  limiting customers' ability to independently verify security posture and 
+  compliance commitments without direct vendor engagement.
+link:
+icon:
+  type: lucide
+  lucideIcon: file-x
+type: threat
+category: other
+impact: organizational_security
+date: 2025-10-19
+

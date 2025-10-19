@@ -1,0 +1,154 @@
+---
+name: Conductrics
+shortDescription: >
+  Conductrics is an A/B testing and optimization platform offering dedicated 
+  server environments with customer-controlled data residency and optional 
+  self-hosting capabilities. While the platform provides privacy-by-design 
+  architecture and enterprise access controls, the absence of publicly 
+  available security certifications and Trust Center limits transparency 
+  into their security posture.
+riskScore: medium
+logo: /images/vendors/logo_conductrics.png
+lastReviewedAt: 2025-10-19
+trustSignalItems:
+  - signal: privacy-policy
+    description: >
+      Privacy policy outlines data collection practices including device 
+      information (IP address, browser, timezone) and request information 
+      (email, phone). Policy emphasizes minimal data collection and includes 
+      GDPR rights for European residents. Contact: info@conductrics.com, 
+      222 Broadway, New York, NY 10038.
+    link: https://www.conductrics.com/privacy-policy
+    date: 2024-01-01
+    showInFeed: true
+  - signal: data-residency-options
+    description: >
+      Dedicated server environments with customer choice of primary geo-region 
+      and major cloud provider. Each customer receives their own dedicated 
+      environment ensuring data is never co-mingled with other companies' data. 
+      Updates and improvements applied at customer convenience.
+    link: https://www.conductrics.com/manage
+    date: 2024-01-01
+    showInFeed: true
+  - signal: data-separation-controls
+    description: >
+      Data isolation architecture where each customer receives a dedicated 
+      environment with data never co-mingled or stored alongside other 
+      companies' data. Ensures logical and physical separation of customer 
+      data across the platform infrastructure.
+    link: https://www.conductrics.com/manage
+    date: 2024-01-01
+    showInFeed: true
+  - signal: service-level-agreement
+    description: >
+      Service Level Agreements (SLAs) available upon request to define 
+      service performance standards, availability commitments, and support 
+      response times. Customers should contact Conductrics to discuss 
+      specific SLA requirements for their operations.
+    link: https://www.conductrics.com/manage
+    date: 2024-01-01
+    showInFeed: false
+  - signal: enterprise-access-management
+    description: >
+      Team-based organization with role-based access controls allowing 
+      granular permissions management. Supports Two-Factor Authentication 
+      (TOTP 2FA/MFA) with optional requirement for additional 2FA during 
+      production deployment. SSO via SAML also supported for enterprise 
+      authentication integration.
+    link: https://www.conductrics.com/manage
+    date: 2024-01-01
+    showInFeed: true
+riskSignalItems:
+  - signal: limited-public-security-documentation
+    description: >
+      Conductrics does not maintain a traditional Trust Center or publicly 
+      available security certifications (ISO 27001, SOC 2, etc.). Security 
+      information is limited to platform features described on management 
+      and privacy pages. Customers must engage directly with vendor to 
+      obtain comprehensive security documentation and compliance information.
+    link: https://www.conductrics.com/manage
+    date: 2025-10-19
+    severity: medium
+    showInFeed: true
+subprocessorItems:
+  - subprocessor: google-analytics
+    vendorCountry: United States
+    notes: >
+      Used for website analytics to understand how customers browse and 
+      interact with the Conductrics website. Users can opt-out of Google 
+      Analytics tracking via https://tools.google.com/dlpage/gaoptout. 
+      Conductrics may use similar analytics technology as alternatives.
+    date: 2024-01-01
+faqs:
+  - title: What hosting options does Conductrics provide?
+    description: >
+      Conductrics offers two hosting models: (1) Fully-hosted dedicated servers 
+      where each customer receives their own dedicated environment with choice 
+      of geo-region and cloud provider, or (2) Optional self-hosting where 
+      customers can host the JavaScript file containing tests and surveys, 
+      or self-host the REST API for complete control. Self-hosting facilitates 
+      compliance with strict Content-Security-Policies and reduces reliance 
+      on third-party scripts.
+  - title: How does Conductrics protect customer data privacy?
+    description: >
+      Conductrics employs privacy-by-design architecture that stores only the 
+      minimum information required to run A/B tests and projects. For testing 
+      and predictions, only aggregated reporting data is retained without 
+      storing IP addresses or Customer IDs. For surveys, customers can bring 
+      their own database to store individual responses, maintaining direct 
+      control over survey data under their internal governance practices.
+  - title: Is customer data co-mingled with other customers' data?
+    description: >
+      No. Each Conductrics customer receives their own dedicated environment. 
+      Data is never co-mingled or stored with other companies' data. This 
+      dedicated architecture ensures logical and physical separation of 
+      customer data across the platform.
+  - title: What deployment controls are available?
+    description: >
+      Conductrics provides Deploy Targets to separate staging and production 
+      environments. Deploy targets can be assigned to specific teams for 
+      controlled rollouts. Customers can optionally require separate 2FA/MFA 
+      authentication specifically for deploying to production, adding an 
+      additional security layer for production changes.
+  - title: What access management features are supported?
+    description: >
+      Conductrics supports team-based organization with role-based access 
+      controls. Users can be granted different permission levels: view-only 
+      access to reports, ability to set up tests, or permission to deploy 
+      to production. Two-Factor Authentication (TOTP 2FA/MFA) is supported, 
+      with optional requirement for 2FA during production deployment. 
+      SSO via SAML is also supported for enterprise authentication integration.
+  - title: Does Conductrics have security certifications?
+    description: >
+      Conductrics does not publicly list traditional security certifications 
+      such as ISO 27001, SOC 2, or other compliance frameworks. The company 
+      does not maintain a traditional Trust Center. Customers requiring 
+      detailed security documentation or compliance information should 
+      contact Conductrics directly at info@conductrics.com to discuss 
+      their specific requirements.
+  - title: What QA and testing features are available?
+    description: >
+      Conductrics provides QA-Only Mode to keep new tests private until 
+      ready for launch. Preview Links can be shared with other teams or 
+      agencies to review progress. During QA, specific variations can be 
+      pre-selected for testing, and detailed logs are available to verify 
+      correct behavior before production deployment.
+  - title: What notification and alerting capabilities exist?
+    description: >
+      Conductrics supports notifications via Email, Slack, or Google Chat. 
+      Notifications include alerts when tests and surveys are started, 
+      stopped, or promoted to production. Team members can subscribe to 
+      daily updates about test progress. The platform also provides heads-up 
+      alerts about Sample Ratio Mismatch (SRM) and other potential issues.
+keySignals:
+  - signal: limited-public-security-documentation
+    isRisk: true
+  - signal: data-residency-options
+    isRisk: false
+  - signal: data-separation-controls
+    isRisk: false
+  - signal: enterprise-access-management
+    isRisk: false
+status: draft
+---
+
