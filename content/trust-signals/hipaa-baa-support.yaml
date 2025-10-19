@@ -1,0 +1,15 @@
+name: HIPAA Business Associate Agreement (BAA) Support
+description: >-
+  Health Insurance Portability and Accountability Act compliance with Business 
+  Associate Agreement support for handling Protected Health Information (PHI) 
+  and electronic PHI (ePHI), implementing technical and organizational safeguards, 
+  breach notification procedures, and regulatory compliance for healthcare data.
+link: https://www.hhs.gov/hipaa/
+icon:
+  type: lucide
+  lucideIcon: heart-pulse
+type: resource
+category: certifications
+impact: data_and_privacy
+date: 2024-01-01
+

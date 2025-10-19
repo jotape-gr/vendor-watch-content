@@ -1,0 +1,15 @@
+name: PCI DSS Compliance
+description: >-
+  Payment Card Industry Data Security Standard certification validating secure 
+  handling of credit card information through third-party assessments covering 
+  network security, access controls, encryption, and monitoring requirements 
+  for protecting cardholder data.
+link: https://www.pcisecuritystandards.org/
+icon:
+  type: lucide
+  lucideIcon: credit-card
+type: resource
+category: certifications
+impact: data_and_privacy
+date: 2024-01-01
+
