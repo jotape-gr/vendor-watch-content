@@ -6,7 +6,7 @@ description: >-
 link: https://merge.dev/
 icon:
   type: lucide
-  lucideIcon: plug
+  lucideIcon: link
 type: subprocessor
 category: infrastructure_management
 impact: data_and_privacy

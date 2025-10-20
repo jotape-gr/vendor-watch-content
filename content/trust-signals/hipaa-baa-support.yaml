@@ -7,7 +7,7 @@ description: >-
 link: https://www.hhs.gov/hipaa/
 icon:
   type: lucide
-  lucideIcon: heart-pulse
+  lucideIcon: shield-check
 type: resource
 category: certifications
 impact: data_and_privacy

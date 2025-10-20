@@ -7,7 +7,7 @@ description: >-
 link:
 icon:
   type: lucide
-  lucideIcon: file-x
+  lucideIcon: x-circle
 type: threat
 category: other
 impact: organizational_security

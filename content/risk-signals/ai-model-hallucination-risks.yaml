@@ -6,7 +6,7 @@ description: >-
 link: https://openai.com/research/hallucinations
 icon:
   type: lucide
-  lucideIcon: brain
+  lucideIcon: alert-circle
 type: threat
 category: other
 impact: product_security
