@@ -1,0 +1,16 @@
+name: Nylas
+usage: |
+  Email and calendar API platform providing integration services for Microsoft Exchange, Google Workspace, and other email/calendar providers. Synchronizes email content, calendar events, and contact information for unified communication management.
+description: |
+  Medium risk due to extensive access to email and calendar data containing PII and sensitive business information. Implements OAuth-based authentication and encryption, but processes full email contents and calendar event details. Email synchronization increases data access scope. Consider data retention policies, access controls, and end-user consent mechanisms. Evaluate GDPR compliance for EU data processing and cross-border data transfer safeguards.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://www.nylas.com/security/
+  - label: Privacy Policy
+    url: https://www.nylas.com/privacy-policy/
+logo: null
+score: medium
+category: communication
+date: 2025-01-15
+

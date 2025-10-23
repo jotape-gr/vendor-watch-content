@@ -1,0 +1,16 @@
+name: 6sense
+usage: |
+  B2B account-based marketing and predictive analytics platform providing data enrichment, buyer intent signals, and account identification. Processes contact information, behavioral data, and firmographic details for sales and marketing intelligence.
+description: |
+  Medium risk due to extensive data enrichment and third-party data aggregation practices. Implements data processing controls but relies on external data sources that may include PII. Predictive analytics may process personal identifiers and behavioral patterns. Consider data accuracy, consent mechanisms, and data subject rights under GDPR. Evaluate data retention policies, access controls, and transparency regarding data sources and processing logic.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://6sense.com/security/
+  - label: Privacy Policy
+    url: https://6sense.com/privacy-policy/
+logo: null
+score: medium
+category: data_enrichment
+date: 2025-01-15
+

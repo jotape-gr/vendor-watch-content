@@ -1,0 +1,16 @@
+name: SparkPost
+usage: |
+  Email delivery platform (owned by MessageBird) providing transactional and marketing email infrastructure. Processes email content, recipient data, and delivery analytics for high-volume email sending.
+description: |
+  Medium risk due to email data processing and potential for sensitive information in email content. Implements encryption, authentication controls, and deliverability optimization. Email content may contain PII and confidential business information. Consider email content classification, data retention policies, and recipient consent mechanisms. Evaluate GDPR compliance requirements and data processing agreements for personal data handling.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://www.sparkpost.com/trust/
+  - label: Privacy Policy
+    url: https://www.sparkpost.com/privacy-policy/
+logo: null
+score: medium
+category: communication
+date: 2025-01-15
+

@@ -1,0 +1,16 @@
+name: New Relic
+usage: |
+  Application performance monitoring (APM) and observability platform. Collects application logs, performance metrics, error traces, and user session data for operational monitoring and troubleshooting.
+description: |
+  Low risk due to focus on operational telemetry and performance data. However, logs may incidentally capture PII such as user IDs, IP addresses, email addresses, or sensitive business data. Implements data retention controls and access management. Consider log scrubbing, data minimization practices, and retention policies. Evaluate compliance with GDPR and data residency requirements if logs contain personal information. Review access controls and audit logging capabilities.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://newrelic.com/security
+  - label: Privacy Policy
+    url: https://newrelic.com/termsandconditions/privacy
+logo: null
+score: low
+category: monitoring
+date: 2025-01-15
+

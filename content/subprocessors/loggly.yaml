@@ -1,0 +1,16 @@
+name: Loggly
+usage: |
+  Cloud-based log management and analysis platform (owned by SolarWinds). Aggregates, indexes, and analyzes application and system logs for troubleshooting, security monitoring, and operational insights.
+description: |
+  Low risk due to focus on log aggregation and analysis for operational purposes. However, logs may incidentally capture PII such as IP addresses, user identifiers, session tokens, or sensitive system information. Implements data retention and access controls. Consider log sanitization, data minimization, and retention policies to reduce privacy risks. Evaluate GDPR compliance for EU log data and data residency requirements. Review access controls and encryption for log data at rest and in transit.
+country: United States
+urls:
+  - label: Security Documentation
+    url: https://www.loggly.com/docs/security/
+  - label: Privacy Policy
+    url: https://www.solarwinds.com/legal/privacy
+logo: null
+score: low
+category: monitoring
+date: 2025-01-15
+

@@ -1,0 +1,487 @@
+---
+name: Drift
+shortDescription: >
+  Conversational AI marketing platform acquired by Salesloft in 2024, with ISO 27001,
+  ISO 27701, and SOC 2 Type II certifications plus CREST-certified penetration testing.
+  Critical August 2025 breach compromised 700+ organizations via integration exploits.
+  Chat platform risks include potential data exposure through conversations and visitor
+  privacy awareness considerations requiring proper implementation controls.
+categories:
+  - marketing-automation
+  - ai-assistant
+  - collaboration
+  - customer-service
+riskScore: high
+logo: /images/vendors/logo_drift.png
+trustSignalItems:
+  - signal: iso-27001-2022
+    description: >
+      Third-party audited ISO/IEC 27001:2022 certification by Schellman validating
+      comprehensive information security management system with annual surveillance
+      audits. Certificate published June 2025 covering Salesloft+Drift platforms
+      with Statement of Applicability detailing 114 security controls.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: true
+  - signal: iso-27701-2019
+    description: >
+      ISO/IEC 27701:2019 Privacy Information Management System certification
+      demonstrating compliance with privacy management requirements. Third-party
+      audited by Schellman with Statement of Applicability published June 2025
+      covering personal data processing controls.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: true
+  - signal: soc-2-type-ii
+    description: >
+      Annual SOC 2 Type 2 attestation report validating security, availability, and
+      confidentiality controls through independent assessment. 2024 report published
+      June 2025 with bridge letter extending coverage through July 2025 until new
+      2025 report availability.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: true
+  - signal: third-party-penetration-testing
+    description: >
+      Annual third-party penetration testing performed by CREST-certified vendor
+      following OWASP methodology. 2024-2025 Letter of Assessment published June
+      2025 covering Drift platform web application, mobile app, and infrastructure
+      security assessments.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: true
+  - signal: bug-bounty-program
+    description: >
+      Active bug bounty program operated through HackerOne platform enabling
+      independent security researchers to identify and responsibly disclose
+      vulnerabilities. Program includes ongoing security testing with defined
+      scope, submission guidelines, and response expectations.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: responsible-disclosure-policy
+    description: >
+      Formal Vulnerability Disclosure Program (VDP) allowing responsible disclosure
+      of security vulnerabilities with clear submission process and response
+      timelines. Policy establishes coordinated vulnerability management approach
+      for security researchers.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: csa-caiq
+    description: >
+      Cloud Security Alliance Consensus Assessment Initiative Questionnaire (CAIQ)
+      v4.0.2 self-assessment completed February 2025. Published in Trust Portal
+      demonstrating alignment with CSA security best practices for cloud service
+      providers.
+    link: https://trust.salesloft.com/
+    date: 2025-02-28
+    showInFeed: false
+  - signal: information-security-policy
+    description: >
+      Comprehensive Information Security Policy (POL-200) establishing governance
+      framework for security objectives, risk management, and mandatory controls
+      across organizational functions. Policy updated June 2025 incorporating
+      defense-in-depth approach and ISO 27001 alignment.
+    link: https://trust.salesloft.com/
+    date: 2025-06-05
+    showInFeed: false
+  - signal: privacy-policy
+    description: >
+      Detailed privacy framework including Privacy Notice, Platform Privacy Notice,
+      and Data Privacy Framework Privacy Notice covering GDPR, CCPA/CPRA compliance.
+      Outlines data collection, processing, security measures, and data subject
+      rights with DPF certification for EU-US transfers.
+    link: https://www.salesloft.com/legal/privacy-policies
+    date: 2025-01-01
+    showInFeed: false
+  - signal: data-processing-agreement
+    description: >
+      Comprehensive Data Processing Addendum (DPA) establishing Salesloft's
+      obligations as processor of personal data under GDPR, CCPA/CPRA, and
+      applicable privacy regulations. Includes Standard Contractual Clauses
+      for international transfers and data subject rights.
+    link: https://salesloft.com/legal/data-processing-addendum/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: data-protection-officer
+    description: >
+      Designated Data Protection Officer (DPO) with formal policy (PRIV-004)
+      establishing DPO responsibilities for GDPR compliance, privacy program
+      oversight, and data subject request management. Updated June 2025 with
+      privacy governance framework.
+    link: https://trust.salesloft.com/
+    date: 2025-06-05
+    showInFeed: false
+  - signal: incident-response-policy
+    description: >
+      Dedicated incident response team with formal Incident Response Standard
+      (STND-206) defining detection, analysis, containment, and recovery
+      procedures. Includes security breach notification protocols and escalation
+      processes updated June 2025.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: false
+  - signal: business-continuity-policy
+    description: >
+      Formal Business-Continuity and Disaster-Recovery Policy (POL-400) with
+      geographically diverse teams ensuring regional events don't disrupt critical
+      functions. All personnel can work remotely, effectively testing BC
+      capabilities continuously.
+    link: https://trust.salesloft.com/
+    date: 2025-06-05
+    showInFeed: false
+  - signal: disaster-recovery-policy-plan
+    description: >
+      High-availability architecture utilizing multi-AZ configuration with
+      near-real-time data replication across data centers. Recovery Point
+      Objective (RPO) of 60 minutes or less with automated CI/CD deployment
+      enabling transparent disaster recovery.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: tls-encryption-transit
+    description: >
+      All connections use HTTPS/TLS encryption with support for TLS 1.2 and
+      higher protocols. Qualys SSL Labs testing available for accounts.salesloft.com,
+      app.salesloft.com, start.drift.com, and app.drift.com demonstrating strong
+      cipher suite configurations.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: data-encryption-aes-256
+    description: >
+      Storage-layer encryption using AES-256-GCM for all customer data at rest
+      in addition to hardware-layer full-disk encryption from IaaS providers.
+      Application-layer encryption applied for select sensitive data elements
+      per Cryptographic Standard (STND-203).
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: web-application-firewall
+    description: >
+      Web Application Firewall (WAF) protecting against application-layer
+      vulnerabilities and attempted exploits. Integrated with DDoS protection
+      and cloud-native security tools from GCP and AWS infrastructure providers.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: security-information-event-management
+    description: >
+      SIEM solution with 24x7x365 monitoring by security vendor performing
+      Tier 1 triage and analysis. Critical alerts escalated to Salesloft Security
+      team with after-hours on-call rotation and automated escalations to
+      additional personnel.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: enterprise-access-management
+    description: >
+      Identity Provider/SSO solution enforcing multi-factor authentication (MFA),
+      device trust, and re-authentication requirements. Support for Okta, SAML,
+      Google OpenID Connect, Salesforce IDP, OneLogin, and Microsoft Azure
+      (Entra) integrations.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: production-access-restrictions
+    description: >
+      Zero-trust model with least-privilege access provisioning and segregation
+      of duties. Automated workflow from HRMS to IdP/SSO with role-based access
+      provisioning and automatic revocation upon job changes or termination.
+      Quarterly access reviews performed.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: data-residency-options
+    description: >
+      Salesloft platform offers US or EU hosting region choice with in-region
+      data residency maintained. Drift currently offers US hosting only. Each
+      region operates independently with geographic isolation: US (AWS us-east-1,
+      GCP us-central1), EU (GCP europe-west3 Frankfurt).
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: vulnerability-management
+    description: >
+      Vulnerability Management Standard (STND-208) establishing risk-based
+      prioritization and tracking through dispensation. Daily infrastructure
+      scanning with cloud-native security tools, EDR/XDR, PAM solution, and
+      automated alerting for identified vulnerabilities.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: false
+  - signal: security-awareness-training
+    description: >
+      Mandatory security and privacy awareness training during onboarding and
+      annually thereafter covering phishing, social engineering, confidentiality,
+      and GDPR. Automated phishing-test campaigns conducted monthly with
+      web-based training platform tracking completion.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: employee-background-checks
+    description: >
+      Background checks performed for all employees prior to onboarding including
+      employment/educational history verification and criminal checks as permitted
+      by jurisdiction. Credit checks performed for senior financial positions
+      with confidentiality agreements required.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: cybersecurity-insurance
+    description: >
+      Active cybersecurity insurance coverage with Certificate of Insurance
+      (COI) published in Trust Portal. 2025-26 insurance certificate updated
+      June 2025 providing financial protection against security incidents and
+      data breach liability.
+    link: https://trust.salesloft.com/
+    date: 2025-06-06
+    showInFeed: false
+  - signal: data-retention-controls
+    description: >
+      Self-service data retention with customer-controlled deletion through UI,
+      APIs, or CRM synchronization rules. Conversations recordings retention
+      configurable by customers. 30-day post-termination retention period before
+      automatic data deletion per Master Subscription Agreement.
+    link: https://trust.salesloft.com/
+    date: 2025-01-01
+    showInFeed: false
+  - signal: acceptable-use-policy
+    description: >
+      Acceptable-Use Standard (STND-300) defining prohibited uses of platforms
+      and services including illegal, harmful, or offensive activities. Policy
+      protects platform integrity and user security with enforcement mechanisms
+      for violations.
+    link: https://www.salesloft.com/legal/drift/drift-acceptable-use-policy
+    date: 2025-06-06
+    showInFeed: false
+riskSignalItems:
+  - signal: third-party-integration-vulnerabilities
+    description: >
+      August 2025 critical security breach where financially motivated threat
+      group exploited Drift platform integrations to access connected systems,
+      potentially compromising over 700 organizations including Cloudflare, Zscaler,
+      and Palo Alto Networks. Attackers compromised OAuth tokens through Salesforce
+      integration. Salesloft recommended all Drift customers revoke and rotate
+      existing API keys and engaged cybersecurity firms for forensic investigation.
+    link: https://therecord.media/salesloft-drift-breach-cloudflare-zscaler-palo-alto-networks
+    date: 2025-08-01
+    severity: critical
+    showInFeed: true
+  - signal: collaborative-content-exposure
+    description: >
+      Drift chat conversations may inadvertently expose sensitive business information
+      if users share confidential data, financial details, or internal communications
+      through chat widgets. Platform's ease of engagement requires proper user training
+      and data classification awareness to prevent unintended disclosure of proprietary
+      information through conversational interactions.
+    link: https://help.salesloft.com/s/article/Drift-s-Cookie-Security-and-Privacy-Policy
+    date: 2025-01-01
+    severity: medium
+    showInFeed: true
+  - signal: user-awareness-deficiencies
+    description: >
+      Website visitors engaging with Drift chat widgets may not fully understand
+      data collection practices, cookie deployment, or how conversation data is
+      processed and stored. Drift's Wiretapping FAQ addresses compliance concerns,
+      but customer implementation requires clear privacy notices and consent
+      mechanisms to ensure visitor awareness.
+    link: https://www.salesloft.com/legal/drift/wiretapping-faq
+    date: 2025-01-01
+    severity: low
+    showInFeed: false
+  - signal: data-training-privacy-risks
+    description: >
+      While Drift contractually prohibits third-party AI providers from using
+      customer data for model training, the platform's AI-powered chat features
+      process sensitive conversation content. Customers must understand data flows
+      to AI processors (GCP, AWS, Microsoft) and ensure compliance with privacy
+      regulations for chat data handling.
+    link: https://trust.salesloft.com/
+    date: 2024-11-20
+    severity: low
+    showInFeed: false
+subprocessorItems:
+  - subprocessor: amazon-web-services-aws
+    vendorCountry: United States (us-east-1 Virginia)
+    notes: >
+      Primary IaaS hosting provider for all Drift platform services and data
+      storage. Provides compute, storage, database, and AI infrastructure with
+      multi-AZ high-availability configuration for resiliency and near-real-time
+      data replication.
+    links: []
+    date: 2025-08-04
+  - subprocessor: google-cloud-platform-gcp
+    vendorCountry: United States
+    notes: >
+      AI processing infrastructure provider for Drift platform artificial intelligence
+      features. Supports transcription services, natural language processing, and
+      machine learning capabilities with enterprise security controls.
+    links: []
+    date: 2024-11-20
+  - subprocessor: snowflake
+    vendorCountry: United States
+    notes: >
+      Data warehouse and analytics platform processing all subject information
+      for Drift platform. Provides data analytics capabilities with enterprise
+      security, encryption, and compliance controls. Added as subprocessor
+      August 2025.
+    links: []
+    date: 2025-08-04
+  - subprocessor: sendgrid
+    vendorCountry: United States
+    notes: >
+      Email delivery service provider for Drift platform handling email notifications
+      and communications. Processes contact information and email content with
+      enterprise-grade delivery infrastructure and security controls.
+    links: []
+    date: 2024-06-28
+  - subprocessor: sparkpost
+    vendorCountry: United States
+    notes: >
+      Email delivery service provider (MessageBird) for Drift platform handling
+      email exchange contents. Provides reliable email delivery infrastructure
+      with monitoring and analytics capabilities for platform communications.
+    links: []
+    date: 2024-06-28
+  - subprocessor: microsoft-openai
+    vendorCountry: United States
+    notes: >
+      Azure OpenAI Service providing large language model capabilities for Drift
+      AI-powered features. Third-party AI processor with contractual prohibitions
+      against using customer data for model training. Customer data anonymized
+      and de-identified per DPA requirements.
+    links: []
+    date: 2024-11-20
+  - subprocessor: loggly
+    vendorCountry: United States
+    notes: >
+      SolarWinds Loggly service providing log aggregation and analysis capabilities.
+      Processes subject information captured in system logs for operational
+      monitoring, troubleshooting, and security analysis purposes.
+    links: []
+    date: 2024-06-28
+  - subprocessor: new-relic
+    vendorCountry: United States
+    notes: >
+      Operational monitoring platform for Drift Video services. Incidentally
+      captures subject information through logging and monitoring activities
+      to ensure service performance, availability, and reliability.
+    links: []
+    date: 2024-06-28
+  - subprocessor: 6sense
+    vendorCountry: United States
+    notes: >
+      Data enrichment service for Drift Intel feature processing contact
+      information and identifiers. Provides account intelligence and visitor
+      identification capabilities to enhance lead qualification and sales
+      intelligence workflows.
+    links: []
+    date: 2024-06-28
+faqs:
+  - title: What is Drift and how does it relate to Salesloft?
+    description: >
+      Drift is a conversational AI marketing and sales platform that was acquired
+      by Salesloft in February 2024. Drift provides AI-powered chatbots and live
+      chat capabilities to convert website visitors into qualified leads. The
+      platform is now part of Salesloft's unified Revenue Orchestration Platform,
+      combining conversational marketing with sales engagement capabilities.
+  - title: What certifications does Drift have?
+    description: >
+      Drift (as part of Salesloft) maintains ISO/IEC 27001:2022 and ISO/IEC 27701:2019
+      certifications audited by Schellman, with certificates published in June 2025.
+      The platform also has SOC 2 Type 2 attestation reports covering security,
+      availability, and confidentiality controls. Third-party penetration testing
+      is performed annually by CREST-certified vendors following OWASP methodology.
+  - title: Where is Drift data hosted?
+    description: >
+      Drift platform currently offers hosting only in the United States, specifically
+      in AWS us-east-1 (Virginia) region. Each hosting region operates independently
+      with in-region data residency maintained by Drift and all applicable sub-processors.
+      The infrastructure utilizes multi-AZ high-availability configuration with
+      near-real-time data replication across data centers.
+  - title: Does Drift use customer data to train AI models?
+    description: >
+      No. Drift does not permit third-party AI providers to use customer data to
+      train or improve their models or services. For each third-party provider,
+      Salesloft has contractually prohibited such use of customer data. When customer
+      data is used for proprietary model development, it is completely anonymized
+      and de-identified with all names and references to customers, users, prospects,
+      and brands removed per the Data Processing Addendum requirements.
+  - title: What happened in the August 2025 security breach?
+    description: >
+      In August 2025, Drift experienced a critical security breach where a financially
+      motivated threat group exploited Drift platform integrations to access connected
+      systems, potentially affecting over 700 organizations. The breach was initially
+      believed to impact only Salesforce-integrated customers but was later found
+      to affect a broad array of third-party integrations. Salesloft recommended
+      all Drift customers revoke and rotate existing API keys and engaged cybersecurity
+      firms to investigate the full extent of the breach.
+  - title: How does Drift handle data retention and deletion?
+    description: >
+      Drift provides self-service data retention controls where customers determine
+      retention periods and can delete data through the UI, APIs, or CRM synchronization
+      rules. All customer data is retained while the service is active unless the
+      customer provides deletion instructions. Upon service termination, Drift may
+      retain customer data for 30 days to allow for service resumption or data
+      exports, after which the data is deleted as outlined in the Master Subscription
+      Agreement.
+  - title: What encryption does Drift use?
+    description: >
+      Drift employs storage-layer encryption using AES-256-GCM for all customer
+      data at rest, in addition to hardware-layer full-disk encryption from IaaS
+      providers. All connections use HTTPS/TLS encryption with support for TLS 1.2
+      and higher protocols. Application-layer encryption is applied for select
+      sensitive data elements per the Cryptographic Standard (STND-203).
+  - title: Does Drift support GDPR and other privacy regulations?
+    description: >
+      Yes. Drift processes personal data in accordance with GDPR, CCPA/CPRA, and
+      other applicable privacy regulations. As a processor, Drift operates under
+      a comprehensive Data Processing Addendum (DPA) with Standard Contractual
+      Clauses for international transfers. Drift maintains a designated Data
+      Protection Officer (DPO) and has achieved ISO 27701:2019 certification for
+      privacy information management.
+  - title: What integrations does Drift offer?
+    description: >
+      Drift offers 40+ standard integrations with CRM systems (Salesforce, HubSpot),
+      marketing automation platforms, analytics tools, communications platforms,
+      enrichment services, and support documentation repositories. Integration
+      capabilities include bi-directional data synchronization and API access
+      for custom integrations. Refer to the Salesloft Marketplace for the complete
+      list of available integrations.
+  - title: How can I report a security vulnerability in Drift?
+    description: >
+      Drift operates both a bug bounty program through HackerOne and a Vulnerability
+      Disclosure Program (VDP) that allows responsible disclosure of security
+      vulnerabilities. Security incidents or concerns can be reported to Salesloft
+      Customer Support via https://help.salesloft.com/s/contactsupport or
+      support@salesloft.com, and Support will direct the request to the appropriate
+      security team.
+  - title: What are the privacy risks with Drift chat widgets?
+    description: >
+      Drift chat widgets collect visitor data including conversation content, cookies,
+      and tracking information. Key privacy considerations include: (1) Website visitors
+      may share sensitive business information through chat conversations that becomes
+      stored in Drift's platform, (2) Cookie deployment and data collection require
+      proper consent mechanisms and privacy notices per GDPR and other regulations,
+      (3) Chat data is processed by AI subprocessors (GCP, AWS, Microsoft) for
+      conversational features. Organizations should implement clear privacy disclosures,
+      user training on data sharing, and review Drift's Wiretapping FAQ and Cookie
+      Policy for compliance requirements.
+keySignals:
+  - signal: third-party-integration-vulnerabilities
+    isRisk: true
+  - signal: collaborative-content-exposure
+    isRisk: true
+  - signal: iso-27001-2022
+    isRisk: false
+  - signal: soc-2-type-ii
+    isRisk: false
+  - signal: third-party-penetration-testing
+    isRisk: false
+status: published
+reviewType: ai
+lastReviewedAt: 2025-10-23
+---
+
