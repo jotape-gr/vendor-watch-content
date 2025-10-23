@@ -1,4 +1,4 @@
-name: Mailgun Technologies
+name: Mailgun
 usage: |
   Email delivery service for transactional email infrastructure. Provides email API services with sending, receiving, tracking, and analytics capabilities for application emails and notifications.
 description: |

@@ -1,4 +1,4 @@
-name: AtData, LLC
+name: AtData
 usage: |
   Email validation service providing email address verification and validation. Ensures email deliverability and data quality by validating email addresses in real-time against multiple data sources.
 description: |
