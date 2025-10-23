@@ -273,7 +273,7 @@ riskSignalItems:
     link: https://advisory.splunk.com/advisories
     date: 2025-01-01
     severity: low
-    showInFeed: false
+    showInFeed: true
   - signal: deserialization-vulnerabilities
     description: >
       CVE-2024-23678: High-severity unsafe deserialization vulnerability in Splunk Enterprise 
@@ -302,7 +302,7 @@ riskSignalItems:
     link: https://advisory.splunk.com/advisories
     date: 2025-06-01
     severity: medium
-    showInFeed: false
+    showInFeed: true
 subprocessorItems:
   - subprocessor: amazon-web-services-aws
     vendorCountry: Worldwide
@@ -398,10 +398,10 @@ keySignals:
     isRisk: false
   - signal: fedramp-moderate
     isRisk: false
-  - signal: third-party-penetration-testing
-    isRisk: false
-  - signal: responsible-disclosure-policy
-    isRisk: false
+  - signal: third-party-integration-vulnerabilities
+    isRisk: true
+  - signal: software-vulnerability-disclosures
+    isRisk: true
 status: published
 reviewType: ai
 lastReviewedAt: 2025-10-23
