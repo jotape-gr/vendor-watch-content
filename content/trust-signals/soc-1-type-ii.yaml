@@ -1,0 +1,15 @@
+name: SOC 1 Type II Report
+description: >-
+  Service Organization Control 1 Type II report providing independent assurance on 
+  controls at a service organization relevant to user entities' internal control over 
+  financial reporting, with testing of operating effectiveness over a period of time 
+  (typically 6-12 months) for ICFR compliance.
+link: https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-1
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security
+date: 2024-01-01
+

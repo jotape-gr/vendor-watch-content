@@ -1,0 +1,15 @@
+name: FedRAMP Moderate Authorization
+description: >-
+  Federal Risk and Authorization Management Program Moderate baseline authorization 
+  validating cloud security controls for federal agencies through third-party assessment 
+  covering NIST 800-53 moderate impact controls for cloud service providers serving 
+  U.S. government agencies.
+link: https://www.fedramp.gov/
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security
+date: 2024-01-01
+

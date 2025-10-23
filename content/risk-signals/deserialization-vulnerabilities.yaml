@@ -1,0 +1,15 @@
+name: Deserialization Vulnerabilities
+description: >-
+  Security risks from unsafe deserialization of untrusted data allowing potential remote 
+  code execution or privilege escalation. Deserialization vulnerabilities require immediate 
+  patching and input validation controls to prevent exploitation through malicious data 
+  payloads.
+link: 
+icon:
+  type: lucide
+  lucideIcon: alert-triangle
+type: vulnerability
+category: vulnerability_disclosure
+impact: product_security
+date: 2024-01-01
+

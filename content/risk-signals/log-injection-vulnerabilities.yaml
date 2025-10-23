@@ -1,0 +1,15 @@
+name: Log Injection Vulnerabilities
+description: >-
+  Security vulnerabilities allowing injection of malicious content into application logs 
+  or audit trails, potentially enabling code execution, log tampering, or security monitoring 
+  evasion. Log injection risks require input sanitization, output encoding, and secure log 
+  handling practices.
+link: 
+icon:
+  type: lucide
+  lucideIcon: file-text
+type: vulnerability
+category: vulnerability_disclosure
+impact: infrastructure_security
+date: 2024-01-01
+

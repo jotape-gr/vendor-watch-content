@@ -1,0 +1,15 @@
+name: TX-RAMP Level 2 Authorization
+description: >-
+  Texas Risk and Authorization Management Program Level 2 authorization validating 
+  cloud security controls for Texas state agencies through independent third-party 
+  assessment covering security, privacy, and compliance requirements for cloud service 
+  providers serving Texas government entities.
+link: https://dir.texas.gov/tx-ramp
+icon:
+  type: lucide
+  lucideIcon: shield-check
+type: resource
+category: certifications
+impact: organizational_security
+date: 2024-01-01
+
