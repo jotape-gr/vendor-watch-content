@@ -1,0 +1,11 @@
+name: Legal & Compliance Review
+description: >-
+  Independent legal assessment conducted by CIPP/E certified attorney validating data protection principles, DPA compliance, data processing activities, breach notification obligations, data subject request handling, and regulatory alignment with privacy frameworks.
+link: https://app.comply.org
+icon:
+  type: lucide
+  lucideIcon: scale
+type: resource
+category: third_party_assessments
+impact: data_and_privacy
+

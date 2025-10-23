@@ -1,0 +1,11 @@
+name: Technical Security Review
+description: >-
+  Independent technical assessment conducted by CIPT certified privacy engineer validating security measures, technical controls, architecture security, subprocessor management, auditing capabilities, and implementation of security best practices across infrastructure and operations.
+link: https://app.comply.org
+icon:
+  type: lucide
+  lucideIcon: laptop
+type: resource
+category: third_party_assessments
+impact: organizational_security
+
