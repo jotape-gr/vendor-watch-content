@@ -1,0 +1,17 @@
+name: Consent Management Class Action Settlement
+description: >-
+  Class action lawsuit settlement for alleged unauthorized use of consumer information
+  to promote subscription databases without obtaining proper consent. Involves collection
+  and marketing use of business contact data including names, contact details, job titles,
+  workplaces, and education histories without explicit consumer authorization.
+link: https://myemail.constantcontact.com/subject.html?aid=PvlHFSkcXMs&soid=1131618242334
+icon:
+  type: lucide
+  lucideIcon: alert-triangle
+type: regulatory
+category: fine
+impact: data_and_privacy
+severity: low
+status: resolved
+date: 2025-01-01
+
