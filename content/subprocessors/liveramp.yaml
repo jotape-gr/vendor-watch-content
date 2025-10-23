@@ -1,0 +1,20 @@
+name: LiveRamp
+usage: |
+  Data activation platform enabling identity resolution and data connectivity across marketing technology platforms. Facilitates secure data sharing, identity matching, and activation for marketing campaigns.
+description: |
+  Medium to high risk due to extensive personal data processing for identity resolution and cross-platform matching. Processes personally identifiable information including email addresses, device IDs, and behavioral data for identity graph creation. Requires careful consideration of data minimization principles and user consent management. Evaluate data retention policies and cross-border data transfers. Assess privacy-enhancing technologies and data protection measures. Consider GDPR, CCPA, and other privacy law compliance implications.
+country: United States
+urls:
+  - label: LiveRamp Website
+    url: https://liveramp.com/
+  - label: Privacy & Trust
+    url: https://liveramp.com/privacy/
+  - label: Data Ethics
+    url: https://liveramp.com/data-ethics/
+  - label: Security Documentation
+    url: https://liveramp.com/security/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15
+

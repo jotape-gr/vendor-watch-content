@@ -1,0 +1,18 @@
+name: Caylent, Inc.
+usage: |
+  Cloud services provider offering cloud infrastructure consulting and managed services. Supports cloud architecture, migration, optimization, and operations management across multiple cloud platforms.
+description: |
+  Medium risk due to elevated access requirements for cloud infrastructure management and consulting services. Requires privileged access to cloud environments and infrastructure components. Consider access controls, audit logging, and separation of duties for managed services. Evaluate data residency implications and cross-border access patterns. Assess incident response procedures and security operations capabilities.
+country: Argentina, Brazil, Canada, United States
+urls:
+  - label: Caylent Website
+    url: https://www.caylent.com/
+  - label: Cloud Services
+    url: https://www.caylent.com/services
+  - label: Security & Compliance
+    url: https://www.caylent.com/security
+logo: null
+score: medium
+category: infrastructure
+date: 2024-01-15
+

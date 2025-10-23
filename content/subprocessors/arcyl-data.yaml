@@ -1,0 +1,16 @@
+name: Arcyl Data
+usage: |
+  Data catalog services for organizing and managing metadata across enterprise data infrastructure. Provides data discovery, governance, and cataloging capabilities for structured and unstructured data assets.
+description: |
+  Low to medium risk depending on data classification and sensitivity. Data cataloging requires access to metadata about data assets, database schemas, and potentially data samples. Consider access controls for catalog data and metadata classification. Evaluate data lineage tracking capabilities and audit logging. Assess data residency requirements for catalog metadata storage.
+country: Germany, United States
+urls:
+  - label: Company Website
+    url: https://www.arcyl.com/
+  - label: Data Catalog Documentation
+    url: https://www.arcyl.com/data-catalog
+logo: null
+score: medium
+category: data_storage
+date: 2024-01-15
+

@@ -1,0 +1,20 @@
+name: Box, Inc.
+usage: |
+  Cloud storage platform for file storage and document management. Provides secure cloud-based content storage, collaboration features, and enterprise file sharing capabilities.
+description: |
+  Low risk due to strong security controls and comprehensive compliance certifications (SOC 2, ISO 27001, FedRAMP). Implements encryption at rest and in transit, granular access controls, and extensive audit logging. Consider data classification and content controls for sensitive documents. Evaluate data residency requirements and cross-border transfer implications. Assess collaboration features and external sharing controls.
+country: United States
+urls:
+  - label: Box Trust Center
+    url: https://www.box.com/security
+  - label: Security Documentation
+    url: https://www.box.com/security/data-security
+  - label: Privacy Policy
+    url: https://www.box.com/legal/privacy-policy
+  - label: Compliance & Certifications
+    url: https://www.box.com/security/compliance
+logo: null
+score: low
+category: data_storage
+date: 2024-01-15
+

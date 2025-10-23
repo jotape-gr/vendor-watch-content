@@ -1,0 +1,20 @@
+name: Fullstory, Inc.
+usage: |
+  Product analytics platform providing session replay, user behavior analysis, and digital experience insights. Captures and analyzes user interactions for product optimization and UX improvements.
+description: |
+  Medium to high risk due to comprehensive session recording and user interaction tracking. Captures detailed user behavior including clicks, keystrokes, form inputs, and navigation patterns. Risk of capturing sensitive data in session recordings if not properly configured. Requires careful data masking configuration for PII, payment data, and sensitive form fields. Evaluate data retention policies and session replay access controls. Consider GDPR and privacy law implications for session recording.
+country: United States
+urls:
+  - label: Fullstory Website
+    url: https://www.fullstory.com/
+  - label: Security & Privacy
+    url: https://www.fullstory.com/legal/security/
+  - label: Privacy Policy
+    url: https://www.fullstory.com/legal/privacy-policy/
+  - label: GDPR Compliance
+    url: https://www.fullstory.com/gdpr/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15
+

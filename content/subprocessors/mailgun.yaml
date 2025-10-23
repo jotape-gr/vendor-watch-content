@@ -1,0 +1,20 @@
+name: Mailgun Technologies
+usage: |
+  Email delivery service for transactional email infrastructure. Provides email API services with sending, receiving, tracking, and analytics capabilities for application emails and notifications.
+description: |
+  Low to medium risk depending on email content sensitivity. Transactional email service processes email addresses, message content, and delivery metadata. Limited data retention for bounce handling and delivery tracking reduces risk exposure. Consider email content classification and encryption requirements. Evaluate data residency options and cross-border data transfers. Assess API security, authentication mechanisms, and rate limiting controls. Review email validation and deliverability features.
+country: United States
+urls:
+  - label: Mailgun Website
+    url: https://www.mailgun.com/
+  - label: Security & Compliance
+    url: https://www.mailgun.com/legal/security/
+  - label: Privacy Policy
+    url: https://www.mailgun.com/legal/privacy-policy/
+  - label: GDPR Compliance
+    url: https://www.mailgun.com/gdpr/
+logo: null
+score: medium
+category: communication
+date: 2024-01-15
+

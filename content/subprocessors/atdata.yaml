@@ -1,0 +1,20 @@
+name: AtData, LLC
+usage: |
+  Email validation service providing email address verification and validation. Ensures email deliverability and data quality by validating email addresses in real-time against multiple data sources.
+description: |
+  Low to medium risk depending on volume and frequency of email validation. Processes email addresses for verification which may constitute personal data under privacy regulations. Limited data retention and processing scope reduces risk exposure. Consider data transfer implications and third-party data sharing practices. Evaluate validation data accuracy and false positive rates. Assess API security and rate limiting controls.
+country: United States
+urls:
+  - label: AtData Website
+    url: https://www.atdata.com/
+  - label: Email Validation Services
+    url: https://www.atdata.com/email-validation/
+  - label: Security & Privacy
+    url: https://www.atdata.com/security/
+  - label: Privacy Policy
+    url: https://www.atdata.com/privacy-policy/
+logo: null
+score: medium
+category: communication
+date: 2024-01-15
+

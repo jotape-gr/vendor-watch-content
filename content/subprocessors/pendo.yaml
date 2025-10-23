@@ -1,0 +1,20 @@
+name: Pendo.io, Inc.
+usage: |
+  AI support and services platform for product analytics and user guidance. Provides in-app messaging, product usage analytics, feature adoption tracking, and AI-powered product insights.
+description: |
+  Medium risk due to comprehensive product usage tracking and user behavior analysis. Captures detailed user interactions, feature usage patterns, and application navigation data. Potential for capturing sensitive business data through usage analytics. Requires careful data classification and privacy controls for user tracking. Consider data retention policies and analytics data access controls. Evaluate AI model training practices and data usage policies. Assess GDPR and privacy law compliance for behavioral tracking.
+country: United States
+urls:
+  - label: Pendo Website
+    url: https://www.pendo.io/
+  - label: Security & Privacy
+    url: https://www.pendo.io/legal/security/
+  - label: Privacy Policy
+    url: https://www.pendo.io/legal/privacy-policy/
+  - label: Trust Center
+    url: https://www.pendo.io/trust/
+logo: null
+score: medium
+category: analytics
+date: 2024-01-15
+
