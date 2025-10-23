@@ -1,0 +1,18 @@
+name: MuleSoft
+usage: |
+  Integration and API management platform providing connectivity, configuration management, 
+  and data integration services for enterprise applications and cloud services.
+description: |
+  Enterprise integration platform (Salesforce company) with comprehensive security controls 
+  and compliance certifications. Provides API-led connectivity with built-in security, 
+  governance, and monitoring capabilities. Low risk due to Salesforce enterprise security 
+  infrastructure and extensive compliance coverage.
+country: United States
+urls:
+  - label: MuleSoft Security
+    url: https://www.mulesoft.com/platform/security
+logo: null
+score: low
+category: data-integration
+date: 2025-10-23
+

@@ -1,0 +1,18 @@
+name: Microsoft OpenAI (Azure OpenAI Service)
+usage: |
+  AI infrastructure providing large language model capabilities through Azure OpenAI Service 
+  for AI-powered features, intelligent assistants, and natural language processing functionality.
+description: |
+  Enterprise AI service offering OpenAI models (GPT-4, GPT-3.5) through Microsoft Azure 
+  infrastructure with enterprise security, compliance, and data residency controls. Features 
+  SOC 2, ISO 27001, HIPAA, and regional data processing options. Medium risk due to AI model 
+  data processing scope requiring careful prompt engineering and data classification.
+country: United States
+urls:
+  - label: Azure OpenAI Security
+    url: https://learn.microsoft.com/en-us/azure/ai-services/openai/
+logo: null
+score: medium
+category: ai-usage
+date: 2025-10-23
+

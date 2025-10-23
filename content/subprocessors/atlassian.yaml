@@ -1,0 +1,18 @@
+name: Atlassian
+usage: |
+  Collaboration and customer support platform providing issue tracking, knowledge management, 
+  and customer service tools (Jira Service Management, Confluence, Statuspage).
+description: |
+  Enterprise collaboration platform with SOC 2 Type II, ISO 27001, and ISO 27018 certifications. 
+  Implements comprehensive security controls with encryption, access management, and compliance 
+  frameworks. Low risk due to mature security practices and extensive enterprise deployment 
+  experience.
+country: United States
+urls:
+  - label: Atlassian Trust Center
+    url: https://www.atlassian.com/trust
+logo: null
+score: low
+category: collaboration
+date: 2025-10-23
+

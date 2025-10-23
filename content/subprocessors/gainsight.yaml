@@ -1,0 +1,18 @@
+name: Gainsight
+usage: |
+  Customer success platform providing customer service, support operations, analytics, 
+  and customer engagement management for SaaS businesses.
+description: |
+  Enterprise customer success platform with SOC 2 Type II certification and comprehensive 
+  data protection controls. Implements enterprise-grade security with encryption, access 
+  controls, and compliance frameworks. Medium risk due to customer data processing scope 
+  requiring proper configuration and access management.
+country: United States
+urls:
+  - label: Gainsight Security
+    url: https://www.gainsight.com/security/
+logo: null
+score: medium
+category: customer-service
+date: 2025-10-23
+

@@ -1,0 +1,18 @@
+name: HashiCorp
+usage: |
+  Infrastructure automation and security platform providing secrets management, infrastructure 
+  provisioning, service networking, and security policy enforcement for cloud infrastructure.
+description: |
+  Enterprise infrastructure automation platform with comprehensive security certifications 
+  including SOC 2 Type II and ISO 27001. Specializes in secrets management (Vault) and 
+  infrastructure as code (Terraform) with zero-trust security model. Low risk due to 
+  security-first design and extensive enterprise adoption.
+country: United States
+urls:
+  - label: HashiCorp Security
+    url: https://www.hashicorp.com/trust/security
+logo: null
+score: low
+category: infrastructure
+date: 2025-10-23
+
