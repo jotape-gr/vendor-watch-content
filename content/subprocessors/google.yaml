@@ -1,0 +1,16 @@
+name: Google
+usage: |
+  Email hosting and notification services for workspace invitations and system-generated emails. Provides reliable message delivery infrastructure with enterprise-grade uptime guarantees.
+description: |
+  Enterprise email infrastructure with comprehensive security controls and compliance certifications. Implements encryption in transit and at rest, spam filtering, and data loss prevention. Low risk due to mature security posture and extensive compliance coverage. Consider data residency requirements for email content and metadata.
+country: United States
+urls:
+  - label: Google Cloud Security
+    url: https://cloud.google.com/security
+  - label: Compliance Documentation
+    url: https://cloud.google.com/security/compliance
+logo: null
+score: low
+category: communication
+date: 2025-10-24
+
