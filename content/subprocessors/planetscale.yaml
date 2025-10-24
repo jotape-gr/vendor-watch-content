@@ -1,0 +1,8 @@
+name: PlanetScale
+usage: >-
+  Database storage and caching services for application data management
+description: >-
+  PlanetScale is a fully-managed MySQL database platform powered by Vitess, providing scalable database infrastructure for high-performance applications.
+category: database
+website: https://planetscale.com/
+
